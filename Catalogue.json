@@ -1,6 +1,6 @@
 [
     {
-    "texte": "Assistance & Pilotage - extraction",
+    "texte": "Assistance & Pilotage",
     "icon": "fa-solid fa-handshake-angle",
     "profil": ""
   },
@@ -18,55 +18,55 @@
 
 
   {
-    "icon": "fa-solid fa-gear",
-    "texte": "Outils collaboratifs"
+    "texte": "Outils collaboratifs",
+    "icon": "fa-solid fa-gear"
   },
 
   {
-    "icon": "fa-solid fa-laptop",
-    "texte": "Poste de travail"
+    "texte": "Poste de travail",
+    "icon": "fa-solid fa-laptop"
   },
     {
-    "icon": "fa-solid fa-people-arrows",
     "texte": "Ressources humaines",
+    "icon": "fa-solid fa-people-arrows",
     "profil": "2-3"
   },
     {
-    "icon": "fa-solid fa-notes-medical",
-    "texte": "Vie de campus"
+    "texte": "Vie de campus",
+    "icon": "fa-solid fa-notes-medical"
   },
   {
+    "texte": "Sécurité",
     "icon": "fa-solid fa-lock",
-    "profil": "",
-    "texte": "Sécurité"
+    "profil": ""
   },
 
   {
+    "texte": "DEMAT",
     "profil": "2-3",
-    "icon": "fa-solid fa-diagram-project",
-    "texte": "DEMAT"
+    "icon": "fa-solid fa-diagram-project"
   },
 
 
     {
+    "texte": "Communication",
     "icon": "fa-solid fa-comment",
-    "profil": "",
-    "texte": "Communication"
+    "profil": ""
   },
 
 
   {
-    "icon": "fa-solid fa-microscope",
     "texte": "Recherche",
+    "icon": "fa-solid fa-microscope",
     "profil": "2-3"
   },
     {
-    "icon": "fa-solid fa-graduation-cap",
-    "texte": "Pédagogie & scolarité"
+    "texte": "Pédagogie & scolarité",
+    "icon": "fa-solid fa-graduation-cap"
   },
   {
-    "icon": "fa-solid fa-calculator",
     "texte": "Finance & Patrimoine",
+    "icon": "fa-solid fa-calculator",
     "profil": "3"
   }
 ]
