@@ -1,0 +1,111 @@
+{
+  "profil": "",
+  "titre": "Ceci est un titre de page",
+  "sousArticle": [
+    {
+      "profil": "",
+      "titre": "",
+      "soustitre": "",
+      "paragraphe": "",
+      "souligne": "",
+      "italique": "",
+      "gras": "",
+      "quote": "",
+      "image": "",
+      "video": "",
+      "lien": {
+        "texte": "",
+        "url": ""
+      },
+      "lienDoc": {
+        "texte": "",
+        "url": ""
+      },
+      "contenu": [
+        {
+          "profil": "",
+          "titre": "",
+          "soustitre": "",
+          "paragraphe": "",
+          "souligne": "",
+          "italique": " ",
+          "gras": "",
+          "quote": "",
+          "image": "",
+          "video": "",
+          "lien": {
+            "texte": "",
+            "url": ""
+          },
+          "lienDoc": {
+            "texte": "",
+            "url": ""
+          }
+        },
+        {
+          "profil": "",
+          "titre": "",
+          "soustitre": "",
+          "paragraphe": "",
+
+          "souligne": "",
+          "italique": "",
+          "gras": "",
+          "quote": "",
+          "image": "",
+          "video": "",
+          "lien": {
+            "texte": "",
+            "url": ""
+          },
+          "lienDoc": {
+            "texte": "",
+            "url": ""
+          }
+        }
+      ]
+    },
+    {
+      "profil": "",
+      "titre": "",
+      "soustitre": "",
+      "paragraphe": "",
+      "souligne": "",
+      "italique": "",
+      "gras": "",
+      "quote": "",
+      "image": "",
+      "video": "",
+      "lien": {
+        "texte": "",
+        "url": ""
+      },
+      "lienDoc": {
+        "texte": "",
+        "url": ""
+      },
+      "contenu": [
+        {
+          "profil": "",
+          "titre": "",
+          "soustitre": "",
+          "paragraphe": "",
+          "souligne": "",
+          "italique": "",
+          "gras": "",
+          "quote": "",
+          "image": "",
+          "video": "",
+          "lien": {
+            "texte": "",
+            "url": ""
+          },
+          "lienDoc": {
+            "texte": "",
+            "url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

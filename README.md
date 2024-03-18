@@ -1,3 +1,27 @@
-### Catalogue des services de l'université de Nîmes ###
+# Catalogue & assistance Services Numériques Unîmes
 
-Ensemble des resources nécessaires au catalogue des services d'Unîmes
+Notice CATEGORIES:
+
+![Preview](https://raw.githubusercontent.com/gbunimes/catnum2/master/public/Tuto-catégories.webp)
+
+
+Notice ARTICLES:
+
+![Preview](https://raw.githubusercontent.com/gbunimes/catnum2/master/public/Tuto-Articles.webp)
+
+
+Notice FAQ:
+
+![Preview](https://raw.githubusercontent.com/gbunimes/catnum2/master/public/Tuto-FAQ.webp)
+
+
+
+Présentation générale :
+
+![Preview](https://raw.githubusercontent.com/gbunimes/catnum2/master/public/1.webp)
+
+![Preview](https://raw.githubusercontent.com/gbunimes/catnum2/master/public/2.webp)
+
+![Preview](https://raw.githubusercontent.com/gbunimes/catnum2/master/public/3.webp)
+
+![Preview](https://raw.githubusercontent.com/gbunimes/catnum2/master/public/4.webp)
