@@ -5,12 +5,10 @@
     "icon": "fa-regular fa-id-card"
   },
     {
-    "texte": "Assistance & Pilotage",
+    "texte": "Assistance & Pilotage - Extraction",
     "icon": "fa-solid fa-handshake-angle",
     "profil": ""
   },
-
-
   {
     "texte": "Audiovisuel",
     "icon": "fa-solid fa-video"
