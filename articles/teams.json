@@ -1,0 +1,232 @@
+{
+    "titre": "Teams",
+
+    "categorieParent": "Outils collaboratif",
+    "profil": "",
+    "motCles": ["teams", "collaboratif", "visio", "messages", "conversation"],
+
+    "sections": [
+        [
+            {
+                "titre": "Présentation du service"
+            },
+            {
+                "paragraphe": "Microsoft Teams est une application qui peut permettre à des groupes de partager des messages, des fichiers, créer des canaux de discussion, mais aussi effectuer des appels audio/vidéos."
+            },
+
+            {
+                "paragraphe": "Microsoft Teams offre un système de conversation privée, incluant messages, partage de fichier et conversation vocale/vidéo. Cet outil peut aussi être très utile dans le cadre des enseignements, puisqu’il propose un espace de devoirs, un calendrier et un espace de partage de fichier personnalisé."
+            },
+            {
+                "paragraphe": "es utilisateurs peuvent bien évidemment être ajoutés à des équipes. Chaque team peut avoir différents canaux de discussions, avec des espaces de partage de fichier et de prise de note séparé entre chaque canal. Teams intégre aussi des plug-ins, allant des outils Microsoft jusqu’à des outils extérieurs, proposant un grand nombre d’outils diversifiés à utiliser dans vos conversations, groupes ou simplement dans Teams."
+            },
+            {
+                "paragraphe": "Ces fichiers peuvent être sauvergardés ou récupérés depuis Sharepoint ou Onedrive, et dispose d’un bon nombre d’option, incluant la possibilité de créer des liens extérieurs pour des fichiers ayant déjà été ajoutés. Microsoft Teams offre une grande variété d’outils, qui conviendront à tous, grâce à la haute disponibilité de ces applications et outils qui pourront s’ajouter à des groupes ou à votre espace Teams."
+            },
+            {
+                "lien":
+                {
+                    "texte": "Présentation de Microsoft Teams",
+
+                    "url": "https://support.office.com/fr-fr/article/vid%C3%A9o-bienvenue-dans-microsoft-teams-b98d533f-118e-4bae-bf44-3df2470c2b12?wt.mc_id=otc_microsoft_teams"
+                }
+            },
+
+            {
+                "soustitre": "Accès au service"
+            },
+            {
+                "paragraphe": "Toute personne disposant d’un compte de la forme login@office.unimes.fr au sein de l’université de Nîmes"
+            },
+
+            {
+                "lien":
+                {
+                    "texte": "Télécharger Teams",
+
+                    "url": "https://teams.microsoft.com/downloads"
+                }
+            }
+        ],
+
+        [
+        {
+            "titre": "Prise en main de l'outil"
+        },
+        {
+            "lienDoc":
+            {
+                "texte": "Installer Teams",
+                "url": "Installation-Teams.mp4"
+            }
+        },
+        {
+            "lienDoc":
+            {
+                "texte": "Créer une équipe avec un code d’équipe",
+                "url": "Creer-equipe-et-recup-code.mp4"
+            }
+        },
+        {
+            "lienDoc":
+            {
+                "texte": "Comment créer un canal",
+                "url": "Comment-creer-un-canal.mp4"
+            }
+        },
+        {
+            "lienDoc":
+            {
+                "texte": "Paramétrer les canaux d’équipe",
+                "url": "Comment-creer-un-canal.mp4"
+            }
+        },
+        {
+            "lienDoc":
+            {
+                "texte": "Ajouter une application à une équipe ",
+                "url": "Ajouter-une-application-a-une-equipe.mp4"
+            }
+        },
+        {
+            "lienDoc":
+            {
+                "texte": "Rejoindre une équipe avec un code d’équipe",
+                "url": "Rejoindre-une-equipe-un-code-dequipe.mp4"
+            }
+        }],
+        [
+            {
+                "titre": "Organiser une réunion"
+            },
+
+            {
+                "lien":
+                {
+                    "texte": "Planifier une réunion",
+                    "url": "https://support.office.com/fr-fr/article/planifier-une-r%C3%A9union-dans-teams-943507a9-8583-4c58-b5d2-8ec8265e04e5"
+                }
+            },
+            {
+                "lienDoc":
+                {
+                    "texte": "Paramétrer une réunion",
+                    "url": "Parametrer-un-reunion.mp4"
+                }
+            },
+            {
+                "lien":
+                {
+                    "texte": "Démarrer une réunion instantanée",
+                    "url": "https://support.office.com/fr-fr/article/d%C3%A9marrer-une-r%C3%A9union-instantan%C3%A9e-dans-teams-ff95e53f-8231-4739-87fa-00b9723f4ef5"
+                }
+            },
+            {
+                "lien":
+                {
+                    "texte": "Créer des réunions instantanées avec l’option Réunion (video)",
+                    "url": "https://support.office.com/fr-fr/article/vid%C3%A9o-cr%C3%A9er-des-r%C3%A9unions-instantan%C3%A9es-avec-l-option-conf%C3%A9rence-maintenant-26e06837-853d-4df1-a729-06bf700d4ecf"
+                }
+            },
+            {
+                "lien":
+                {
+                    "texte": "Inviter des personnes à une réunion",
+                    "url": "https://support.microsoft.com/fr-fr/office/inviter-des-personnes-%C3%A0-une-r%C3%A9union-dans-teams-4bc5981c-446e-4e93-866a-d757466b556a"
+                }
+            }
+        ],
+        [
+            {
+                "titre": "Participer à une réunion"
+            },
+
+            {
+                "lien":
+                {
+                    "texte": "Rejoindre une réunion dans Teams",
+                    "url": "https://support.office.com/fr-fr/article/rejoindre-une-r%C3%A9union-teams-078e9868-f1aa-4414-8bb9-ee88e9236ee4"
+                }
+            },
+            {
+                "lienDoc":
+                {
+                    "texte": "Rejoindre une réunion programmée",
+                    "url": "Rejoindre-une-reunion-programmee.mp4"
+                }
+            },
+            {
+                "lienDoc":
+                {
+                    "texte": "Rejoindre une réunion avec un lien",
+                    "url": "Rejoindre-une-reunion-avec-un-lien.mp4"
+                }
+            },
+            {
+                "lien":
+                {
+                    "texte": "Rejoindre une réunion sans avoir de compte Teams",
+                    "url": "https://support.microsoft.com/fr-fr/office/participer-%C3%A0-une-r%C3%A9union-sans-compte-teams-c6efc38f-4e03-4e79-b28f-e65a4c039508"
+                }
+            },
+            {
+                "lien":
+                {
+                    "texte": "Appeler une réunion",
+                    "url": "https://support.office.com/fr-fr/article/appeler-une-r%C3%A9union-dans-teams-44607421-aeae-4481-8c39-d6b40bc5d554"
+                }
+            }
+        ],
+        [
+            {
+                "titre": "Pendant une réunion"
+            },
+
+            {
+                "lien":
+                {
+                    "texte": "Partager votre écran (PDF)",
+                    "url": "https://support.office.com/fr-fr/article/rejoindre-une-r%C3%A9union-teams-1613bb53-f3fa-431e-85a9-d6a91e3468c9"
+                }
+            },
+            {
+                "lien":
+                {
+                    "texte": "Partager votre écran (vidéo)",
+                    "url": "https://support.office.com/fr-fr/article/afficher-votre-%C3%A9cran-lors-d-une-r%C3%A9union-90c84e5a-b6fe-4ed4-9687-5923d230d3a7"
+                }
+            },
+
+            {
+                "lien":
+                {
+                    "texte": "Prendre des notes de réunion",
+                    "url": "https://support.microsoft.com/fr-fr/office/prendre-des-notes-de-r%C3%A9union-dans-teams-3eadf032-0ef8-4d60-9e21-0691d317d103"
+                }
+            },
+            {
+                "lien":
+                {
+                    "texte": "Appliquer un effet de flou à votre arrière -plan",
+                    "url": "https://support.microsoft.com/fr-fr/office/brouiller-l-arri%C3%A8re-plan-d-une-r%C3%A9union-teams-f77a2381-443a-499d-825e-509a140f4780"
+                }
+            },
+
+            {
+                "lien":
+                {
+                    "texte": "Utiliser le tableau blanc dans une réunion",
+                    "url": "https://support.microsoft.com/fr-fr/office/utiliser-la-fonctionnalit%c3%a9-tableau-blanc-dans-microsoft-teams-7a6e7218-e9dc-4ccc-89aa-b1a0bb9c31ee?ui=fr-FR&rs=fr-FR&ad=FR"
+                }
+            },
+
+            {
+                "lien":
+                {
+                    "texte": "En savoir plus …",
+                    "url": "https://support.office.com/fr-fr/article/r%c3%a9unions-et-appels-d92432d5-dd0f-4d17-8f69-06096b6b48a8?ui=fr-FR&rs=fr-FR&ad=FR#ID0EAABAAA=Meetings"
+                }
+            }
+        ]
+    ]
+}

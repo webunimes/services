@@ -1,0 +1,54 @@
+{
+    "titre": "Santé des étudiants",
+
+    "categorieParent": "Vie de campus",
+    "motCles": ["étudiant", "Santé", "prévention", "SSE", "calcium"],
+    "profil": "1-3",
+
+    "sections": [
+        [
+            {
+                "titre": "Présentation du service"
+            },
+            {
+                "paragraphe": "Le Service de Santé Universitaire dispose d’une application de gestion sécurisée des dossiers médicaux des étudiants."
+            },
+            {
+                "paragraphe": "Cette solution est dédiée au suivi médical des étudiants. Elle est développée par une université française et mutualisée auprès de nombreux services de santé universitaire, dont l’Université de Nîmes."
+            },
+            {
+                "gras": "Les principales fonctions sont les suivantes :"
+            },
+            {
+                "paragraphe": "- lien avec les bases d’inscription des étudiants à l’université."
+            },
+            {
+                "paragraphe": "- gestion des nomenclatures."
+            },
+            {
+                "paragraphe": "- aide à la gestion de files d’attente."
+            },
+            {
+                "paragraphe": "- accès aux éléments des dossiers gérés par profil utilisateur."
+            },
+            {
+                "paragraphe": "- prise de rendez-vous par le web."
+            },
+            {
+                "italique": "La DSIUN s’engage à fournir une plage de disponibilité du service du lundi au vendredi de 8 heures à 18 heures hors jours fériés."
+            },
+
+            {
+                "quote": "Le secret médical est strictement préservé. Les droits d’accès sont donnés uniquement aux professionnels de santé excepté à l’outil de prise de rendez-vous ouvert à tous les étudiants."
+            },
+
+            {
+                "lien": {
+                    "texte": "Prendre rendez-vous",
+
+                    "url": "https://calcium-rdv.unimes.fr/"
+                }
+            }
+        ]
+    ]
+}

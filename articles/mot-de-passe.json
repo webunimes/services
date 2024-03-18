@@ -1,0 +1,69 @@
+{
+  "titre": "Mot de passe",
+
+  "categorieParent": "Identité numérique",
+  "profil": "",
+  "motCles": ["mot", "passer", "réinitialiser", "perdu", "compte"],
+  "sections": [
+    [
+      {
+        "titre": "Changer mon mot de passe"
+      },
+      {
+        "paragraphe": "L’Université de Nîmes incite à la modification du mot de passe dès l’obtention des codes d’accès."
+      },
+      {
+        "paragraphe": "Avec un accès authentifié réservé aux personnels et étudiants, il est possible de changer son mot de passe de messagerie, de l’ENT, du WiFi, des ordinateurs et de Office 365."
+      },
+      {
+        "paragraphe": "Si aucune adresse mail personnelle n’est connue, il vous en sera demandé une pour permettre la récupération de l’accès en cas d’oubli."
+      },
+      {
+        "soustitre": "Accès au service"
+      },
+      {
+        "paragraphe": "Vous pouvez y accéder à tout moment depuis L’ENT. (le lien se trouve dans la barre de navigation en haut)."
+      },
+      {
+        "paragraphe": ""
+      },
+
+      {
+        "lien": {
+          "texte": "Changer de mot de passe",
+
+          "url": "https://www.unimes.fr/goCompte"
+        }
+      }
+    ],
+    [
+      {
+        "titre": "Mot de passe oublié"
+      },
+      {
+        "paragraphe": "L’Université de Nîmes permet à chacun de recevoir un mail permettant de changer son mot de passe."
+      },
+      {
+        "paragraphe": "Si aucune adresse mail personnelle n’est connue et que vous n’avez pas changé votre mot de passe, les étudiants sont invités à contacter le service de la scolarité et les personnels, le service informatique."
+      },
+      {
+        "paragraphe": "Si vous avez changé votre mot de passe et que vous n’avez jamais renseigné votre courriel personnel , vous devez contacter l’assistance informatique"
+      },
+
+      {
+        "lien": {
+          "texte": "Procédure de récupération de mot de passe",
+
+          "url": "https://www.unimes.fr/perteMdp/"
+        }
+      },
+      {
+        "lien": {
+          "texte": "Faire une demande d'assistance",
+
+          "url": "https://glpi.unimes.fr/front/helpdesk.public.php?create_ticket=1"
+        }
+      }
+    ]
+  ]
+}

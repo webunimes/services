@@ -1,0 +1,36 @@
+{
+  "titre": "Catalogue de la BU",
+  "categorieParent": "Communication",
+  "profil": "",
+  "motCles": ["bibliothèque", "livre", "BU", "catalogue", "ouvrage"],
+
+  "sections": [
+    [
+      {
+        "titre": "Présentation du service"
+      },
+      {
+        "paragraphe": "Le catalogue référence l’intégralité du fonds documentaire de la bibliothèque de l’Université de Nîmes. Le catalogue de la BU indique la disponibilité des ouvrages pour leur consultation et prêt à domicile. Il donne accès au compte lecteur, pour permettre la consultation de ses emprunts, la réservation et le renouvellement, la sélection de notices."
+      },
+
+      {
+        "lien": {
+          "texte": "Accéder au service depuis l'ENT",
+
+          "url": "https://ent.unimes.fr/"
+        }
+      },
+
+      {
+        "soustitre": "Réactivité"
+      },
+
+      {
+        "paragraphe": "- Le service est hébergé par la société exlibris qui garantit une disponibilité du service maximal."
+      },
+      {
+        "paragraphe": "- Les comptes sont quotidiennement déversés dans l’outil ce qui assure un accès au service à J+1"
+      }
+    ]
+  ]
+}

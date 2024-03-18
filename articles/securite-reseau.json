@@ -1,0 +1,68 @@
+{
+  "titre": "Sécurité Réseau",
+  "categorieParent": "Sécurité",
+  "profil": "",
+  "motCles": [
+    "securité",
+    "Cyber-sécurité",
+    "hameçonnage",
+    "précautions",
+    "risques"
+  ],
+  "sections": [
+    [
+      {
+        "titre": "Présentation du service"
+      },
+      {
+        "paragraphe": "L’université de Nîmes est équipée d’outils performants permettant d’assurer une sécurité du réseau maximale."
+      },
+
+      {
+        "paragraphe": "Il est tout de même important de noter que même avec des outils efficaces, la sécurité du numérique est l’affaire de tous. Elle repose avant tout sur des mesures simples et des bonnes pratiques à adopter sans modération dans la sphère privée et professionnelle. Fondées sur le bon sens, ces précautions élémentaires ne peuvent être négligées sans s’exposer à des risques, qui exploitent souvent des vulnérabilités connues."
+      }
+    ],
+    [
+      {
+        "titre": "Précautions élémentaires"
+      },
+
+      {
+        "paragraphe": "Vous trouverez la liste des précautions élémentaires à suivre sur le site de l’ANSSI (Agence Nationale de la Sécurité des Systèmes d’Information) :"
+      },
+
+      {
+        "lien": {
+          "texte": "ANSSI",
+
+          "url": "https://www.ssi.gouv.fr/entreprise/precautions-elementaires/"
+        }
+      }
+    ],
+    [
+      {
+        "titre": "Quelques explications en vidéo"
+      },
+      {
+        "paragraphe": "Vous trouverez sur ce site des vidéos de quelques minutes qui valent parfois mieux qu’un long discours :"
+      },
+
+      {
+        "lien": {
+          "texte": "Visiter le site",
+
+          "url": "https://www.hack-academy.fr/home"
+        }
+      }
+    ],
+
+    [
+      {
+        "profil": "0"
+      },
+      {
+        "titre": "Prévention contre le hameçonnage"
+      }
+    ]
+  ]
+}

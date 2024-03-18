@@ -1,0 +1,52 @@
+{
+  "titre": "Envoi de gros fichiers",
+
+  "categorieParent": "Outils collaboratifs",
+  "profil": "",
+  "motCles": ["cloud", "Envoi", "fichiers", "partage", ""],
+  "sections": [
+    [
+      {
+        "titre": "Présentation du service"
+      },
+      {
+        "paragraphe": "Service de partage sécurisé de fichiers volumineux."
+      },
+
+      {
+        "paragraphe": "- Authentification sécurisée avec la fédération Education-Recherche"
+      },
+      {
+        "lien": {
+          "texte": "Fédération Education-Recherche",
+
+          "url": "https://services.renater.fr/federation/introduction/a-quoi-ca-sert"
+        }
+      },
+      {
+        "paragraphe": "- Accès immédiat sans création de compte pour les personnels des établissements enseignements recherches"
+      },
+      {
+        "paragraphe": "- Dépôt simple et rapide de fichiers à destination d’un ou plusieurs correspondants dans un espace géré par RENATER."
+      },
+      {
+        "lien": {
+          "texte": "Accés ENT",
+
+          "url": "https://ent.unimes.fr"
+        }
+      },
+      {
+        "lien": {
+          "texte": "Accés FileSender",
+
+          "url": "https://filesender.renater.fr/"
+        }
+      },
+
+      {
+        "paragraphe": "En cas de problème technique, se référer à la page Assistance aux utilisateurs. "
+      }
+    ]
+  ]
+}

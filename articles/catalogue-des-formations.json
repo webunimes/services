@@ -1,0 +1,31 @@
+{
+  "titre": "Catalogue des formations",
+  "categorieParent": "Communication",
+  "profil": "",
+  "motCles": ["catalogue", "formations", "formation", "scolarité", "cursus"],
+  "sections": [
+    [
+      {
+        "titre": "Présentation du service"
+      },
+      {
+        "paragraphe": "Ce service permet de consulter l’intégralité de l’offre de formation proposée à l’université de Nîmes."
+      },
+      {
+        "paragraphe": "L’affichage du catalogue est possible par type de formation, par domaine ou par secteur d’activité."
+      },
+      {
+        "paragraphe": "Les objectifs, l’admission, le programme et la poursuite d’étude décrivent chaque formation enseignée."
+      },
+      {
+        "lien": {
+          "texte": "Accéder au service",
+          "url": "https://formations.unimes.fr/fr/index.html"
+        }
+      },
+      {
+        "paragraphe": "En cas de problème technique, se référer à la page Assistance aux utilisateurs. "
+      }
+    ]
+  ]
+}

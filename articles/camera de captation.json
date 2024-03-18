@@ -1,0 +1,32 @@
+{
+  "titre": "Caméra de captation",
+
+  "categorieParent": "Audiovisuel",
+  "profil": "",
+  "motCles": ["caméra", "KAST", "enregistrer", "cours", ""],
+  "sections": [
+    [
+      {
+        "titre": "Présentation"
+      },
+      {
+        "paragraphe": "La caméra-régie KAST intègre une régie audiovisuelle directement dans la caméra. Ceci permet de miniaturiser la chaîne de production audiovisuelle directement dans la caméra."
+      },
+      {
+        "paragraphe": "Ces caméras sont présentes dans tous les amphithéâtres de Vauban ainsi que la salle D014, dans les amphithéâtres des Carmes et en salle 300 et enfin dans la salle H201-202 du site de Hoche."
+      },
+      {
+        "paragraphe": "KAST se pilote à distance via l’ipad mis à disposition par le service audio-visuel à l’enseignant désirant enregistrer son cours."
+      },
+      {
+        "gras": "Fonctionnalités de pilotage de la caméra-régie KAST au travers de l’Ipad :"
+      },
+      {
+        "lien": {
+          "texte": "Découvrir la vidéo de Présentation",
+          "url": "https://player.vimeo.com/video/415136098?dnt=1&app_id=122963"
+        }
+      }
+    ]
+  ]
+}

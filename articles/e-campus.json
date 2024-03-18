@@ -1,0 +1,238 @@
+{
+  "titre": "e-campus",
+  "categorieParent": "Pédagogie & scolarité",
+  "profil": "",
+  "motCles": ["campus", "formation", "ligne", "cours", "moodle"],
+  "sections": [
+    [
+      {
+        "profil": "1"
+      },
+
+      {
+        "titre": "Présentation de e-campus"
+      },
+
+      {
+        "paragraphe": "L’université de Nîmes met à votre disposition une plateforme de cours en ligne, e-campus."
+      },
+      {
+        "image": "logo-e-campus.png"
+      },
+
+      {
+        "soustitre": "Contenu de la plateforme :"
+      },
+
+      {
+        "gras": "Un espace d'accueil dynamique :"
+      },
+      {
+        "paragraphe": "pour diffuser les informations aux étudiants, telles que les inscriptions aux cours, ainsi que des fiches sur les méthodologies universitaires, entre autres."
+      },
+      {
+        "gras": "Un tableau de bord : "
+      },
+      {
+        "paragraphe": "Celui-ci centralise toutes les ressources disponibles, y compris le formulaire de création de cours, la zone de formation, la navigation dans la plateforme, et bien d'autres encore."
+      },
+
+      {
+        "gras": "Une section de Foire aux questions (FAQ) :"
+      },
+      {
+        "paragraphe": "Elle permet d'aider les utilisateurs à trouver rapidement des réponses à leurs questions les plus courantes, ainsi qu'à fournir des guides sur l'utilisation des fonctionnalités fondamentales de e-campus."
+      },
+      {
+        "paragraphe": "L’accès se fait depuis tout poste informatique connecté à Internet grâce à vos identifiants ENT."
+      },
+
+      {
+        "lien": {
+          "texte": "Découvrir e-campus",
+
+          "url": "https://ecampus.unimes.fr/"
+        }
+      },
+
+      {
+        "image": "ecampus2.png"
+      }
+      
+    ],
+   [
+      {
+        "profil": "2-3"
+      },
+      {
+        "titre": "Présentation de e-campus"
+      },
+
+      {
+        "paragraphe": "L’université de Nîmes met à votre disposition une plateforme de cours en ligne, e-campus."
+      },
+      {
+        "image": "logo-e-campus.png"
+      },
+
+      {
+        "soustitre": "Contenu de la plateforme :"
+      },
+
+      {
+        "gras": "Un espace d'accueil dynamique :"
+      },
+      {
+        "paragraphe": "pour diffuser les informations aux enseignants, telles que le lien vers la création de cours, les formations actuelles, ainsi que des fiches sur les méthodologies universitaires, entre autres."
+      },
+      {
+        "gras": "Un tableau de bord : "
+      },
+      {
+        "paragraphe": "Celui-ci centralise toutes les ressources disponibles, y compris le formulaire de création de cours, la zone de formation, la navigation dans la plateforme, et bien d'autres encore."
+      },
+
+      {
+        "gras": "Une section de Foire aux questions (FAQ) :"
+      },
+      {
+        "paragraphe": "Elle permet d'aider les utilisateurs à trouver rapidement des réponses à leurs questions les plus courantes, ainsi qu'à fournir des guides sur l'utilisation des fonctionnalités fondamentales de e-campus."
+      },
+
+      {
+        "gras": "Un espace d'autoformation : "
+      },
+      {
+        "paragraphe": "Il contient une variété de ressources telles que des tutoriels sur les fonctionnalités de la plateforme, des formations et des conseils destinés aux enseignantes et enseignants désireux d'explorer de nouvelles méthodes d'enseignement. De plus, des modules d'apprentissage sont disponibles pour aider les enseignants à créer des contenus multimédias afin d'enrichir leur enseignement."
+      },
+      {
+        "paragraphe": "L’accès se fait depuis tout poste informatique connecté à Internet (munissez-vous de vos identifiants ENT)"
+      },
+
+      {
+        "lien": {
+          "texte": "Découvrir e-campus",
+
+          "url": "https://ecampus.unimes.fr/"
+        }
+      },
+      {
+        "image": "ecampus2.png"
+      },
+
+      {
+        "paragraphe": "Pour toute demande d'assitance, merci de contacter le Service Numérique & d'Accompagnement Pédagogique (SNAP)"
+      },
+
+      {
+        "lien": {
+          "texte": "Faire une demande d'assistance",
+          "url": "https://demat.unimes.fr/snap"
+        }
+      }
+    ],
+     [
+       {
+        "profil": "2-3"
+      },
+      {
+        "titre": "Service Numérique & d'Accompagnement Pédagogique (SNAP)"
+      },
+      {
+        "soustitre": "Les missions du SNAP :"
+      },
+
+      {
+        "paragraphe": "- L’accompagnement aux enseignants dans leur approche pédagogique."
+      },
+      {
+        "paragraphe": "- Le soutien  d’une démarche pédagogique innovante, de la conception à l’utilisation des outils numériques."
+      },
+      {
+        "paragraphe": "- La valorisation du métier d’enseignant et de l’investissement pédagogique."
+      },
+      {
+        "paragraphe": "- L’établissement d’une veille des usages pédagogiques et numériques. "
+      },
+      {
+        "paragraphe": "- L’hybridation et l’enrichissement des enseignements. "
+      },
+      {
+        "paragraphe": "- La formation  et la prise en main de la plateforme de cours en ligne."
+      },
+      {
+        "paragraphe": "- La formation et  la prise en main des outils pédagogiques et des nouveaux outils numériques."
+      },
+      {
+        "paragraphe": "- L’aménagement pédagogique et numérique des espaces physiques d’apprentissages : salles de classe, amphithéâtres, tiers-lieux, autre"
+      },
+      {
+        "image": "inge.webp"
+      },
+
+      {
+        "gras": "Le Service Numérique et d’Accompagnement Pédagogique : SNAP a pour objectif de soutenir les enseignants et les enseignants-chercheurs dans leurs activités à l’Université. "
+      },
+      {
+        "paragraphe": "Le SNAP remplit cet objectif en offrant des conseils, des ressources, des formations, des réflexions et des échanges de pratiques, ce qui encourage l’ouverture et l’innovation, stimule la progression et favorise la mise en commun des expériences pédagogiques. De plus, il participe activement à la définition de la politique pédagogique de l’établissement. "
+      },
+      {
+        "paragraphe": "Le SNAP est support aux projets pédagogiques qui rassemble des ressources et des activités dédiées à la mission de formation des enseignants."
+      },
+
+      {
+        "soustitre": "Vous souhaitez :"
+      },
+
+      {
+        "paragraphe": "- une aide pour implémenter des outils numériques dans vos cours."
+      },
+
+      {
+        "paragraphe": "-un accompagnement pour votre projet pédagogique."
+      },
+
+      {
+        "paragraphe": "- du soutien et du conseil face à une problématique dans votre enseignement."
+      },
+
+      {
+        "paragraphe": "- de l’aide pour hybrider tout ou une partie de votre enseignement."
+      },
+
+      {
+        "paragraphe": "- comprendre les usages étudiants."
+      },
+
+      {
+        "paragraphe": "- une aide pour utiliser la plateforme de cours en ligne."
+      },
+
+      {
+        "paragraphe": "- échanger, discuter, vous informer."
+      },
+
+      {
+        "lien": {
+          "texte": "Faire une demande",
+          "url": "https://demat.unimes.fr/snap"
+        }
+      },
+
+      {
+        "lien": {
+          "texte": "Contacter le SNAP",
+          "url": "snap@unimes.fr"
+        }
+      },
+
+      {
+        "lien": {
+          "texte": "Pour en savoir plus : snap.unimes.fr",
+          "url": "https://snap.unimes.fr/"
+        }
+      }
+    ]
+
+  ]
+}

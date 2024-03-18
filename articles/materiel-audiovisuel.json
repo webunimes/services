@@ -1,0 +1,148 @@
+{
+  "titre": "Matériel audiovisuel",
+  "categorieParent": "Audiovisuel",
+  "profil": "",
+  "motCles": ["équipement", "technique", "prêt", "vidéoprojecteur", "réunion"],
+  "sections": [
+    [
+      {
+        "profil": ""
+      },
+
+      {
+        "titre": "Présentation du service"
+      },
+      {
+        "paragraphe": "Le Pôle Audiovisuel est en charge de la maintenance et de la gestion du parc de matériel audiovisuel des 3 sites de l’université de Nîmes."
+      },
+      {
+        "gras": "Heures d’ouverture : Lundi à vendredi, de 8h00 à 12h30 et de 13h30 à 17h00."
+      },
+      {
+        "soustitre": "Missions principales :"
+      },
+      {
+        "paragraphe": "- Assurer le bon fonctionnement des équipements audiovisuels au sein de l’établissement."
+      },
+      {
+        "paragraphe": "- Installation et équipement des salles spécialisées et amphithéâtres."
+      },
+      {
+        "paragraphe": "- Assistance technique audiovisuelle, maintenance des matériels audiovisuels."
+      },
+      {
+        "paragraphe": "- Coordination des investissements audiovisuels de l’université de Nîmes."
+      },
+      {
+        "paragraphe": "- Organisation technique audiovisuelle des événements."
+      },
+      {
+        "paragraphe": "- Prêt de matériels sous condition préalable de réservation."
+      }
+    ],
+    [
+      {
+        "titre": "Matériel installé dans les salles"
+      },
+      {
+        "soustitre": "Amphithéâtres"
+      },
+      {
+        "image": "audiov0.png"
+      },
+      {
+        "paragraphe": "Les amphithéâtres des sites Vauban et des Carmes sont équipés d’un vidéoprojecteur et d’un système de sonorisation."
+      },
+      {
+        "paragraphe": "L’amphithéâtre A4 du site Vauban est équipé d’un vidéoprojecteur interactif."
+      },
+      {
+        "italique": "Pour plus de renseignements vous pouvez consulter la notice d’utilisation téléchargeable dans la section « Documents utiles "
+      },
+
+      {
+        "soustitre": "Salles de cours"
+      },
+
+      {
+        "paragraphe": "Les salles de cours des 3 sites de l'université sont équipées d'un vidéoprojecteur."
+      },
+      {
+        "paragraphe": "L’amphithéâtre A4 du site Vauban est équipé d’un vidéoprojecteur interactif."
+      },
+      {
+        "image": "audiov1.png"
+      },
+      {
+        "italique": "Les salles des bâtiments G et H du site Vauban sont équipées d’un boîtier de commande mural qui permet de piloter le vidéoprojecteur."
+      },
+      {
+        "soustitre": "Salles de réunion (Site Vauban)"
+      },
+      {
+        "image": "audiov2.jpg"
+      },
+      {
+        "paragraphe": "La salle du conseil, la salle de séminaire de la Bibliothèque universitaire (3ème étage) et la salle D106 sont équipées d’un vidéoprojecteur et d’un système de visioconférence."
+      }
+    ],
+    [
+      {
+        "titre": "Modalités d'accès"
+      },
+      {
+        "image": "audiov3.png"
+      },
+      {
+        "soustitre": "Matériel de prêt sans réservation et à disposition dans les loges des 3 sites :"
+      },
+      {
+        "paragraphe": "- Télécommande de vidéoprojecteur."
+      },
+      {
+        "paragraphe": "- Microphones à fil et sans fil (Sites Vauban et Carmes)."
+      },
+      {
+        "soustitre": "Matériel de prêt avec réservation dans les loges des 3 sites :"
+      },
+      {
+        "paragraphe": "- Ordinateurs portables."
+      },
+      {
+        "paragraphe": "- Appareil photo et trépied pour la section Design (Site Vauban)."
+      },
+
+      {
+        "quote": "Ce matériel doit être réservé auprès du Pôle Audiovisuel et fait l’objet d’une fiche de prêt."
+      },
+      {
+        "lienDoc": {
+          "texte": "Télécharger le formulaire de prêt",
+
+          "url": "Pr%C3%AAt-de-mat%C3%A9riel.pdf"
+        }
+      },
+      {
+        "lien": {
+          "texte": "Faire une demande de prêt",
+
+          "url": "https://glpi.unimes.fr/front/ticket.form.php"
+        }
+      },
+      {
+        "lien": {
+          "texte": "Contacter le service Audiovisuel",
+
+          "url": "audiovisuel@unimes.fr"
+        }
+      },
+      {
+        "lienDoc": {
+          "texte": "Notice d'utilisation vidéoprojecteur amphithéâtre A4 - Site Vauban",
+
+          "url": "Amphi-A4_PDF.pdf"
+        }
+      }
+    ]
+  ]
+}

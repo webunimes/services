@@ -1,0 +1,125 @@
+{
+  "titre": "Outils RH",
+  "categorieParent": "Ressources humaines",
+  "profil": "3",
+  "motCles": ["Ressourcess", "humaines", "outils", "logiciel", ""],
+  "sections": [
+    [
+      {
+        "titre": "Présentation du service"
+      },
+      {
+        "gras": "Horaires: 7h45-18h00 les jours ouvrés."
+      },
+      {
+        "paragraphe": "L’université propose un ensemble d’applications pour la gestion des ressources humaines."
+      },
+      {
+        "soustitre": "Applications :"
+      },
+      {
+        "souligne": "eVacataires"
+      },
+      {
+        "paragraphe": "Gestion de recrutement des vacataires d’enseignement."
+      },
+      {
+        "souligne": "Etiquettes"
+      },
+      {
+        "paragraphe": "Edition des étiquettes pour publipostage RH."
+      },
+
+      {
+        "souligne": "FEVE"
+      },
+      {
+        "paragraphe": " Le module FEVE de la sphère GRH du PGI Cocktail est un outil dédié à la gestion des compétences qui permet en particulier la gestion des fiches de poste, la répartition des activités par actions LOLF, ainsi que la gestion et la formalisation des entretiens professionnels et de formation des agents d’un établissement. (voir Fiche de poste et entretien professionnel)."
+      },
+
+      {
+        "souligne": "grh-retour-paye"
+      },
+      {
+        "paragraphe": "Gestion du retour TG paye à façon."
+      },
+
+      {
+        "souligne": "Hamac"
+      },
+      {
+        "paragraphe": "Le module HAMAC, Horaires Aménagés en fonction de l’ARTT et des Congés, de la sphère GRH du PGI Cocktail permet de gérer le temps de travail annualisé des personnels non enseignants d’un établissement public d’enseignement supérieur dans le respect de la loi sur l’ARTT applicable à la fonction publique. Toutes les modalités de l’ARTT sont implémentées."
+      },
+
+      {
+        "souligne": "Mangue"
+      },
+      {
+        "paragraphe": "Le module MANGUE, MANagement et Gestion Universitaire des Emplois, de la sphère GRH du PGI Cocktail est un module de gestion des ressources humaines (contrat, carrière, emploi, poste, affectation, congés légaux) d’un établissement."
+      },
+
+      {
+        "souligne": "Peche"
+      },
+      {
+        "paragraphe": "Le module PECHE est le module de gestion des charges et services d’enseignement de la sphère GRH du PGI Cocktail. Il permet la liaison entre l’offre de formation, les charges d’enseignement et la gestion du potentiel d’enseignement et des heures complémentaires d’enseignement (HCE) associées."
+      },
+
+      {
+        "souligne": "POEMS"
+      },
+      {
+        "paragraphe": "POEMS est une application de pilotage de la masse salariale et des emplois qui s’adresse aux services de l’État (services gestionnaires de budgets opérationnels de programme – BOP ou d’unité opérationnelle UO) ou à ses opérateurs."
+      },
+
+      {
+        "souligne": "WINPAIE"
+      },
+      {
+        "paragraphe": "Préparation de la paie à façon"
+      }
+    ],
+    [
+      {
+        "titre": "Accès au service"
+      },
+
+      {
+        "paragraphe": "Pour les applications du PGI Cocktail il est recommandé d’utiliser la « zapette » qui est un ensemble de raccourcis disponibles depuis un navigateur web."
+      },
+
+      {
+        "image": "zapette.jpg"
+      },
+      {
+        "quote": "L’accès via la « zapette » est la seule méthode d’accès possible pour les personnes utilisant un Mac."
+      },
+      {
+        "lien": {
+          "texte": "Accéder aux services",
+
+          "url": "https://applis.unimes.fr/"
+        }
+      },
+      {
+        "paragraphe": "Vous pouvez également accéder aux applications depuis votre ordinateur, connecté au réseau de l’Université (présence physique ou VPN) depuis le lecteur réseau « Z:DRH »."
+      },
+      {
+        "paragraphe": "La plupart de ces applications nécessitent que vous soyez connecté au réseau de l’Université. Si vous avez besoin d’y accéder depuis l’extérieur vous devez faire une demande d’accès au VPN."
+      },
+
+      {
+        "gras": "Réactivité"
+      },
+      {
+        "paragraphe": "En cas de problème technique, merci de contacter l'assistance aux utilisateurs. Suivant sa nature, le problème est soit résolu en interne soit une demande d’assistance « Géode » est transmise à l’éditeur; dans ce dernier cas la résolution du problème peut être plus longue."
+      },
+      {
+        "gras": "Démarche qualité"
+      },
+      {
+        "paragraphe": "Les applications sont mises à jour régulièrement au rythme des livraisons Cocktail. Après une phase de test, celles-ci sont déployées en production, généralement la mise à jour se fait le matin entre 8:00 et 9:00, les responsables métiers sont prévenus et les applications sont inaccessibles le temps de la mise à jour."
+      }
+    ]
+  ]
+}

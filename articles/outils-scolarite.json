@@ -1,0 +1,183 @@
+{
+  "titre": "Outils Scolarité",
+  "categorieParent": "Pédagogie & scolarité",
+  "profil": "",
+  "motCles": ["outils", "scolarité", "programmes", "service", "ba2ip"],
+  "sections": [
+    [
+      {
+        "titre": "Présentation du service"
+      },
+      {
+        "gras": "Horaires : 7h45-18h00 les jours ouvrés"
+      },
+
+      {
+        "paragraphe": "L’université propose un ensemble d’applications pour la gestion de la scolarité."
+      },
+      { "soustitre": "Pêche" },
+      {
+        "paragraphe": "Le module PECHE est le module de gestion des charges et services d’enseignement de la sphère GRH du PGI Cocktail. Il permet la liaison entre l’offre de formation, les charges d’enseignement et la gestion du potentiel d’enseignement et des heures complémentaires d’enseignement (HCE) associées."
+      },
+      {
+        "lien": {
+          "texte": "applis.unimes.fr",
+          "url": "https://applis.unimes.fr/"
+        }
+      },
+
+      { "soustitre": "ScolPedagogie" },
+      {
+        "paragraphe": "Le module SCOLPEDA de la sphère SCOLARITE du PGI Cocktail permet la gestion pédagogique de la scolarité. Il permet la définition des formations dispensées par un établissement (maquette : parcours, UE, EC, AP) ainsi que l’inscription pédagogique des étudiants aux différents enseignements."
+      },
+      {
+        "paragraphe": "Le module SCOLARIX permet de réaliser les inscriptions administratives : les étudiants sont inscrits à un diplôme et un niveau. Dès que l’inscription administrative est faite, les étudiants apparaissent dans SCOLPEDA"
+      },
+      {
+        "paragraphe": "SCOLPEDA permet également la gestion des examens et la saisie des notes, l’édition des PV, relevés de notes et attestations de réussite."
+      },
+      {
+        "lien": {
+          "texte": "Z:/scolarite/ScolPedagogie.app/",
+          "url": "Z:/scolarite/ScolPedagogie.app/"
+        }
+      },
+
+      { "soustitre": "ScolarixY" },
+      {
+        "paragraphe": "Le module PréInscription est le module de gestion des pré-inscriptions administratives de la sphère Scolarité du PGI Cocktail (ancienne scolarité). Il permet de pré-saisir les données pour le module Scolarix."
+      },
+      {
+        "lien": {
+          "texte": "ScolarixY.woa",
+          "url": "https://applis-web.unimes.fr/cgi-bin/WebObjects/ScolarixY"
+        }
+      },
+
+      { "soustitre": "ScolarixX" },
+      {
+        "paragraphe": "Le module Scolarix est le module de gestion de la chaîne des inscriptions administratives de la sphère Scolarité du PGI Cocktail. Il permet l’inscription administrative des étudiants et la gestion des bourses."
+      },
+      {
+        "lien": {
+          "texte": "ScolarixX.woa",
+          "url": "https://applis.unimes.fr/cgi-bin/WebObjects/ScolarixX.woa/"
+        }
+      },
+
+      { "soustitre": "IPWeb" },
+      {
+        "paragraphe": "Le module IP Web de la sphère SCOLARITE Cocktail est un module web externe, reposant entièrement sur ScolPedagogie. Une fois les maquettes pédagogiques saisies et les étudiants inscrits aux parcours commun via Scolpedagogie, IP Web permet aux étudiants de préciser leurs choix de parcours spécialisés et/ou d’options. Et ce durant la période prédéfinie par la scolarité selon le ou les diplômes auxquels ils sont inscrits."
+      },
+      {
+        "lien": {
+          "texte": "ipWeb.woa",
+          "url": "https://applis-web.unimes.fr/cgi-bin/WebObjects/ipWeb.woa/"
+        }
+      },
+
+      { "soustitre": "BusinessObjects" },
+      { "paragraphe": "Edition des diplômes" },
+      {
+        "lien": {
+          "texte": "bo.unimes.fr",
+          "url": "https://bo.unimes.fr/BOE/BI"
+        }
+      },
+
+      { "soustitre": "Esup SGC" },
+      { "paragraphe": "Système de gestion des cartes." },
+      { "paragraphe": "Emargement examens (esup-emargement)." },
+      {
+        "lien": {
+          "texte": "badge.unimes.fr",
+          "url": "https://badge.unimes.fr/user"
+        }
+      },
+
+      { "soustitre": "Moodle" },
+      {
+        "paragraphe": "Moodle est une plateforme d’apprentissage en ligne libre. Développée à partir de principes pédagogiques, elle permet de créer des communautés s’instruisant autour de contenus et d’activités."
+      },
+      {
+        "lien": {
+          "texte": "ecampus.unimes.fr",
+          "url": "https://ecampus.unimes.fr/"
+        }
+      },
+
+      { "soustitre": "Cérémonie diplôme" },
+      { "paragraphe": "Inscription cérémonie diplômes" },
+      {
+        "lien": {
+          "texte": "ceremonie.unimes.fr",
+          "url": "https://ceremonie.unimes.fr/"
+        }
+      },
+
+      { "soustitre": "Pstage" },
+      { "paragraphe": "Gestion des conventions et des offres de Stage" },
+      {
+        "lien": {
+          "texte": "esup-pstage",
+          "url": "https://ent-apps.unimes.fr/esup-pstage/stylesheets/stage/welcome.xhtml"
+        }
+      },
+
+      { "soustitre": "Job Teaser" },
+      { "paragraphe": "Recrutement" },
+      {
+        "lien": {
+          "texte": "unimes.jobteaser.com",
+          "url": "https://unimes.jobteaser.com/"
+        }
+      },
+
+      { "soustitre": "Hyperplanning" },
+      {
+        "paragraphe": "Emplois du temps, ce module permet la gestion des groupes d’étudiants par formations, types d’APs … et l’édition des trombinoscopes."
+      },
+      {
+        "lien": {
+          "texte": "web.unimes.fr/hp",
+          "url": "http://web.unimes.fr/hp/"
+        }
+      },
+
+      { "soustitre": "Iris" },
+      { "paragraphe": "QCM + Etiquettes" },
+      {
+        "lien": {
+          "texte": "IrisPdf",
+          "url": "https://www-apps.unimes.fr/IrisPdf/"
+        }
+      },
+
+      { "soustitre": "eCandidat" },
+      { "paragraphe": "Candidatures aux filières sélectives (hors Master)" },
+      {
+        "lien": {
+          "texte": "ecandidat.unimes.fr",
+          "url": "https://ecandidat.unimes.fr/"
+        }
+      },
+      { "soustitre": "LimeSurvey" },
+      { "paragraphe": " Enquêtes" },
+      {
+        "lien": {
+          "texte": "Questionnaires limesurvey",
+          "url": "https://questionnaires.unimes.fr/"
+        }
+      }
+    ],
+
+    [
+      {
+        "titre": "Cartographie"
+      },
+      {
+        "image": "Cartographie.png"
+      }
+    ]
+  ]
+}

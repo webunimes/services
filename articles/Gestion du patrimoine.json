@@ -1,0 +1,96 @@
+{
+  "titre": "Gestion du patrimoine",
+  "categorieParent": "Finance & Patrimoine",
+  "profil": "3",
+  "motCles": ["gestion", "patrimoine", "immobilier", "matériel", "AllPlan"],
+
+  "sections": [
+    [
+      {
+        "titre": "Présentation du service"
+      },
+      {
+        "paragraphe": "La solution est destinée à la conception, à la construction et à la gestion de bâtiments et de biens immobiliers de l’Université de Nîmes."
+      },
+      {
+        "paragraphe": "Le logiciel AllPlan peut intégrer un processus basé sur un modèle 3D (BIM ou Building Information Modeling) qui offre aux services techniques, les informations et les outils nécessaires pour planifier, concevoir, construire et gérer plus efficacement les bâtiments et les infrastructures d’UNÎMES."
+      }
+    ],
+    [
+      {
+        "titre": "Fonctionnalités"
+      },
+      {
+        "paragraphe": "Référentiel patrimonial de l’Université de Nîmes intègre les fonctions suivantes :"
+      },
+      {
+        "paragraphe": "- Description complète (identification des locaux, prévention des risques, gestion de la maintenance)."
+      },
+      {
+        "paragraphe": "- Identification & localisation avec gestion des surfaces (bâties, non bâties)."
+      },
+      {
+        "paragraphe": "- Gestion des nomenclatures : typologie de surfaces, domaines d’activité, affectation par entité utilisatrice, occupation, …"
+      },
+      {
+        "paragraphe": "- Gestion des plans, interactifs avec les données alphanumériques (gestion des plans, gestion des équipements)."
+      },
+      {
+        "paragraphe": "- Extraction, gestion des droits & habilitations, gestion documentaire (gestion des contrats)"
+      }
+    ],
+    [
+      {
+        "titre": "Accès au service"
+      },
+      {
+        "paragraphe": "L’interface web de gestion est disponible sur https://allfa.unimes.fr/"
+      },
+      {
+        "lien": {
+          "texte": "Accéder au service",
+
+          "url": "https://allfa.unimes.fr/"
+        }
+      },
+      {
+        "paragraphe": "Le logiciel de dessin AllPlan est installé sur les postes de travail des personnes en charge du dessin."
+      }
+    ],
+    [
+      {
+        "profil": ""
+      },
+
+      {
+        "titre": "Interopérabilité"
+      },
+      {
+        "paragraphe": "Le SI patrimoine est le référentiel concernant les locaux et est donc en lien avec :"
+      },
+      {
+        "paragraphe": "- Le logiciel de planning pour la réservation de salle,"
+      },
+      {
+        "paragraphe": "- Le logiciel de RH pour l’affectation des agents dans les locaux."
+      }
+    ],
+    [
+      {
+        "titre": "Transversalité"
+      },
+      {
+        "paragraphe": "La direction du patrimoine est le premier service a utiliser la solution mais les services suivants alimentent ou utilisent également les données :"
+      },
+      {
+        "paragraphe": "- Le service hygiène et sécurité."
+      },
+      {
+        "paragraphe": "- La direction des ressources humaines."
+      },
+      {
+        "paragraphe": "- Le logiciel des plannings."
+      }
+    ]
+  ]
+}
