@@ -1,0 +1,30 @@
+{
+  "titre": "Emploi du temps",
+  "sousArticle": [
+    {
+      "profil": "2-3",
+      "titre": "Comment accéder au trombinoscope des étudiants ?",
+      "contenu": [
+        {
+          "paragraphe": "Dans l’ENT > Outils > Emploi du temps, dans le sous-menu « Liste et trombinoscope » du menu « Etudiant », choisir « Trombinoscope » dans la première liste déroulante et sélectionner la formation voulue. Le trombinoscope est immédiatement visible. Pour l’imprimer, cliquez sur l’icône PDF en haut à droite.",
+          "image": "trombinoscope.png",
+          "lien": {
+            "texte": "Accéder au trombinoscope",
+            "url": "https://web.unimes.fr/hp/enseignant?identifiant=mZJ4xQw9dS4r59UK"
+          }
+        }
+      ]
+    },
+    {
+      "profil": "1",
+      "titre": "Je n'ai pas accès à mon emploi du temps",
+      "contenu": [
+        {
+          "image": "",
+          "profil": "",
+          "paragraphe": "La plupart du temps, cela arrive si vous vous êtes inscrit administrativement mais pas pédagogiquement (choix des UE d’ouvertures). En dehors des périodes d’ouverture d’ipWeb, vous devez vous rapprocher de votre gestionnaire de filière pour le faire."
+        }
+      ]
+    }
+  ]
+}

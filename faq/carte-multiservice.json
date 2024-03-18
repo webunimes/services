@@ -1,0 +1,37 @@
+{
+  "profil": "",
+  "titre": "Carte multiservice",
+  "sousArticle": [
+    {
+      "profil": "",
+      "titre": "Comment obtenir une carte multiservice ?",
+      "contenu": [
+        {
+          "profil": "2-3",
+          "titre": "Carte « Professionnelle »",
+          "paragraphe": "Les personnels en font la demande depuis la page d’accueil de l’ENT (Tuile SGC – Système de gestion des cartes). Elle est ensuite traitée par la scolarité, en charge d’associer un numéro de carte à chaque personnel avant de la lui transmettre par courrier."
+
+      
+        },
+        {
+          "profil": "1",
+          "titre": "Carte « Étudiant »",
+          "paragraphe": "La carte des étudiants est éditée, sur place, lors de l’inscription ou de la réinscription par les différents services de scolarité."
+        }
+      ]
+    },
+    {
+      "profil": "",
+      "titre": "J'ai perdu ma carte multiservice : que faire ?",
+      "contenu": [
+        {
+          "paragraphe": "Une carte perdue doit être signalée rapidement afin qu’elle soit invalidée et ne puisse plus être utilisée pour pénétrer dans les locaux sécurisés ou pour un paiement CROUS. Il est possible de mettre en opposition sa carte depuis l’ENT (menu Outils > SGC) ou de signaler cette perte à la scolarité. L’édition d’une nouvelle carte peut être demandée via le même lien.",
+          "lien": {
+            "texte": "Accéder au service",
+            "url": "https://badge.unimes.fr/user"
+          }
+        }
+      ]
+    }
+  ]
+}

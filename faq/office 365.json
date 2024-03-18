@@ -1,0 +1,28 @@
+{
+  "profil": "",
+  "titre": "Office 365",
+  "sousArticle": [
+    {
+      "titre": "Accéder au service Office 365",
+      "contenu": [
+        {
+          "profil": "",
+          "paragraphe": "Veuillez utiliser l’identifiant Microsoft Office associé à votre compte institutionnel. Cet identifiant est de la forme login@office.unimes.fr (veuillez à ne pas oublier l’extension @office.unimes.fr) où « login » doit être remplacé par l’identifiant que vous utilisez pour vous connecter au CAS ou à l’ENT."
+        }
+      ]
+    },
+    {
+      "titre": "J’ai perdu mon mot de passe, que dois-je faire ?",
+      "contenu": [
+        {
+          "profil": "",
+          "paragraphe": "Le mot de passe Office 365 est synchronisé par le biais des identifiants utilisés à l’université. Vous ne devez pas utiliser la procédure de rappel de mot de passe proposée par Microsoft. Si vous rencontrez un problème persistant d’authentification sur le site de Microsoft, vous devez vous rapprocher de la DSIUN.",
+          "lien": {
+            "texte": "Contacter la DSIUN",
+            "url": "http://ent.unimes.fr/uPortal/f/u30l1s56/normal/render.uP"
+          }
+        }
+      ]
+    }
+  ]
+}
