@@ -1,0 +1,30 @@
+[
+  {
+    "texte": "Je viens d'arriver à l'Université de Nîmes",
+    "profil": ""
+  },
+  {
+    "texte": "J'ai un problème avec mon comtpe informatique",
+    "profil": ""
+  },
+  {
+    "texte": "Je veux me connecter en wifi",
+    "profil": ""
+  },
+  {
+    "texte": "J'ai besoin d'utiliser un VPN",
+    "profil": "2-3"
+  },
+  {
+    "texte": "Je rencontre un problème sur e-campus",
+    "profil": "2-3"
+  },
+  {
+    "texte": "J'ai un problème avec mon emploi du temps",
+    "profil": "1"
+  },
+  {
+    "texte": "J'ai besoin d'information sur ma carte multiservice",
+    "profil": ""
+  }
+]
