@@ -1,13 +1,12 @@
 [
-
-  {
-    "texte": "Identité numérique",
-    "icon": "fa-regular fa-id-card"
-  },
     {
     "texte": "Assistance & Pilotage - Extraction",
     "icon": "fa-solid fa-handshake-angle",
     "profil": ""
+  },
+    {
+    "texte": "Identité numérique",
+    "icon": "fa-regular fa-id-card"
   },
   {
     "texte": "Audiovisuel",
