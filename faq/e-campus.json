@@ -1,6 +1,8 @@
 {
   "profil": "2-3",
   "titre": "e-campus",
+  "FaqParents": ["01", "05", "", "", ""],
+
   "sousArticle": [
     {
       "profil": "2-3",

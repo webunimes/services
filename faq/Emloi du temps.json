@@ -1,5 +1,7 @@
 {
   "titre": "Emploi du temps",
+  "FaqParents": ["01", "06", "", "", ""],
+
   "sousArticle": [
     {
       "profil": "2-3",
