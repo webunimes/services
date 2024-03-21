@@ -1,0 +1,97 @@
+{
+  "titre": "Pilotage / Extraction",
+  "categorieParent": "Assistance & Pilotage - extraction",
+
+  "profil": "2-3",
+  "motCles": ["aide", "décision", "gfc", "sap", "Business"],
+  "sections": [
+    [
+      { "titre": "Présentation du service" },
+      {
+        "paragraphe": "La DSIUN a mis en place plusieurs outils pour le pilotage et l’aide à la décision. Ces outils permettent une restitution dynamique et fiable des données contenues dans les différentes briques de notre Système d’Information."
+      },
+      {
+        "soustitre": "SAP Business Objects"
+      },
+      {
+        "image": "logo-sa-bo.jpg"
+      },
+      {
+        "paragraphe": "Les Univers BO sont soit créés par la DSIUN de l’Université de Nîmes, soit par d’autres établissement partenaires ou par l’éditeur du logiciel."
+      },
+      {
+        "paragraphe": "L’Univers est la représentation totale ou partielle de la base de données adaptée à un métier. A ce jour, nos univers couvrent les domaines GBCP : Dépenses, Recettes, Marchés , Budget et Misions ainsi que les Ressources Humaines (Pêche, Mangue), la Gestion des Stages (PSTAGE) et la Scolarité (édition des diplômes, inscriptions…)"
+      },
+      {
+        "paragraphe": "Les différents rapports créés à partir de ces Univers peuvent être développés directement par les métiers, après une formation à l’outil Web Intelligence, ils peuvent également être créés par la DSIUN sur demande."
+      },
+      {
+        "soustitre": "gfc-Situations"
+      },
+      {
+        "paragraphe": "Le module GBCP gfc-Situations de la suite Cocktail permet la génération d’états de suivi (PDF, Excel) à partir des données issues du SI financier (GBCP) Cocktail. Il remplace l’ancien module RGCP « Situations ». La plupart des états sont livrés par Cocktail mais la DSIUN a la possibilité d’en développer ou d’ajouter ceux d’autres établissements."
+      },
+      {
+        "soustitre": "Open Reports"
+      },
+      {
+        "paragraphe": "Open Reports est un outil opensource et flexible de génération de rapports dynamiques. Le principal avantage de cet outil, est sa capacité à pouvoir accéder à n’importe quelle base de données de notre établissement et de restituer l’information sous forme de tableau Excel ou en PDF."
+      }
+    ],
+    [
+      { "titre": "Accès au service" },
+      {
+        "soustitre": "Application Business Objects"
+      },
+      {
+        "paragraphe": "Demande de compte par ticket à la DSIUN par le responsable du service"
+      },
+      {
+        "lien": {
+          "texte": "Accès à l'application",
+          "url": "https://bo.unimes.fr"
+        }
+      },
+      {
+        "soustitre": "Application gfc-Situations"
+      },
+      {
+        "paragraphe": " Demande de compte Au service financier"
+      },
+      {
+        "lien": {
+          "texte": "Accès à l'application",
+          "url": "https://hippolyte.unimes.fr"
+        }
+      },
+      {
+        "soustitre": "Application Open Reports"
+      },
+      {
+        "paragraphe": "Demande de compte par ticket à la DSIUN par le responsable du service"
+      },
+      {
+        "paragraphe": "Accès : ENT > Outils > Extractions"
+      },
+      {
+        "lien": {
+          "texte": "ENT",
+          "url": "https://ent.unimes.fr/"
+        }
+      }
+    ],
+    [
+      { "titre": "Engagements et niveaux de service" },
+
+      {
+        "soustitre": "Démarche qualité :"
+      },
+      {
+        "paragraphe": "- La fiabilité des informations restituées est primordiale, chaque rapport publié doit être validé par un responsable métier et/ou le service pilotage."
+      },
+      {
+        "paragraphe": "- La qualité et la complétude des éléments resitués s’inscrit dans une démarche globale de fiabilisation du SI."
+      }
+    ]
+  ]
+}

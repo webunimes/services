@@ -1,0 +1,451 @@
+{
+  "titre": "Logiciels installés",
+  "categorieParent": ["poste de travail"],
+  "motCles": [
+    "programmes",
+    "logiciel",
+    "application",
+    "Environnement",
+    "numérique"
+  ],
+  "sections": [
+    [
+      {
+        "titre": "Présentation du service"
+      },
+      {
+        "paragraphe": "Plusieurs applications sont disponibles sur les ordinateurs de l’Université. Il y a un tronc commun installé sur tous les ordinateurs. Puis en fonction des besoins pédagogiques, de recherche ou encore administratifs, on retrouve différentes applications."
+      },
+      {
+        "paragraphe": "Concernant la pédagogie, les enseignants peuvent effectuer la demande d’installation d’une application pour un cours dans une salle informatique."
+      },
+      {
+        "paragraphe": "Cette demande doit être effectué au minimum 15 jours avant la date du cours de façon à ce que la DSI organise l’installation. Concernant les logiciels sous licence propriétaire passant pas un achat, le demande doit être effectué l’année précédente pour intégration au budget."
+      }
+    ],
+    [
+      {
+        "titre": "Tronc commun"
+      },
+
+      {
+        "soustitre": "Le tronc commun suivant est installé sur tous les ordinateurs de l’Université :"
+      },
+
+      {
+        "paragraphe": "7-zip / Abobe Acrobat Reader / AdoptOpenJDK JDK avec Eclipse OpenJ9 / LibreOffice / Mozilla Firefox / PDFsam Basic / Microsoft Office Professionnal Plus 2019 / VLC media player"
+      }
+    ],
+    [
+      {
+        "titre": "Liste des applications & disponibilités dans les salles informatiques"
+      },
+
+      {
+        "soustitre": "Adobe Acrobat X Pro"
+      },
+
+      {
+        "paragraphe": "Site Vauban : Salles G101 / G201 / G202 / G301 / Salle multimédia de la bibliothèque."
+      },
+      {
+        "paragraphe": "Site Hoche : Salles H106 / H001."
+      },
+
+      {
+        "soustitre": "Adobe Creative Cloud Suite"
+      },
+      {
+        "paragraphe": "Site Hoche : Salle H106."
+      },
+
+      {
+        "soustitre": "Adobe Creative Suite 6 Design Standard"
+      },
+
+      {
+        "paragraphe": "Site Vauban : Salles G101 / G201 / G202 / G301."
+      },
+
+      {
+        "soustitre": "Adobe Creative Suite 5.5 Design Premium"
+      },
+      {
+        "paragraphe": "Site Hoche : Salle H001."
+      },
+      {
+        "soustitre": "Antidote 9"
+      },
+      {
+        "paragraphe": "Site Vauban : Salle G101."
+      },
+
+      {
+        "soustitre": "Audacity 2.3.2"
+      },
+      {
+        "paragraphe": "Site Vauban : Salle G302 / Salle multimédia de la bibliothèque."
+      },
+      {
+        "paragraphe": "Site Hoche : Salle H106"
+      },
+
+      {
+        "soustitre": "Autodesk AutoCAD 2019"
+      },
+
+      {
+        "paragraphe": "Site Vauban : Salles G101 / G201 / G202."
+      },
+
+      {
+        "soustitre": "Blender"
+      },
+
+      {
+        "paragraphe": "Site Vauban : Salles G101 / G201 / G202 / G301 / Salle multimédia de la bibliothèque."
+      },
+
+      {
+        "paragraphe": "Site des Carmes : Salle 301."
+      },
+
+      {
+        "soustitre": "Dev-C++"
+      },
+
+      {
+        "paragraphe": "Site des Carmes : Salles 301 / 512."
+      },
+
+      {
+        "soustitre": "Dev-C++ 5 beta 9 release (4.9.9.2)"
+      },
+
+      {
+        "paragraphe": "Site des Carmes : Salles 512."
+      },
+
+      {
+        "soustitre": "Dia"
+      },
+      {
+        "paragraphe": "Site des Carmes : Salles 301."
+      },
+
+      {
+        "soustitre": "Evince 2.32.0.145"
+      },
+
+      {
+        "paragraphe": "Site Vauban : Salles G301 / G302."
+      },
+
+      {
+        "paragraphe": "Site des Carmes : Salle 512."
+      },
+
+      {
+        "soustitre": "GanttProject"
+      },
+      {
+        "paragraphe": "Site des Carmes : Salles 512 / 516."
+      },
+
+      {
+        "soustitre": "Gephi 0.9.1"
+      },
+      {
+        "paragraphe": "Site Hoche : Salle H106"
+      },
+
+      {
+        "soustitre": "GIMP 2.10.12"
+      },
+      {
+        "paragraphe": "Site Vauban : Salles G101 / G201 / G202 / Salle multimédia de la bibliothèque."
+      },
+      {
+        "paragraphe": "Site des Carmes : Salle 301."
+      },
+      {
+        "paragraphe": "Site Hoche : Salle H106."
+      },
+
+      {
+        "soustitre": "Notepad++"
+      },
+
+      {
+        "paragraphe": "Site Vauban : Salles G101 / G201 / G202 / G301 / G302 / Salle multimédia de la bibliothèque."
+      },
+      {
+        "paragraphe": "Site des Carmes : Salles 301 / 512 / 516."
+      },
+      {
+        "paragraphe": "Site Hoche : Salles H106 / H001."
+      },
+
+      {
+        "soustitre": "Rhinoceros 5"
+      },
+
+      {
+        "paragraphe": "Site Vauban : Salles G101 / G201 / G202 / G301 / G302."
+      },
+      {
+        "paragraphe": "Site Hoche : Salle H106."
+      },
+
+      {
+        "soustitre": "SOLIDWORKS 2019 SP04"
+      },
+
+      {
+        "paragraphe": "Site Vauban : Salles G101 / G201 / G202 / Salle multimédia de la bibliothèque."
+      },
+
+      {
+        "paragraphe": "Site Hoche : Salle H106."
+      },
+
+      {
+        "soustitre": "STATISTICA 13.5.0.17"
+      },
+
+      {
+        "paragraphe": "Site Vauban : Salles G101 / G201 / G202 / G301 / G302 / Salle multimédia de la bibliothèque."
+      },
+
+      {
+        "soustitre": "SphinxIQ2"
+      },
+
+      {
+        "paragraphe": "Site Vauban : Salles G101 / G201 / G202 / G301 / G302."
+      },
+      {
+        "soustitre": "XMind ZEN 9.3.1"
+      },
+
+      {
+        "paragraphe": "Site Vauban : Salles G101 / G201 / G202 / Salle multimédia de la bibliothèque."
+      },
+      {
+        "paragraphe": "Site des Carmes : Salle 301."
+      },
+
+      {
+        "paragraphe": "Site Hoche : Salle H106."
+      },
+
+      {
+        "soustitre": "Zotero"
+      },
+
+      {
+        "paragraphe": "Site Vauban : Salle G202 / Salle multimédia de la bibliothèque."
+      },
+
+      {
+        "paragraphe": "Site Hoche : Salle H106."
+      },
+
+      {
+        "soustitre": "JASP 0.11.1.0"
+      },
+
+      {
+        "paragraphe": "Site Vauban : Salle G301 / Salle multimédia de la bibliothèque."
+      },
+
+      {
+        "paragraphe": "Site Hoche : Salle H106."
+      },
+
+      {
+        "soustitre": "KompoZer 0.8b3"
+      },
+      {
+        "paragraphe": "Site Vauban : Salle multimédia de la bibliothèque."
+      },
+
+      {
+        "soustitre": "LAME v3.99.3"
+      },
+      {
+        "paragraphe": "Site Vauban : Salle multimédia de la bibliothèque."
+      },
+      {
+        "paragraphe": "Site Hoche : Salle H106."
+      },
+
+      {
+        "soustitre": "LispWorks 6.1 Personal"
+      },
+      {
+        "paragraphe": "Site des Carmes : Salles 301."
+      },
+
+      {
+        "soustitre": "Marine Sonic Technology – Sea Scan Survey"
+      },
+      {
+        "paragraphe": "Site des Carmes : Salles 301."
+      },
+
+      {
+        "soustitre": "MeshLab_64b 2016"
+      },
+      {
+        "paragraphe": "Site des Carmes : Salles 301."
+      },
+      {
+        "paragraphe": "Site Hoche : Salles H106."
+      },
+      {
+        "soustitre": "MiKTeX 2.9"
+      },
+      {
+        "paragraphe": "Site Vauban : Salle G302."
+      },
+      {
+        "paragraphe": "Site des Carmes : Salle 301."
+      },
+
+      {
+        "soustitre": "Npcap 0.9983"
+      },
+      {
+        "paragraphe": "Site des Carmes : Salle 301."
+      },
+      {
+        "soustitre": "OCaml"
+      },
+      {
+        "paragraphe": "Site des Carmes : Salle 301."
+      },
+
+      {
+        "soustitre": "Open eVision 2.1.0"
+      },
+      {
+        "paragraphe": "Site des Carmes : Salles 301 / 512 / 516."
+      },
+      {
+        "soustitre": "PSpice Student 9.1"
+      },
+      {
+        "paragraphe": "Site des Carmes : Salle 301."
+      },
+      {
+        "soustitre": "Phylogene V2.7.6.1"
+      },
+      {
+        "paragraphe": "Site des Carmes : Salles 301 / 512 / 516."
+      },
+      {
+        "soustitre": "Qt SDK 2010.04"
+      },
+      {
+        "paragraphe": "Site des Carmes : Salle 301."
+      },
+      {
+        "soustitre": "SWI-Prolog 8.0.3"
+      },
+      {
+        "paragraphe": "Site des Carmes : Salle 301."
+      },
+
+      {
+        "soustitre": "Texmaker 5.0.3"
+      },
+      {
+        "paragraphe": "Site des Carmes : Salle 301."
+      },
+      {
+        "soustitre": "Wampserver64 3.1.9"
+      },
+      {
+        "paragraphe": "Site des Carmes : Salle 301."
+      },
+      {
+        "soustitre": "WinPcap 4.1.3"
+      },
+      {
+        "paragraphe": "Site des Carmes : Salle 301."
+      },
+      {
+        "soustitre": "Wireshark 3.0.5"
+      },
+      {
+        "paragraphe": "Site des Carmes : Salle 301."
+      },
+      {
+        "soustitre": "scilab-5.4.0"
+      },
+      {
+        "paragraphe": "Site des Carmes : Salles 512 / 516."
+      },
+      {
+        "soustitre": "scilab-6.0.2"
+      },
+      {
+        "paragraphe": "Site des Carmes : Salle 301."
+      },
+
+      {
+        "soustitre": "HI-TECH C Compiler for the PIC10/12/16 MCUs V9.82PL0"
+      },
+      {
+        "paragraphe": "Site des Carmes : Salles 512 / 516."
+      },
+
+      {
+        "soustitre": "MPLAB"
+      },
+      {
+        "paragraphe": "Site des Carmes : Salles 512 / 516."
+      },
+
+      {
+        "soustitre": "ModelMuse 3.10.0.0"
+      },
+      {
+        "paragraphe": "Site des Carmes : Salle 512."
+      },
+      {
+        "soustitre": "Phreeqc Interactive 3.0.1-7561"
+      },
+      {
+        "paragraphe": "Site des Carmes : Salle 512."
+      },
+      {
+        "soustitre": "Processing Modflow"
+      },
+
+      {
+        "paragraphe": "Site des Carmes : Salle 512."
+      },
+      {
+        "soustitre": "ProjectLibre"
+      },
+      {
+        "paragraphe": "Site des Carmes : Salle 512."
+      },
+      {
+        "soustitre": "R for Windows 3.2.3"
+      },
+      {
+        "paragraphe": "Site des Carmes : Salle 512."
+      },
+
+      {
+        "soustitre": "RStudio"
+      },
+      {
+        "paragraphe": "Site des Carmes : Salle 512."
+      }
+    ]
+  ]
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "texte": "Assistance & Pilotage - Extraction",
+    "icon": "fa-solid fa-handshake-angle",
+    "profil": ""
+  },
+  {
+    "texte": "Identité numérique",
+    "icon": "fa-regular fa-id-card"
+  },
+  {
+    "texte": "Audiovisuel",
+    "icon": "fa-solid fa-video"
+  },
+
+  {
+    "texte": "Outils collaboratifs",
+    "icon": "fa-solid fa-gear"
+  },
+
+  {
+    "texte": "Poste de travail",
+    "icon": "fa-solid fa-laptop"
+  },
+  {
+    "texte": "Ressources humaines",
+    "icon": "fa-solid fa-people-arrows",
+    "profil": "2-3"
+  },
+  {
+    "texte": "Vie de campus",
+    "icon": "fa-solid fa-notes-medical"
+  },
+  {
+    "texte": "Sécurité",
+    "icon": "fa-solid fa-lock",
+    "profil": ""
+  },
+
+  {
+    "texte": "DEMAT",
+    "profil": "2-3",
+    "icon": "fa-solid fa-diagram-project"
+  },
+
+  {
+    "texte": "Communication",
+    "icon": "fa-solid fa-comment",
+    "profil": ""
+  },
+
+  {
+    "texte": "Recherche",
+    "icon": "fa-solid fa-microscope",
+    "profil": "2-3"
+  },
+  {
+    "texte": "Pédagogie & scolarité",
+    "icon": "fa-solid fa-graduation-cap"
+  },
+  {
+    "texte": "Finance & Patrimoine",
+    "icon": "fa-solid fa-calculator",
+    "profil": "3"
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "titre": "Wifi",
+  "categorieParent": "Poste de travail",
+  "profil": "",
+  "motCles": ["internet", "réseau", "connexion", "wifi", ""],
+
+  "sections": [
+    [
+      {
+        "titre": "Présentation du service"
+      },
+
+      {
+        "paragraphe": "L’Université de Nîmes dispose d’un réseau Wifi destiné à ses étudiants, ses enseignants et ses personnels. Plusieurs réseaux Wifi sont utilisés."
+      },
+      { "image": "logo-eduroam.png" },
+      {
+        "paragraphe": "Eduroam vise à offrir un accès sans fil sécurisé à Internet, aux personnels et étudiants, des établissements d’enseignement supérieur et de recherche lors de leurs déplacements. Les utilisateurs d’un établissement membre du projet disposeront d’un accès sécurisé à Internet depuis tous les autres établissements membres, et ceci en utilisant leur mot de passe habituel."
+      },
+      {
+        "lien": {
+          "texte": "Configurer votre accès à Eduroam",
+          "url": "https://cat.eduroam.org/"
+        }
+      },
+
+      { "image": "eduspot.png" },
+      {
+        "paragraphe": "Eduspot vise à simplifier, au niveau national, l’accès au réseau sans-fil des utilisateurs, à l’université de Nîmes, mais aussi à l’occasion de visites dans d’autres établissements."
+      }
+    ],
+
+    [
+      {
+        "titre": "Utilisation du Wifi pendant des évènements organisés à l’université"
+      },
+      {
+        "paragraphe": "Lors de l’organisation d’évènements à l’université, des personnes extérieures peuvent être amenées à utiliser le réseau wifi."
+      },
+      {
+        "paragraphe": "Les personnes extérieures travaillant dans un établissement d’enseignement supérieur et de recherche peuvent se connecter aux réseaux Eduroam et/ou Eduspot, en utilisant leurs identifiants habituels."
+      },
+      {
+        "paragraphe": "Pour les personnes extérieures ne travaillant pas dans un établissement d’enseignement supérieur et de recherche, nous pouvons mettre des solutions en place."
+      },
+      {
+        "lien": {
+          "texte": "Faire une demande",
+          "url": "https://glpi.unimes.fr/front/helpdesk.public.php"
+        }
+      }
+    ]
+  ]
+}

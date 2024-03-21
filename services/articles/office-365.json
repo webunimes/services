@@ -1,0 +1,137 @@
+{
+  "titre": "Office 365",
+  "categorieParent": "Poste de travail",
+  "profil": "",
+  "motCles": ["office", "excel", "word", "powerpoint", "Teams"],
+  "sections": [
+    [
+      {
+        "profil": ""
+      },
+
+      {
+        "titre": "Présentation du service"
+      },
+      {
+        "paragraphe": "Tout détenteur d’un compte Unimes actif – étudiant-e, enseignant-e (permanent comme vacataire), personnel administratif – peut accéder en ligne à l’ensemble des outils de la suite Office 365 et dispose d’une capacité de stockage de 1To pour archiver ses fichiers et les partager avec d’autres utilisateurs."
+      }
+    ],
+    [
+      {
+        "titre": "Comment profiter de ce service ?"
+      },
+      {
+        "paragraphe": "- Rendez-vous sur le site de Microsoft :"
+      },
+      {
+        "lien": {
+          "texte": "Visiter le site",
+
+          "url": "https://www.office.com/"
+        }
+      },
+
+      {
+        "paragraphe": "- Cliquer sur le bouton « Connexion »"
+      },
+      {
+        "paragraphe": "- Lorsque vous y êtes invité-e, veuillez saisir l’identifiant Microsoft Office associé à votre compte institutionnel. Cet identifiant est de la forme login@office.unimes.fr (veuillez à ne pas oublier l’extension @office.unimes.fr) où « login » doit être remplacé par l’identifiant que vous utilisez pour vous connecter au CAS ou à l’ENT."
+      },
+      {
+        "paragraphe": "- Saisissez votre mot de passe que vous utilisez pour l’ENT"
+      },
+      {
+        "paragraphe": "- Cliquer sur le bouton « Connexion »"
+      },
+      {
+        "soustitre": "Vous aurez accès en ligne à :"
+      },
+      {
+        "paragraphe": "Word – Excel – PowerPoint – OneNote- SharePoint – Teams – Sway – Form – Whiteboard – Video»"
+      }
+    ],
+
+    [
+      {
+        "titre": "Découvrir Office 365"
+      },
+
+      {
+        "video": "video_connexion_office_365.mp4"
+      }
+    ],
+    [
+      {
+        "profil": ""
+      },
+
+      {
+        "titre": "Comment installer Office 365 ?"
+      },
+      {
+        "paragraphe": "Microsoft autorise l’installation des logiciels de la suite Office 365 ProPlus (Word, Excel, PowerPoint, etc.) sur 5 équipements personnels. Vous pouvez également installer les clients Office 365 sur 5 smartphones et tablettes…"
+      },
+      {
+        "soustitre": "Il est important de désinstaller toutes les versions d’Office présentes dans votre ordinateur personnel avant de le téléchargement d’Office 365 ProPlus."
+      },
+      {
+        "paragraphe": "Connectez-vous au site de Microsoft comme pour l’utilisation Online"
+      },
+      {
+        "lien": {
+          "texte": "Visiter le site",
+
+          "url": "https://www.office.com/"
+        }
+      },
+      {
+        "paragraphe": "Cliquez sur « Installer Office » en haut à droite de l’écran d’accueil du portail puis suivez les assistants automatiques."
+      },
+      {
+        "lienDoc": {
+          "texte": "En savoir plus",
+
+          "url": "installer_office_unimes.pdf"
+        }
+      }
+    ],
+    [
+      {
+        "profil": ""
+      },
+
+      {
+        "titre": "Que se passe-t-il si je quitte l’établissement ?"
+      },
+
+      {
+        "paragraphe": "Lorsque vous quittez l’établissement (fin d’études, de contrat ou départ à la retraite), et que vous perdez vos accès à l’université (compte désactivé), vous perdez de fait l’accès à vos fichiers (Onedrive) et à Office Online. Les licences Office installées seront également désactivées"
+      },
+      {
+        "soustitre": "Il est impératif d’anticiper votre départ pour éviter toute perte de données …"
+      }
+    ],
+    [
+      {
+        "titre": "J’ai perdu mon mot de passe, que dois-je faire ?"
+      },
+      {
+        "paragraphe": "Le mot de passe Office 365 est synchronisé par le biais des identifiants utilisés à l’université"
+      },
+      {
+        "soustitre": " Vous ne devez pas utiliser la procédure de rappel de mot de passe proposée par Microsoft."
+      },
+      {
+        "paragraphe": "Si vous rencontrez un problème persistant d’authentification sur le site de Microsoft, vous devez vous rapprocher de la DSIUN."
+      },
+
+      {
+        "lien": {
+          "texte": "Contacter la DSIUN",
+
+          "url": "http://ent.unimes.fr/uPortal/f/u30l1s56/normal/render.uP"
+        }
+      }
+    ]
+  ]
+}

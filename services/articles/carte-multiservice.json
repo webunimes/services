@@ -1,0 +1,65 @@
+{
+  "titre": "Carte multiservice",
+  "categorieParent": "Identité numérique",
+  "profil": "",
+  "motCles": ["carte", "izly", "numérique", "crous", "étudiant"],
+  "sections": [
+    [
+      {
+        "titre": "Présentation du service"
+      },
+      {
+        "gras": "Horaires :  8h00-18h00 les jours ouvrés."
+      },
+      {
+        "paragraphe": "Cette carte est attribuée aux étudiants et aux personnels de l’Université de Nîmes. Elle est délivrée gratuitement, elle vous identifie et vous donne de fait accès à des services de l’université et du CROUS de Montpellier."
+      },
+      {
+        "paragraphe": "La carte multiservices permet :"
+      },
+      {
+        "paragraphe": "émarger aux examens et aux élections."
+      },
+      {
+        "paragraphe": "- de régler vos repas dans les restaurants et cafétérias universitaires (CROUS)."
+      },
+      {
+        "paragraphe": "- d'emprunter des documents dans les bibliothèques universitaires de l’académie."
+      },
+      {
+        "paragraphe": "- le contrôle d’accès (campus, bâtiments, salles, résidences universitaires)."
+      },
+      {
+        "paragraphe": "- d'imprimer ou photocopier des documents sur les copieurs de l’Université de Nîmes."
+      },
+      {
+        "paragraphe": "- de bénéficier des tarifs réduits liés à votre statut d’étudiant ou à votre statut personnel."
+      },
+      {
+        "paragraphe": "- de badger à l’entrée de  certains sites pour les apprentis."
+      }
+    ],
+    [
+      {
+        "titre": "Accès au service"
+      },
+
+      {
+        "soustitre": "Réactivité"
+      },
+      {
+        "paragraphe": "Les étudiants reçoivent leur carte d’étudiant lorsque leur dossier d’inscription est complet."
+      },
+      {
+        "paragraphe": "Les personnels reçoivent leur carte professionnel après saisie par la DRH."
+      },
+      {
+        "paragraphe": "Dans tous les cas, l’édition de cette carte se fait sur la chaîne d’inscription entre juillet et septembre ou à l’accueil de la scolarité"
+      },
+
+      {
+        "paragraphe": "En cas de problème technique, se référer à la page Assistance aux utilisateurs. "
+      }
+    ]
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "titre": "Demandes d'inscription",
+
+  "categorieParent": "Pédagogie & scolarité",
+  "profil": "",
+  "motCles": ["Inscription", "cursus", "demande", "Formulaire", "Inscriptions"],
+  "sections": [
+    [
+      {
+        "titre": "Présentation du service"
+      },
+
+      {
+        "paragraphe": "Gestion des candidatures aux filières sélectives de l’université de Nîmes"
+      },
+      {
+        "paragraphe": "Ce service web offre aux candidats la possibilité de déposer en ligne leurs dossiers pour candidater à des filières sélectives des formations de l’Université de Nîmes."
+      },
+      {
+        "paragraphe": "Le postulant peut ensuite suivre les différentes étapes de son dossier de candidature en ligne."
+      },
+      {
+        "paragraphe": "Toutes les démarches sont dématérialisées : communication avec le candidat, sélection, classement, réponse par mail."
+      },
+      {
+        "paragraphe": "- Dépôt de candidature en ligne par un étudiant avec dépôt de documents dématérialisés joints."
+      },
+      {
+        "paragraphe": "- Suivi de l’avancement du dossier par le candidat, via l’application et par mails."
+      },
+      {
+        "paragraphe": "- Gestion des dossiers par centre de candidature (gestionnaires de scolarité) et par commission (enseignants)."
+      },
+      {
+        "paragraphe": "- Résultats et réponses automatiques aux candidats par mail."
+      },
+      {
+        "paragraphe": "- Tableaux de bord, gestion des dossiers par lot."
+      },
+      {
+        "paragraphe": "- Paramétrage des types de réponse (types de décision, motivations d’avis, …)"
+      },
+
+      {
+        "paragraphe": "- Paramétrage des mails et courriers type."
+      }
+    ],
+    [
+      {
+        "titre": "Accès au service"
+      },
+      {
+        "paragraphe": "Les candidats accèdes à l’application par les pages d’inscription du site web ou sur le lien suivant :"
+      },
+      {
+        "lien": {
+          "texte": "aria.unimes.fr",
+
+          "url": "https://aria.unimes.fr"
+        }
+      },
+      {
+        "paragraphe": "Les gestionnaires et les enseignants y accèdent depuis l’ENT > Outils > Gestion des demandes d’inscriptions ou directement ici :"
+      },
+
+      {
+        "lien": {
+          "texte": "candidature.unimes.fr",
+
+          "url": "https://candidature.unimes.fr/"
+        }
+      },
+      {
+        "lien": {
+          "texte": "ecandidat.unimes.fr",
+
+          "url": "https://ecandidat.unimes.fr/"
+        }
+      },
+      {
+        "paragraphe": "En cas de problème technique, se référer à la page Assistance aux utilisateurs. "
+      }
+    ],
+    [
+      {
+        "titre": "Documentation"
+      },
+
+      {
+        "lien": {
+          "texte": "Documentation pour tous les candidats",
+
+          "url": "https://wiki.unimes.fr/doku.php?id=wiki:scolarite:ecandidat"
+        }
+      }
+    ]
+  ]
+}

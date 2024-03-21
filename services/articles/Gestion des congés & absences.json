@@ -1,0 +1,44 @@
+{
+  "titre": "Gestion des congés & absences",
+  "categorieParent": "Ressources humaines",
+
+  "profil": "3",
+  "motCles": ["congé", "absence", "HAMAC", "personnel", "personnels"],
+
+  "sections": [
+    [
+      {
+        "titre": "Présentation du service"
+      },
+      {
+        "paragraphe": "L’université va mettre en place un outil de gestion des congés et absences pour les personnels : HAMAC."
+      },
+
+      {
+        "paragraphe": "Le module HAMAC, Horaires Aménagés en fonction de l’ARTT et des Congés, de la sphère GRH du PGI Cocktail permet de gérer le temps de travail annualisé des personnels non enseignants d’un établissement public d’enseignement supérieur dans le respect de la loi sur l’ARTT applicable à la fonction publique."
+      },
+
+      {
+        "lien": {
+          "texte": "Accéder au service",
+
+          "url": "http://applis-web.unimes.fr/cgi-bin/WebObjects/Hamac.woa"
+        }
+      }
+    ],
+    [
+      {
+        "titre": "Documentation"
+      },
+      {
+        "lienDoc": {
+          "texte": "Guide de l’utilisateur.",
+          "url": "cok_-_guide_dutilisation_de_hamac3.2_agent.pdf"
+        }
+      },
+      {
+        "vidéo": "hamac_agents.mp4"
+      }
+    ]
+  ]
+}

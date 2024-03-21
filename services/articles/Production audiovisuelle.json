@@ -1,0 +1,133 @@
+{
+  "titre": "Production audiovisuelle",
+
+  "categorieParent": "Audiovisuel",
+  "profil": "",
+  "motCles": ["vidéo", "audio", "enregistrer", "tv", "youtube"],
+  "sections": [
+    [
+      {
+        "titre": "Présentation du service"
+      },
+      {
+        "image": "audiov00.png"
+      },
+      {
+        "paragraphe": "Le Pôle Audiovisuel produit des documents vidéo et audio pour l’université de Nîmes."
+      },
+      {
+        "gras": "Heures d’ouverture : Lundi à vendredi, de 8h00 à 12h30 et de 13h30 à 17h00."
+      },
+      {
+        "lien": {
+          "texte": "Chaîne YouTube de l'université",
+
+          "url": "https://www.youtube.com/channel/UCch2NiQ2sPQptTsHWbstX1w/featured"
+        }
+      },
+      {
+        "lien": {
+          "texte": "Web TV Unîmes",
+
+          "url": "https://webtv.unimes.fr/"
+        }
+      },
+
+      {
+        "soustitre": "Missions principales :"
+      },
+      {
+        "paragraphe": "- Production de supports de cours, de documents audiovisuels pour la recherche et d’outils de communication audiovisuels."
+      },
+      {
+        "paragraphe": "- Prise de vue et prise de son."
+      },
+      {
+        "paragraphe": "- Photographie et retouche photo."
+      },
+      {
+        "paragraphe": "- Montage et postproduction."
+      },
+      {
+        "paragraphe": "- Numérisation de documents vidéo et audio."
+      },
+      {
+        "paragraphe": "- Prêt de matériels sous condition préalable de réservation."
+      },
+
+      {
+        "image": "audiov01.png"
+      }
+    ],
+    [
+      {
+        "titre": "Studio d’enregistrement"
+      },
+      {
+        "paragraphe": "Le pôle Audiovisuel met à votre disposition son studio d’enregistrement pour effectuer des captations avec fond vert."
+      },
+      {
+        "paragraphe": "L’accès et l’utilisation du studio font l’objet d’une demande d’occupation de salle auprès du Pôle Audiovisuel."
+      },
+      {
+        "lien": {
+          "texte": "Faire une demande de réservation",
+
+          "url": "https://glpi.unimes.fr/front/ticket.form.php"
+        }
+      },
+      {
+        "video": "https://www.youtube.com/watch?v=coxOQnrMBAI"
+      }
+    ],
+    [
+      {
+        "titre": "Modalités d'accès"
+      },
+
+      {
+        "paragraphe": "Dans le cadre de la production audiovisuelle, vos demandes de prestation doivent se faire via GLPI, catégorie « Audiovisuel »."
+      },
+      {
+        "paragraphe": "Les demandes de captation avec prestation déclenchent obligatoirement une réunion préparatoire entre l’organisateur de l’événement à filmer et le Pôle Audiovisuel."
+      },
+
+      {
+        "quote": "Cette première prise de contact doit avoir lieu avant la validation de la fiche navette de l’événement."
+      },
+
+      {
+        "lienDoc": {
+          "texte": "Télécharger le formulaire",
+
+          "url": "Pr%C3%AAt-de-mat%C3%A9riel.pdf"
+        }
+      },
+      {
+        "lien": {
+          "texte": "Faire une demande",
+
+          "url": "https://glpi.unimes.fr/front/ticket.form.php"
+        }
+      },
+
+      {
+        "gras": "Droits de diffusion sur les plateformes publiques de diffusion d’UNÎMES"
+      },
+      {
+        "lienDoc": {
+          "texte": "Télécharger le formulaire d'autorisation d'enregistrement(Audio)",
+
+          "url": "Autorisation-droit-audioAuteur2019-1.pdf"
+        }
+      },
+      {
+        "lienDoc": {
+          "texte": "Télécharger le formulaire d'autorisation d'enregistrement (Vidéo)",
+
+          "url": "Autorisation-droit-image2019-1.pdf"
+        }
+      }
+    ]
+  ]
+}

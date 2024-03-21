@@ -1,0 +1,56 @@
+{
+  "titre": "Assistance aux utilisateurs",
+  "categorieParent": "Assistance & Pilotage - extraction",
+  "profil": "",
+  "motCles": ["Assistances", "ticket", "DSIUN", "sos", "aide"],
+  "sections": [
+    [
+      {
+        "titre": "Présentation du du service"
+      },
+      {
+        "gras": "Horaires: 7h45-18h00 les jours ouvrés."
+      },
+      {
+        "paragraphe": "Chaque utilisateur des services proposés peut contacter le support informatique."
+      },
+      {
+        "soustitre": "Contacter le support informatique"
+      },
+
+      {
+        "lien": {
+          "texte": "Créer un ticket",
+
+          "url": "https://glpi.unimes.fr/front/helpdesk.public.php"
+        }
+      },
+      {
+        "lien": {
+          "texte": "Envoyer un mail",
+
+          "url": "sos@unimes.fr"
+        }
+      },
+      {
+        "soustitre": "Réactivité"
+      },
+      {
+        "paragraphe": "Prise en compte de votre besoin par les équipes compétentes dans les 2 heures"
+      },
+      {
+        "paragraphe": "Escalades vers les équipes techniques pour des demandes plus complexes"
+      },
+
+      {
+        "soustitre": "Démarche qualité"
+      },
+      {
+        "paragraphe": "Une démarche qualité d’amélioration continue et des enquêtes de satisfaction liées à nos interventions"
+      },
+      {
+        "paragraphe": "Un suivi individualisé de vos demandes"
+      }
+    ]
+  ]
+}

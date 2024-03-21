@@ -1,0 +1,76 @@
+{
+  "titre": "Accès à distance (VPN)",
+  "categorieParent": "poste de travail",
+  "profil": "2-3",
+  "motCles": ["Réseau", "VPN", "distanciel", "eduVPN", "SSL"],
+  "sections": [
+    [
+      {
+        "titre": "Introduction"
+      },
+      {
+        "paragraphe": "Certains personnels ou enseignants de l’université peuvent avoir besoin d’accéder à certaines ressources habituellement accessibles uniquement depuis le réseau interne de l’Université depuis un réseau extérieur. Pour ce faire, la DSIUN propose d’accéder à certaines de ces ressources via un VPN."
+      }
+    ],
+    [
+      {
+        "titre": "Les différents types de VPN"
+      },
+      {
+        "paragraphe": "La DSIUN propose 2 types de VPN, en fonction du besoin de l’utilisateur :"
+      },
+      {
+        "soustitre": "VPN SSL"
+      },
+      {
+        "paragraphe": "Le VPN SSL est un VPN accessible via son navigateur. Ce type de VPN est notamment très utilisé pour l’administration de sites web. Pour y accéder, il faut :"
+      },
+      {
+        "paragraphe": "- faire une demande auprès de la DSIUN pour obtenir les autorisations nécessaires."
+      },
+      {
+        "paragraphe": "- accéder à l’URL suivante via un navigateur :"
+      },
+      {
+        "lien": {
+          "texte": "vpn.unimes.fr",
+
+          "url": "https://vpn.unimes.fr"
+        }
+      },
+      {
+        "paragraphe": "- se connecter avec les identifiants habituels"
+      },
+      {
+        "soustitre": "VPN IPSEC"
+      },
+      {
+        "paragraphe": "Le VPN IPSEC (eduVPN) est un VPN plus sécurisé que le VPN SSL et nécessite l’installation d’un client."
+      },
+      {
+        "paragraphe": "Les utilisateurs de postes sous Windows peuvent l’installer depuis l’application « Portail d’entreprise »."
+      },
+      {
+        "paragraphe": "Les utilisateurs de postes sous macOS X peuvent l’installer depuis l’application « Self Service »."
+      },
+      {
+        "lien": {
+          "texte": "Il est également téléchargeable",
+
+          "url": "https://www.eduvpn.org/client-apps/"
+        }
+      },
+      {
+        "lien": {
+          "texte": "Procédure pour la configuration",
+
+          "url": "https://wiki.unimes.fr/doku.php?id=wiki:reseau:vpneduvpn"
+        }
+      },
+
+      {
+        "paragraphe": "Les personnels enseignants et administratifs ont accès au service avec leurs identifiants habituels."
+      }
+    ]
+  ]
+}

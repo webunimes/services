@@ -1,0 +1,30 @@
+{
+  "titre": "Câblage réseau",
+  "categorieParent": "Poste de travail",
+  "profil": "2-3",
+  "motCles": ["prise", "cablage", "réseau", "", ""],
+  "sections": [
+    [
+      {
+        "titre": "Informations Générales"
+      },
+      {
+        "paragraphe": "Le câblage réseau est sous-traité à une entreprise. Pour toute demande d’ajout de prises réseau, merci de créer un ticket."
+      },
+      {
+        "lien": {
+          "texte": "Demander l'ajout de prise réseau",
+
+          "url": "https://glpi.unimes.fr/front/helpdesk.public.php"
+        }
+      },
+
+      {
+        "soustitre": "Attention"
+      },
+      {
+        "paragraphe": "L’installation de hub, switch ou borne wifi est totalement interdit sur le réseau de l’université. Seule l’équipe réseau de la DSIUN est autorisée à modifier l’infrastructure réseau."
+      }
+    ]
+  ]
+}

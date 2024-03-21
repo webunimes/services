@@ -1,0 +1,108 @@
+{
+  "titre": "Easy scol",
+  "categorieParent": "Demat",
+  "profil": "",
+    "motCles": ["", "", "", "", ""],
+  "sections": [
+    [
+      {
+        "profil": ""
+      },
+
+      {
+        "titre": ""
+      },
+      {
+        "paragraphe": ""
+      },
+      {
+        "soustitre": ""
+      },
+      {
+        "paragraphe": ""
+      },
+      {
+        "souligne": ""
+      },
+      {
+        "italique": ""
+      },
+      {
+        "gras": ""
+      },
+      {
+        "quote": ""
+      },
+      {
+        "image": ""
+      },
+      {
+        "video": ""
+      },
+      {
+        "lien": {
+          "texte": "",
+
+          "url": ""
+        }
+      },
+      {
+        "lienDoc": {
+          "texte": "",
+
+          "url": ""
+        }
+      }
+    ],
+    [
+      {
+        "profil": ""
+      },
+
+      {
+        "titre": ""
+      },
+      {
+        "paragraphe": ""
+      },
+      {
+        "soustitre": ""
+      },
+      {
+        "paragraphe": ""
+      },
+      {
+        "souligne": ""
+      },
+      {
+        "italique": ""
+      },
+      {
+        "gras": ""
+      },
+      {
+        "quote": ""
+      },
+      {
+        "image": ""
+      },
+      {
+        "video": ""
+      },
+      {
+        "lien": {
+          "texte": "",
+
+          "url": ""
+        }
+      },
+      {
+        "lienDoc": {
+          "texte": "",
+
+          "url": ""
+        }
+      }
+    ]
+  ]
+}

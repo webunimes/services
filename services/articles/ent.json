@@ -1,0 +1,53 @@
+{
+  "titre": "E.N.T",
+  "categorieParent": "poste de travail",
+  "motCles": ["ent", "numériques", "Environnement", "travail", ",outils"],
+  "profil": "",
+
+  "sections": [
+    [
+      {
+        "titre": "Présentation du service"
+      },
+      {
+        "paragraphe": "L’E.N.T. est le portail des services numériques  liés aux activités d’enseignement/apprentissage, de recherche, ainsi qu’aux activités administratives de l’université. Il s’agit d’un espace sécurisé, conçu pour répondre aux besoins des membres de la communauté de l’Université de Nîmes accessible depuis tout ordinateur connecté à Internet. Chaque utilisateur dispose d’un compte utilisateur qui, à partir d’une seule authentification (identifiant et mot de passe), ouvre sur un ensemble d’applications web, ressources, services pratiques ou informations et documents administratifs adaptés à son profil et à ses activités."
+      },
+
+      {
+        "lien": {
+          "texte": "Accéder au service",
+
+          "url": "https://ent.unimes.fr"
+        }
+      }
+    ],
+    [
+      {
+        "titre": "Fonctionnalités"
+      },
+      {
+        "paragraphe": "Authentification unique."
+      },
+
+      {
+        "paragraphe": "Possibilité de personnaliser son E.N.T."
+      },
+      {
+        "paragraphe": "Liens vers des applications web de l’université."
+      },
+      {
+        "paragraphe": "Accès à un espace (onglet Vie de l’université) de présentation du fonctionnement de l’université et de partage d’informations, ressources ou documents de la part des services centraux et/ou directions."
+      },
+      {
+        "paragraphe": "Accès à un espace (onglet Vie de l’université) de présentation des projets en cours."
+      },
+
+      {
+        "soustitre": "Disponibilités"
+      },
+      {
+        "paragraphe": "La DSIUN s’engage à fournir une plage de disponibilité du service du lundi au vendredi de 8 heures à 18 heures hors jours fériés"
+      }
+    ]
+  ]
+}
