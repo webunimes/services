@@ -1,6 +1,7 @@
 {
   "profil": "",
-  "titre": "Ceci est un titre de page",
+  "titre": "",
+  "FaqParents": ["", "", "", "", ""],  
   "sousArticle": [
     {
       "profil": "",
@@ -109,3 +110,19 @@
     }
   ]
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

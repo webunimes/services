@@ -1,30 +1,37 @@
 [
   {
     "texte": "Je viens d'arriver à l'Université de Nîmes",
-    "profil": ""
+    "profil": "",
+    "id": "01"
   },
   {
-    "texte": "J'ai un problème avec mon comtpe informatique",
-    "profil": ""
+    "texte": "J'ai un problème avec mon compte informatique",
+    "profil": "",
+    "id": "02"
   },
   {
     "texte": "Je veux me connecter en wifi",
+    "id": "03",
     "profil": ""
   },
   {
     "texte": "J'ai besoin d'utiliser un VPN",
-    "profil": "2-3"
+    "profil": "2-3",
+    "id": "04"
   },
   {
     "texte": "Je rencontre un problème sur e-campus",
-    "profil": "2-3"
+    "profil": "2-3",
+    "id": "05"
   },
   {
     "texte": "J'ai un problème avec mon emploi du temps",
-    "profil": "1"
+    "id": "06",
+    "profil": ""
   },
   {
     "texte": "J'ai besoin d'information sur ma carte multiservice",
-    "profil": ""
+    "profil": "",
+    "id": "07"
   }
 ]
