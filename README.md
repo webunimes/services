@@ -10,6 +10,8 @@ Notice ARTICLES:
 ![Preview](https://raw.githubusercontent.com/gbunimes/catnum2/master/public/Tuto-Articles.webp)
 
 
+Notice CATEGORIES DE LA FAQ (problématiques):
+
 Notice FAQ:
 
 ![Preview](https://raw.githubusercontent.com/gbunimes/catnum2/master/public/Tuto-FAQ.webp)
@@ -25,3 +27,5 @@ Présentation générale :
 ![Preview](https://raw.githubusercontent.com/gbunimes/catnum2/master/public/3.webp)
 
 ![Preview](https://raw.githubusercontent.com/gbunimes/catnum2/master/public/4.webp)
+
+![Preview](https://raw.githubusercontent.com/gbunimes/catnum2/master/public/5.webp)
