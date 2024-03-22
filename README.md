@@ -12,10 +12,11 @@ Notice ARTICLES:
 
 Notice CATEGORIES DE LA FAQ (problématiques):
 
+![Preview](https://raw.githubusercontent.com/webunimes/services/master/Tuto-catégories-FAQ.webp)
+
 Notice FAQ:
 
 ![Preview](https://raw.githubusercontent.com/webunimes/services/master/Tuto-FAQ.webp)
-
 
 
 Présentation générale :
