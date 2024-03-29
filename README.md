@@ -2,7 +2,7 @@
 
 Notice CATEGORIES:
 
-![Preview](https://raw.githubusercontent.com/webunimes/services/master/Tuto-catégories.webp)
+![Preview](https://raw.githubusercontent.com/webunimes/services/master/Tuto-categories.webp)
 
 
 Notice ARTICLES:
@@ -12,7 +12,7 @@ Notice ARTICLES:
 
 Notice CATEGORIES DE LA FAQ (problématiques):
 
-![Preview](https://raw.githubusercontent.com/webunimes/services/master/Tuto-catégories-FAQ.webp)
+![Preview](https://raw.githubusercontent.com/webunimes/services/master/Tuto-categories-FAQ.webp)
 
 Notice FAQ:
 
