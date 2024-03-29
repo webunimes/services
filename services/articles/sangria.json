@@ -1,19 +1,19 @@
 {
   "titre": "Sangria",
   "categorieParent": "Recherche",
-  "profil": "",
-    "motCles": ["", "", "", "", ""],
+  "profil": "3",
+    "motCles": ["sangria", "recherche"],
   "sections": [
     [
       {
-        "profil": ""
+        "profil": "3"
       },
 
       {
         "titre": ""
       },
       {
-        "paragraphe": ""
+        "paragraphe": "L'application Sangria permet la gestion et le pilotage de la partie administrative et financière de l'activité « Recherche » au sein de l'établissement."
       },
       {
         "soustitre": ""
