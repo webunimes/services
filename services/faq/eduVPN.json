@@ -1,7 +1,7 @@
 {
   "profil": "2-3",
   "titre": "eduVPN",
-  "FaqParents": ["04", "", "", "", ""],
+  "FaqParents": ["04"],
 
   "sousArticle": [
     {
