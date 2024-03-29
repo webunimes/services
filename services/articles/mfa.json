@@ -1,7 +1,6 @@
 
 {
   "titre": "MFA",
-
   "categorieParent": "Identité numérique",
   "profil": "",
   "motCles": ["MFA", "Authentification Multifacteur", "Authentification", "Multifacteur", "Protection", "Sécurité"],
@@ -40,7 +39,6 @@
       {
         "lien": {
           "texte": "Effectuer une demande de mise en place du MFA",
-
           "url": "https://glpi.unimes.fr/front/helpdesk.public.php?create_ticket=1"
         }
       }
