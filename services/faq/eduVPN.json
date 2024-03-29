@@ -1,0 +1,36 @@
+{
+  "profil": "",
+  "titre": "eduVPN",
+  "FaqParents": ["04", "", "", "", ""],
+
+  "sousArticle": [
+    {
+      "titre": "Le client eduVPN n'est pas installé.",
+      "contenu": [
+        {
+          "profil": "",
+          "paragraphe": "Vous utilisez un ordinateur sous Windows :"
+        }
+        {
+          "profil": "",
+          "paragraphe": "Vous utilisez un ordinateur sous macOS X :"
+        }
+
+      ]
+    },
+    {
+      "titre": "Le client eduVPN est installé sur mon poste.",
+      "contenu": [
+        {
+          "profil": "",
+          "paragraphe": "Téléchargez et suivez la procédure de configuration du client eduVPN ci-dessous.",
+          "lien": {
+            "texte": "Procédure de configuration eduVPN",
+            "url": ""
+          }
+        }
+      ]
+    }
+  ]
+}
+
