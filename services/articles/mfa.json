@@ -17,13 +17,13 @@
         "paragraphe": "Voici les trois principaux types de méthodes d’authentification MFA :"
       },
       {
-        "paragraphe": "1 - Connaissance : Quelque chose que l’utilisateur sait, comme un mot de passe ou un code PIN."
+        "paragraphe": "  - Connaissance : Quelque chose que l’utilisateur sait, comme un mot de passe ou un code PIN."
       },
       {
-        "paragraphe": "2 - Possession : Quelque chose que l’utilisateur possède, comme un smartphone ou un badge."
+        "paragraphe": "  - Possession : Quelque chose que l’utilisateur possède, comme un smartphone ou un badge."
       },
       {
-        "paragraphe": "3 - Inhérence : Quelque chose qui est intrinsèque à l’utilisateur, comme des empreintes digitales ou la reconnaissance vocale."
+        "paragraphe": "  - Inhérence : Quelque chose qui est intrinsèque à l’utilisateur, comme des empreintes digitales ou la reconnaissance vocale."
       },
       {
         "paragraphe": "L’utilisation du MFA améliore considérablement la sécurité en rendant beaucoup plus difficile pour les cybercriminels l’accès à des comptes ou des ressources protégés."
