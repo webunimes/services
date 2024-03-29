@@ -10,16 +10,19 @@
       },
 
       {
-        "titre": ""
+        "titre": "Présentation du service"
       },
       {
-        "paragraphe": ""
+        "soustitre": "Vous souhaitez retrouver les services numériques de l'Université de Nîmes sur votre smartphone ou votre tablette ?"
       },
       {
-        "soustitre": ""
+        "paragraphe": "Les étudiants de l’université de Nîmes peuvent utiliser l'application mobile UNIMES CAMPUS. De leur smartphone, ils pourront en temps réel :"
       },
       {
-        "paragraphe": ""
+        "paragraphe": "L’université de Nîmes a choisi de proposer à ses étudiants un outil pouvant faciliter leur quotidien en leur permettant d'accéder facilement à la communication institutionnelle de l’établissement, l'information sur la vie de son campus, ses informations universitaires, les services numériques de l'établissement. Le choix s’est porté sur la solution de la société AppScho qui rassemble toutes les informations et services issus de différents services de l'établissement sur un seul outil. Ce guichet numérique unique pour tous les services de l'étudiant est en lien avec les systèmes d'information de l’université et permet ainsi un accès simplifié aux outils numériques."
+      },
+      {
+        "paragraphe": "L'application s'adresse aussi à d'autres utilisateurs, par exemple enseignants, personnel, personnes externes, étudiants candidats et visiteurs et sera un atout lors d’événement type portes ouvertes."
       },
       {
         "souligne": ""
@@ -34,7 +37,13 @@
         "quote": ""
       },
       {
-        "image": ""
+        "image": "unimes-campus-capture1.jpg"
+      },
+      {
+        "image": "unimes-campus-capture2.jpg"
+      },
+      {
+        "image": "unimes-campus-capture3.jpg"
       },
       {
         "video": ""
@@ -60,19 +69,36 @@
       },
 
       {
-        "titre": ""
+        "titre": "L'ESSENTIEL À SAVOIR"
+      },
+      {
+        "soustitre": "L'application mobile de l'Université de Nîmes, disponible sur l'App Store et Google Play Store"
+      },
+      {
+        "image": "qrcode-unimes-campus.png"
+      },
+      {
+        "paragraphe": "L’université de Nîmes lance son application mobile UNIMES CAMPUS : découverte de l’université ou gestion du quotidien pour les étudiants."
       },
       {
         "paragraphe": ""
       },
       {
-        "soustitre": ""
+        "souligne": "Télécharger l'application"
       },
       {
-        "paragraphe": ""
+        "lien": {
+          "texte": "sur Google Play Store",
+
+          "url": "https://play.google.com/store/apps/details?id=com.appscho.appschov2.unimes"
+        }
       },
       {
-        "souligne": ""
+        "lien": {
+          "texte": "sur App Store",
+
+          "url": "https://apps.apple.com/fr/app/unimes-campus/id1573567505"
+        }
       },
       {
         "italique": ""
@@ -82,9 +108,6 @@
       },
       {
         "quote": ""
-      },
-      {
-        "image": ""
       },
       {
         "video": ""
