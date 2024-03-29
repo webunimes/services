@@ -1,108 +1,49 @@
+
 {
   "titre": "MFA",
+
   "categorieParent": "Identité numérique",
   "profil": "",
-  "motCles": ["", "", "", "","", ""],
+  "motCles": ["MFA", "Authentification Multifacteur", "Authentification", "Multifacteur", "Protection", "Sécurité"],
   "sections": [
     [
       {
-        "profil": ""
-      },
-
-      {
-        "titre": ""
+        "titre": "Présentation du service"
       },
       {
-        "paragraphe": ""
+        "paragraphe": "Le MFA, ou Authentification Multifacteur, est une méthode de sécurité qui nécessite l’utilisation de plusieurs éléments pour vérifier l’identité d’un utilisateur. Au lieu de se contenter d’un nom d’utilisateur et d’un mot de passe, le MFA exige un ou plusieurs facteurs de vérification supplémentaires."
       },
       {
-        "soustitre": ""
+        "paragraphe": "Voici les trois principaux types de méthodes d’authentification MFA :"
       },
       {
-        "paragraphe": ""
+        "paragraphe": "1 - Connaissance : Quelque chose que l’utilisateur sait, comme un mot de passe ou un code PIN."
       },
       {
-        "souligne": ""
+        "paragraphe": "2 - Possession : Quelque chose que l’utilisateur possède, comme un smartphone ou un badge."
       },
       {
-        "italique": ""
+        "paragraphe": "3 - Inhérence : Quelque chose qui est intrinsèque à l’utilisateur, comme des empreintes digitales ou la reconnaissance vocale."
       },
       {
-        "gras": ""
+        "paragraphe": "L’utilisation du MFA améliore considérablement la sécurité en rendant beaucoup plus difficile pour les cybercriminels l’accès à des comptes ou des ressources protégés."
       },
       {
-        "quote": ""
+        "paragraphe": "Aujourd'hui, le MFA est fonctionnel pour le CAS de l'université et Office 365."
       },
       {
-        "image": ""
+        "soustitre": "Accès au service"
       },
       {
-        "video": ""
+        "paragraphe": "L'accès à ce service n'est pas automatisé. Si vous souhaitez faire activer l'authentification multifacteur sur votre compte, effectuez une demande d'assistance."
       },
       {
         "lien": {
-          "texte": "",
+          "texte": "Effectuer une demande de mise en place du MFA",
 
-          "url": ""
-        }
-      },
-      {
-        "lienDoc": {
-          "texte": "",
-
-          "url": ""
+          "url": "https://glpi.unimes.fr/front/helpdesk.public.php?create_ticket=1"
         }
       }
     ],
-    [
-      {
-        "profil": ""
-      },
-
-      {
-        "titre": ""
-      },
-      {
-        "paragraphe": ""
-      },
-      {
-        "soustitre": ""
-      },
-      {
-        "paragraphe": ""
-      },
-      {
-        "souligne": ""
-      },
-      {
-        "italique": ""
-      },
-      {
-        "gras": ""
-      },
-      {
-        "quote": ""
-      },
-      {
-        "image": ""
-      },
-      {
-        "video": ""
-      },
-      {
-        "lien": {
-          "texte": "",
-
-          "url": ""
-        }
-      },
-      {
-        "lienDoc": {
-          "texte": "",
-
-          "url": ""
-        }
-      }
-    ]
-  ]
+   ]
 }
