@@ -24,9 +24,9 @@
         {
           "profil": "",
           "paragraphe": "Téléchargez et suivez la procédure de configuration du client eduVPN ci-dessous.",
-          "lien": {
+          "lienDoc": {
             "texte": "Procédure de configuration eduVPN",
-            "lienDoc": "ProcedureConnexionEduvpn.pdf"
+            "url": "ProcedureConnexionEduvpn.pdf"
           }
         }
       ]
