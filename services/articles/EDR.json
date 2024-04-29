@@ -28,13 +28,18 @@
       },
       {
         "paragraphe": "Les solutions EDR collectent des données télémétriques des appareils, les analysent via des algorithmes et du machine learning pour détecter des irrégularités, et permettent une réponse en temps réel aux menaces."
+      },
+      {
+        "soustitre": "Avantages de l’EDR"
+      },
+      {
+        "paragraphe": "L’EDR offre une visibilité approfondie sur les appareils, détecte des menaces furtives, simplifie la réponse et la remédiation, et peut s’intégrer avec d’autres fonctions de sécurité pour une protection multicouche."
       }
     ],
     [
       {
         "profil": ""
       },
-
       {
         "titre": ""
       },
