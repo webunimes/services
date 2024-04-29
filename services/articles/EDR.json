@@ -47,5 +47,16 @@
         "paragraphe": "Ce service est installé et configuré sur tous les appareils de l'Université"
       }    
     ]
+    [
+      {
+        "profil": ""
+      },
+      {
+        "titre": "Complément"
+      },
+      {
+        "paragraphe": "L'EDR (Endpoint Detection and Response) et l'EPP (Endpoint Protection Platform) sont deux technologies de sécurité informatique qui protègent les appareils. Elles sont complémentaires."
+      }
+    ]
   ]
 }
