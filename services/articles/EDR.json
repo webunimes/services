@@ -9,13 +9,13 @@
         "profil": ""
       },
       {
-        "titre": "Présentation du service"
+        "titre": "Présentation du service EDR (Endpoint Detection and Response)"
       },
       {
-        "soustitre": "Détection et Réponse aux Incidents (EDR)"
+        "soustitre": "Détection et Réponse aux Incidents"
       },
       {
-        "paragraphe": "L’EDR est une solution de sécurité qui détecte et contrôle les activités suspectes sur les appareils."
+        "paragraphe": "L’EDR est une solution de sécurité qui détecte et contrôle les activités suspectes sur les appareils. Il est basé sur le comportement, il monitore et détecte les menaces connues ou inconnues en temps réel en identifiant les comportements anormaux au niveau des appareils du réseau.  "
       },
       {
         "soustitre": "Importance de l’EDR"
