@@ -15,28 +15,28 @@
         "soustitre": "Plate-forme de protection des points de terminaison"
       },
       {
-        "paragraphe": "L'EPP est une solution de sécurité pour les appareils. C'est une évolution des antivirus traditionnels. L'EPP est capable de prévenir de nombreuses attaques, il possède des fonctionnalités spécifiques contre de nombreux problèmes de sécurité tels que le phishing, l’exploitation 0-day, les attaques de réseau."
+        "paragraphe": "L'EPP est une solution de sécurité pour les appareils. C'est une évolution des antivirus traditionnels capable de prévenir de nombreuses attaques."
       },
       {
-        "paragraphe": "L'EPP assure la gestion du pare-feu local, la gestion du chiffrement des points terminaux, le contrôle des points terminaux USB, les vérifications d’intégrité des fichiers, le filtrage des URL, la gestion des vulnérabilités, la gestion automatisée des correctifs, etc."
+        "paragraphe": "il possède des fonctionnalités spécifiques contre de nombreux problèmes de sécurité tels que le phishing, l’exploitation 0-day, les attaques de réseau, etc."
       },
       {
         "soustitre": "Importance de l'EPP"
       },
       {
-        "paragraphe": "L'EPP est un ensemble de fonctions conçues pour sécuriser les points terminaux, qui dans le passé pouvaient être séparées en plusieurs produits. Il est constitué d’un réseau de neurones profond (Deep Learning), spécialisé dans la détection de malwares connus et inconnus, contrairement à l’antivirus traditionnel qui se base sur la vérification de listes de signatures connues."
+        "paragraphe": "L'EPP est un ensemble de fonctions conçues pour sécuriser les points terminaux, qui dans le passé pouvaient être séparées en plusieurs produits. Il est constitué d’un réseau de neurones profond (Deep Learning), spécialisé dans la détection de malwares connus."
       },
       {
         "soustitre": "Fonctionnement de l'EPP"
       },
       {
-        "paragraphe": "Il s'agit d'une protection basée sur le cloud qui utilise l'intelligence artificielle pour protéger les appareils. Les appareils de l'Univeristé sont protégés dès lors qu'ils sont connecté à Internet, aussi bien sur site qu'à l'extérieur."
+        "paragraphe": "Il s'agit d'une protection basée sur le cloud qui utilise l'intelligence artificielle pour protéger les appareils. Les appareils de l'Université sont protégés dès lors qu'ils sont connecté à Internet, aussi bien sur site qu'à l'extérieur."
       },
       {
         "soustitre": "Avantages de l'EPP"
       },
       {
-        "paragraphe": ""
+        "paragraphe": "L'EPP assure, de manière centralisé, la gestion du pare-feu local, la gestion du chiffrement des points terminaux, le contrôle des points terminaux USB, les vérifications d’intégrité des fichiers, le filtrage des URL, la gestion des vulnérabilités, la gestion automatisée des correctifs, etc."
       }
     ],
     [
