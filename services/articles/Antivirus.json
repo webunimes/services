@@ -2,7 +2,7 @@
   "titre": "Antivirus EPP",
   "categorieParent": "Sécurité",
   "profil": "",
-  "motCles": ["", "", "", "","", ""],
+  "motCles": ["antivirus", "EDR", "EPP", "virus","protection", "sécurité"],
   "sections": [
     [
       {
