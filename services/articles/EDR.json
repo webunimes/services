@@ -2,56 +2,32 @@
   "titre": "Antivirus EDR",
   "categorieParent": "Sécurité",
   "profil": "",
-  "motCles": ["", "", "", "","", ""],
+  "motCles": ["antivirus", "EDR", "EPP", "virus","protection", "sécurité"],
   "sections": [
     [
       {
         "profil": ""
       },
-
       {
-        "titre": ""
+        "titre": "Présentation du service"
       },
       {
-        "paragraphe": ""
+        "soustitre": "Détection et Réponse aux Incidents (EDR)"
       },
       {
-        "soustitre": ""
+        "paragraphe": "L’EDR est une solution de sécurité qui détecte et contrôle les activités suspectes sur les appareils."
       },
       {
-        "paragraphe": ""
+        "soustitre": "Importance de l’EDR"
       },
       {
-        "souligne": ""
+        "paragraphe": "Face aux cybermenaces avancées et aux malwares sans fichier, l’EDR offre une protection plus poussée que les antivirus traditionnels, en se concentrant sur les appareils plutôt que sur le périmètre du réseau."
       },
       {
-        "italique": ""
+        "soustitre": "Fonctionnement de l’EDR"
       },
       {
-        "gras": ""
-      },
-      {
-        "quote": ""
-      },
-      {
-        "image": ""
-      },
-      {
-        "video": ""
-      },
-      {
-        "lien": {
-          "texte": "",
-
-          "url": ""
-        }
-      },
-      {
-        "lienDoc": {
-          "texte": "",
-
-          "url": ""
-        }
+        "paragraphe": "Les solutions EDR collectent des données télémétriques des appareils, les analysent via des algorithmes et du machine learning pour détecter des irrégularités, et permettent une réponse en temps réel aux menaces."
       }
     ],
     [
