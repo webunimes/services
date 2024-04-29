@@ -8,100 +8,43 @@
       {
         "profil": ""
       },
-
       {
-        "titre": ""
+        "titre": "Présentation du service EPP (Endpoint Protection Platform)"
+      },
+      {
+        "soustitre": "EPP"
       },
       {
         "paragraphe": ""
       },
       {
-        "soustitre": ""
+        "soustitre": "Importance de l'EPP"
       },
       {
         "paragraphe": ""
       },
       {
-        "souligne": ""
+        "soustitre": "Fonctionnement de l'EPP"
       },
       {
-        "italique": ""
+        "paragraphe": ""
       },
       {
-        "gras": ""
+        "soustitre": "Avantages de l'EPP"
       },
       {
-        "quote": ""
-      },
-      {
-        "image": ""
-      },
-      {
-        "video": ""
-      },
-      {
-        "lien": {
-          "texte": "",
-
-          "url": ""
-        }
-      },
-      {
-        "lienDoc": {
-          "texte": "",
-
-          "url": ""
-        }
+        "paragraphe": ""
       }
     ],
     [
       {
         "profil": ""
       },
-
       {
-        "titre": ""
+        "titre": "Accès au service"
       },
       {
-        "paragraphe": ""
-      },
-      {
-        "soustitre": ""
-      },
-      {
-        "paragraphe": ""
-      },
-      {
-        "souligne": ""
-      },
-      {
-        "italique": ""
-      },
-      {
-        "gras": ""
-      },
-      {
-        "quote": ""
-      },
-      {
-        "image": ""
-      },
-      {
-        "video": ""
-      },
-      {
-        "lien": {
-          "texte": "",
-
-          "url": ""
-        }
-      },
-      {
-        "lienDoc": {
-          "texte": "",
-
-          "url": ""
-        }
+        "paragraphe": "Ce service est installé et configuré sur tous les appareils de l'Université"
       }
     ]
   ]
