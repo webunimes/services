@@ -2,7 +2,7 @@
   "titre": "Imprimantes multifonctions",
   "categorieParent": "poste de travail",
   "motCles": ["imprimante", "imprimer", "scanner", "print", ""],
-  "profil": "",
+  "profil": "2-3",
   "sections": [
     [
       {
@@ -12,7 +12,7 @@
         "image": "Toshiba-logo-1024x318.png"
       },
       {
-        "paragraphe": "Pour l’impression de vos documents ou les travaux de copies, vous avez à votre disposition des imprimantes multifonctions de marque Toshiba."
+        "paragraphe": "Pour l’impression de vos documents ou les travaux de copies, vous avez à votre disposition des imprimantes multifonctions de marque Ricoh."
       },
       {
         "paragraphe": "Ces équipements permettent d’effectuer tout type de travaux sur papier A4 et A3."
@@ -99,7 +99,7 @@
       },
 
       {
-        "soustitre": "Gestion des travaux sur une imprimante multifonction Toshiba"
+        "soustitre": "Gestion des travaux sur une imprimante multifonction"
       },
 
       {
@@ -119,11 +119,11 @@
         "titre": "Engagements et niveaux de service"
       },
       {
-        "paragraphe": "Nous disposons d’un contrat de support avec Toshiba. En cas de problème sur une des imprimantes, nous déclarons l’incident auprès de leur support. Un technicien intervient sous 24 à 48h."
+        "paragraphe": "Nous disposons d’un contrat de support avec l'entreprise Ricoh. En cas de problème sur une imprimante, nous déclarons l’incident auprès de leur support. Un technicien intervient sous 24 à 48h."
       },
 
       {
-        "paragraphe": "Côté utilisateur, les 37 imprimantes multifonctions de l’Université étant identique, le fonction Follow-Me permet de récupérer une impression, faire une photocopie ou encore scanner un document depuis n’importe laquelle."
+        "paragraphe": "Les imprimantes multifonctions étant identique, la fonction Follow-Me permet de récupérer une impression, faire une photocopie ou encore scanner un document depuis n’importe laquelle."
       }
     ]
   ]
