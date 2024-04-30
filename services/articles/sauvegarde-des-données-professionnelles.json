@@ -1,5 +1,5 @@
 {
-  "titre": "Sauvegarde des données professionnelles",
+  "titre": "Sauvegardes",
   "categorieParent": "poste de travail",
 
   "profil": "2-3",
@@ -8,13 +8,13 @@
   "sections": [
     [
       {
-        "titre": "Présentation du service"
+        "titre": "Présentation du service de sauvegarde des données utilisateurs"
       },
       {
         "image": "AtempoLina.jpg"
       },
       {
-        "paragraphe": "Sauvegarde des données professionnelles des postes fixes et portables. La seule solution fiable contre une panne, le vol, le cybercrime, la perte ou la corruption de données."
+        "paragraphe": "Sauvegarde des données utilisateurs des postes fixes et portables. La seule solution fiable contre une panne, le vol, le cybercrime, la perte ou la corruption de données."
       },
       {
         "soustitre": "Fonctionnement"
