@@ -1,7 +1,7 @@
 {
   "profil": "",
   "titre": "",
-  "FaqParents": ["", "", "", "", ""],  
+  "FaqParents": ["", "", "", "", ""],
   "sousArticle": [
     {
       "profil": "",
@@ -13,6 +13,8 @@
       "gras": "",
       "quote": "",
       "image": "",
+      "multiImg": ["", "", "", "", "", ""],
+
       "video": "",
       "lien": {
         "texte": "",
@@ -33,6 +35,7 @@
           "gras": "",
           "quote": "",
           "image": "",
+          "multiImg": ["", "", "", "", "", ""],
           "video": "",
           "lien": {
             "texte": "",
@@ -76,6 +79,7 @@
       "gras": "",
       "quote": "",
       "image": "",
+      "multiImg": ["", "", "", "", "", ""],
       "video": "",
       "lien": {
         "texte": "",
@@ -96,6 +100,8 @@
           "gras": "",
           "quote": "",
           "image": "",
+          "multiImg": ["", "", "", "", "", ""],
+
           "video": "",
           "lien": {
             "texte": "",
@@ -110,19 +116,3 @@
     }
   ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
