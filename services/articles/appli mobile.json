@@ -37,13 +37,7 @@
         "quote": ""
       },
       {
-        "image": "unimes-campus-capture1.jpg"
-      },
-      {
-        "image": "unimes-campus-capture2.jpg"
-      },
-      {
-        "image": "unimes-campus-capture3.jpg"
+        "multiImg": ["unimes-campus-capture1.jpg","unimes-campus-capture2.jpg","unimes-campus-capture3.jpg"]
       },
       {
         "video": ""
