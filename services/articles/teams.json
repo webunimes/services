@@ -57,19 +57,17 @@
         [
         {
         "titre": "Prise en main de l'outil"
-        }
+        },
         {
             "paragraphe": "En cliquant sur le lien suivant, vous trouverez une multidude de procédures, vidéos et liens créés et selectionnés par la DSI pour vous accompagner dans la prise en main de Teams :"
         },
+        {
+            "lien":
             {
-                "lien":
-                {
-                    "texte": "Utiliser Teams",
-
-                    "url": "https://wiki.unimes.fr/doku.php?id=wiki:collaboratifs:teams"
-                }
+                "texte": "Utiliser Teams",
+                "url": "https://wiki.unimes.fr/doku.php?id=wiki:collaboratifs:teams"
             }
-            
+        }
         ]
     ]
 }
