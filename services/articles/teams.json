@@ -31,8 +31,6 @@
             {
                 "paragraphe": "En somme, Microsoft Teams est un outil puissant pour faciliter la collaboration et la communication au sein des équipes."
             },
-
-            
             {
                 "lien":
                 {
@@ -41,14 +39,12 @@
                     "url": "https://support.office.com/fr-fr/article/vid%C3%A9o-bienvenue-dans-microsoft-teams-b98d533f-118e-4bae-bf44-3df2470c2b12?wt.mc_id=otc_microsoft_teams"
                 }
             },
-
             {
                 "soustitre": "Accès au service"
             },
             {
-                "paragraphe": "Toute personne disposant d’un compte de la forme login@office.unimes.fr a accès à Teams. Soit via la version en ligne depuis le site https://www.office.com/ soit en installant l'application de bureau depuis le lien ci-dessou."
+                "paragraphe": "Toute personne disposant d’un compte de la forme login@office.unimes.fr a accès à Teams. Soit via la version en ligne depuis le site https://www.office.com/ soit en installant l'application de bureau depuis le lien ci-dessous."
             },
-
             {
                 "lien":
                 {
@@ -60,8 +56,20 @@
         ],
         [
         {
-            "titre": "Prise en main de l'outil"
+        "titre": "Prise en main de l'outil"
         }
+        {
+            "paragraphe": "En cliquant sur le lien suivant, vous trouverez une multidude de procédures, vidéos et liens créés et selectionnés par la DSI pour vous accompagner dans la prise en main de Teams :"
+        },
+            {
+                "lien":
+                {
+                    "texte": "Utiliser Teams",
+
+                    "url": "https://wiki.unimes.fr/doku.php?id=wiki:collaboratifs:teams"
+                }
+            }
+            
         ]
     ]
 }
