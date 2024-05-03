@@ -2,14 +2,14 @@
   "titre": "Accès à distance (VPN)",
   "categorieParent": "poste de travail",
   "profil": "2-3",
-  "motCles": ["Réseau", "VPN", "distanciel", "eduVPN", "SSL"],
+  "motCles": ["Réseau", "VPN", "distanciel", "eduVPN", ""],
   "sections": [
     [
       {
-        "titre": "Introduction"
+        "titre": "Présentation du service"
       },
       {
-        "paragraphe": "Certains personnels ou enseignants de l’université peuvent avoir besoin d’accéder à certaines ressources habituellement accessibles uniquement depuis le réseau interne de l’Université depuis un réseau extérieur. Pour ce faire, la DSIUN propose d’accéder à certaines de ces ressources via un VPN."
+        "paragraphe": "Certains personnels ou enseignants de l’université peuvent avoir besoin d’accéder à certaines ressources informatiques depuis l'extérieur de l’Université. La DSI propose d’accéder à certaines de ces ressources via un VPN."
       }
     ],
     [
