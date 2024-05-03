@@ -38,21 +38,22 @@
 
                     "url": "https://support.office.com/fr-fr/article/vid%C3%A9o-bienvenue-dans-microsoft-teams-b98d533f-118e-4bae-bf44-3df2470c2b12?wt.mc_id=otc_microsoft_teams"
                 }
-            },
-            {
-                "soustitre": "Accès au service"
-            },
-            {
-                "paragraphe": "Toute personne disposant d’un compte de la forme login@office.unimes.fr a accès à Teams. Soit via la version en ligne depuis le site https://www.office.com/ soit en installant l'application de bureau depuis le lien ci-dessous."
-            },
-            {
-                "lien":
-                {
-                    "texte": "Télécharger Teams",
-
-                    "url": "https://teams.microsoft.com/downloads"
-                }
             }
+        ],
+        [
+        {
+        "titre": "Accès au service"
+        },
+        {
+            "paragraphe": "Toute personne disposant d’un compte de la forme login@office.unimes.fr a accès à Teams. Soit via la version en ligne depuis le site https://www.office.com/ soit en installant l'application de bureau depuis le lien ci-dessous."
+        },
+        {
+            "lien":
+            {
+                "texte": "Télécharger Teams",
+                "url": "https://teams.microsoft.com/downloads"
+            }
+        }
         ],
         [
         {
