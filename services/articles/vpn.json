@@ -6,86 +6,47 @@
   "sections": [
     [
       {
-        "titre": "Présentation du service"
+        "titre": "Présentation du service VPN"
       },
       {
-        "paragraphe": "Certains personnels ou enseignants de l’université peuvent avoir besoin d’accéder à certaines ressources informatiques depuis l'extérieur de l’Université. La DSI propose d’accéder à certaines de ces ressources via un VPN."
-      }
+        "paragraphe": "Un VPN (Virtual Private Network) est très utile pour une université pour plusieurs raisons :"
+      },
+      {
+        "paragraphe": "1. Sécurisation des échanges de données pour le télétravail : Un VPN permet au personnel de l'université de se connecter de manière sécurisée au réseau de l'université depuis leur domicile ou tout autre lieu."
+      },
+      {
+        "paragraphe": "2. Accès aux ressources en ligne de l'université : Certaines ressources en ligne de l'université peuvent être accessibles uniquement depuis le réseau de l'université. Un VPN permet aux utilisateurs d'accéder à ces ressources de n'importe où."
+      },
+      {
+        "paragraphe": "3. Contournement des restrictions géographiques : Lors de déplacements, les enseignants-chercheurs peuvent avoir besoin d'accéder à des ressources qui sont bloquées depuis l'étranger. Un VPN permet de contourner cette restriction."
+      },
+
     ],
     [
       {
         "titre": "Accès au service"
       },
       {
-        "paragraphe": "La DSIUN propose 2 types de VPN, en fonction du besoin de l’utilisateur :"
+        "paragraphe": "La DSIUN propose un VPN pour l'accès aux ressources depuis l'extérieur, pour cela :"
       },
       {
-        "soustitre": "VPN SSL"
+        "paragraphe": "1. Il faut installer le client VPN sur votre poste."
       },
       {
-        "paragraphe": "Le VPN SSL est un VPN accessible via son navigateur. Ce type de VPN est notamment très utilisé pour l’administration de sites web. Pour y accéder, il faut :"
+        "paragraphe": "2. Il faut le configurer pour l'accès au réseau de l'Université."
       },
       {
-        "paragraphe": "- faire une demande auprès de la DSIUN pour obtenir les autorisations nécessaires."
+        "paragraphe": "3. Il faut s'authentifier sur le client VPN avec vos identifiants habituels."
       },
       {
-        "paragraphe": "- accéder à l’URL suivante via un navigateur :"
-      },
-      {
-        "lien": {
-          "texte": "vpn.unimes.fr",
-
-          "url": "https://vpn.unimes.fr"
-        }
-      },
-      {
-        "paragraphe": "- se connecter avec les identifiants habituels"
-      },
-      {
-        "soustitre": "VPN IPSEC"
-      },
-      {
-        "paragraphe": "Le VPN IPSEC (eduVPN) est un VPN plus sécurisé que le VPN SSL et nécessite l’installation d’un client."
-      },
-      {
-        "paragraphe": "Les utilisateurs de postes sous Windows peuvent l’installer depuis l’application « Portail d’entreprise »."
-      },
-      {
-        "paragraphe": "Les utilisateurs de postes sous macOS X peuvent l’installer depuis l’application « Self Service »."
+        "paragraphe": "La procédure à suivre est accessible sous le lien suivant :"
       },
       {
         "lien": {
-          "texte": "Il est également téléchargeable",
-
-          "url": "https://www.eduvpn.org/client-apps/"
-        }
-      },
-      {
-        "lien": {
-          "texte": "Procédure pour la configuration",
-
+          "texte": "Procédure VPN",
           "url": "https://wiki.unimes.fr/doku.php?id=wiki:reseau:vpneduvpn"
         }
-      },
-
-      {
-        "paragraphe": "Les personnels enseignants et administratifs ont accès au service avec leurs identifiants habituels."
       }
-    ],
-    [
-      {
-        "titre": "Configuration du VPN"
-      },
-      {
-        "paragraphe": "Télécharger la procédure"
-      },
-       {
-        "lien": {
-          "texte": "Télécharger la procédure",
-
-          "url": "https://wiki.unimes.fr/doku.php?id=wiki:reseau:vpneduvpn"
-        }
-       }
     ]
   ]
 }
