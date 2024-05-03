@@ -14,7 +14,7 @@
     ],
     [
       {
-        "titre": "Les différents types de VPN"
+        "titre": "Accès au service"
       },
       {
         "paragraphe": "La DSIUN propose 2 types de VPN, en fonction du besoin de l’utilisateur :"
@@ -71,6 +71,21 @@
       {
         "paragraphe": "Les personnels enseignants et administratifs ont accès au service avec leurs identifiants habituels."
       }
+    ],
+    [
+      {
+        "titre": "Configuration du VPN"
+      },
+      {
+        "paragraphe": "Télécharger la procédure"
+      },
+       {
+        "lien": {
+          "texte": "Télécharger la procédure",
+
+          "url": "https://wiki.unimes.fr/doku.php?id=wiki:reseau:vpneduvpn"
+        }
+       }
     ]
   ]
 }
