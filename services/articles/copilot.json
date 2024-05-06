@@ -48,11 +48,15 @@
         "titre": "Accès au service"
       },
       {
-        "gras": "Vous pouvez utiliser Copilot avec votre compte universitaire. Accéder à la procédur een cliquant sur le bouton suivant :"
+        "paragraphe": "La procédure à suivre est accessible sous le lien suivant :"
       },
-
+      {
+        "lien": {
+          "texte": "Procédure VPN",
+          "url": "https://wiki.unimes.fr/doku.php?id=wiki:postedetravail:copilot"
+        }
+      }
     ],
-
     [
       {
         "profil": ""
