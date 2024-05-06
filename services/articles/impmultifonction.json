@@ -15,106 +15,24 @@
         "paragraphe": "Pour l’impression de vos documents ou les travaux de copies, vous avez à votre disposition des imprimantes multifonctions de marque Ricoh."
       },
       {
-        "paragraphe": "Ces équipements permettent d’effectuer tout type de travaux sur papier A4 et A3."
+        "paragraphe": "Ces équipements permettent d’effectuer tout type de travaux noir et blanc ou couleur sur papier A4 et A3. Certains modèles sont équipés de finisseur permettant l'agraphage et le pliage."
       }
     ],
     [
       {
-        "titre": "Utilisation des imprimantes multifonctions"
+        "titre": "Accès au service"
       },
       {
         "image": "PaperCut-MF-Logo-RGB-768x202.png"
       },
       {
-        "paragraphe": "Notre système d’impression fonctionnant avec PaperCut, l’écran d’accueil sur les imprimantes multifonctions est une page PaperCut."
+        "paragraphe": "Notre système d’impression fonctionne avec PaperCut, nous retrouvons donc un écran d’accueil PaperCut lors de l'accès aux imprimantes multifonctions."
       },
-
       {
         "image": "PaperCut-EcranAccueil-768x462.png"
-      },
-
+      }
       {
-        "lienDoc": {
-          "texte": "Se connecter à une imprimante multifonctions",
-
-          "url": "Impression_SeConnecterMFP.mp4"
-        }
-      },
-
-      {
-        "lienDoc": {
-          "texte": "Imprimer / Libérer un document",
-          "url": "Impression_LibererUnDocument.mp4"
-        }
-      },
-
-      {
-        "lienDoc": {
-          "texte": "Gérer les documents en attente d’impression",
-
-          "url": "Impression_GererLesDocuments.mp4"
-        }
-      },
-
-      {
-        "lienDoc": {
-          "texte": "Scanner un document",
-          "url": "Impression_ScannerUnDocument.mp4"
-        }
-      },
-
-      {
-        "lienDoc": {
-          "texte": "Photocopier un document",
-
-          "url": "Impression_Photocopier.mp4"
-        }
-      },
-
-      {
-        "lienDoc": {
-          "texte": "Retour au tableau de bord PaperCut après une photocopie",
-
-          "url": "Impression_RetourAPaperCut.mp4"
-        }
-      },
-      {
-        "soustitre": "Notices d’utilisation Toshiba"
-      },
-      {
-        "paragraphe": "Sous les liens suivants, vous trouverez les notices d’utilisations Toshiba."
-      },
-
-      {
-        "lien": {
-          "texte": "Notice d'utilisation 1",
-
-          "url": "https://wiki.unimes.fr/doku.php?id=wiki:impression:noticesdutilisation"
-        }
-      },
-
-      {
-        "lien": {
-          "texte": "Notice d'utilisation 2",
-
-          "url": "http://www.elearning.toshiba.fr/documents/mydocs/1-Captivate/"
-        }
-      },
-
-      {
-        "soustitre": "Gestion des travaux sur une imprimante multifonction"
-      },
-
-      {
-        "paragraphe": "Sous le lien suivant, vous trouverez comment gérer les travaux en cours sur une imprimante multifonction."
-      },
-
-      {
-        "lien": {
-          "texte": "Documentation imprimantes multifonctions",
-
-          "url": "https://wiki.unimes.fr/doku.php?id=wiki:impression:travauxtoshiba"
-        }
+        "paragraphe": "Utilisation des imprimantes multifonctions"
       }
     ],
     [
