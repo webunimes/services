@@ -45,31 +45,12 @@
     ],
     [
       {
-        "titre": "Comment profiter de ce service ?"
+        "titre": "Accès au service"
       },
       {
-        "gras": "Pour accéder à Copilot, vous pouvez suivre ces étapes :"
-      },
-
-      {
-        "paragraphe": "- Ouvrez votre navigateur web préféré, comme Microsoft Edge, Firefox ou Google Chrome."
+        "gras": "Vous pouvez utiliser Copilot avec votre compte universitaire. Accéder à la procédur een cliquant sur le bouton suivant :"
       },
 
-      {
-        "paragraphe": "- Tapez l’adresse du site web de Copilot dans la barre d’adresse : https://copilot.microsoft.com."
-      },
-
-      {
-        "paragraphe": "- Connectez-vous avec votre compte Microsoft « pnom@office.unimes.fr »."
-      },
-
-      {
-        "paragraphe": "- Choisissez le ton de la conversation que vous souhaitez avoir avec Copilot : amical, professionnel, humoristique, etc."
-      },
-
-      {
-        "paragraphe": "- Commencez à discuter avec Copilot en lui posant des questions ou en lui faisant des demandes."
-      }
     ],
 
     [
