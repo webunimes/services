@@ -16,11 +16,6 @@
       },
       {
         "paragraphe": "Ces équipements permettent d’effectuer tout type de travaux noir et blanc ou couleur sur papier A4 et A3. Certains modèles sont équipés de finisseur permettant l'agraphage et le pliage."
-      }
-    ],
-    [
-      {
-        "titre": "Accès au service"
       },
       {
         "image": "PaperCut-MF-Logo-RGB-768x202.png"
@@ -29,7 +24,12 @@
         "paragraphe": "Notre système d’impression fonctionne avec PaperCut, nous retrouvons donc un écran d’accueil PaperCut lors de l'accès aux imprimantes multifonctions."
       },
       {
-        "image": "PaperCut-EcranAccueil-768x462.png"
+        "paragraphe": "Notre système d’impression fonctionne avec PaperCut, nous retrouvons donc un écran d’accueil PaperCut lors de l'accès aux imprimantes multifonctions."
+      }
+    ],
+    [
+      {
+        "titre": "Accès au service"
       },
       {
         "paragraphe": "Utilisation des imprimantes multifonctions"
