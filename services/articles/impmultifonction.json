@@ -21,10 +21,16 @@
         "image": "PaperCut-MF-Logo-RGB-768x202.png"
       },
       {
-        "paragraphe": "Notre système d’impression fonctionne avec PaperCut, nous retrouvons donc un écran d’accueil PaperCut lors de l'accès aux imprimantes multifonctions."
+        "paragraphe": "En complément, nous utilisons PaperCut qui est un système de gestion d’impression. Il permet de gérer les quotas d’impression, de consulter l’historique d’impression et de fournir une solution d'impression sur les appareils de l'Université ou les appareils personnels des étudiants et personnels."
       },
       {
-        "paragraphe": "Notre système d’impression fonctionne avec PaperCut, nous retrouvons donc un écran d’accueil PaperCut lors de l'accès aux imprimantes multifonctions."
+        "paragraphe": "Impression mobile et BYOD : Les systèmes gérés et BYOD sont tous pris en charge. Vous pouvez imprimez depuis vos appareils personnels Chromebook, Android, macOS, iOS et Windows."
+      },
+      {
+        "paragraphe": "Libération de l’impression pratique : Vous imprimez vers une seule et unique imprimante (file d’attente) et récupérez votre sur n’importe quelle imprimante grâce au flux de travail simple de type « appuyer et relâcher » géré par Find-Me printing."
+      },
+      {
+        "paragraphe": "Réduction de l'empreinte écologique : PaperCut MF s’appuie sur des politiques écologiques pour consommer moins de papier, économiser du toner et adopter des habitudes durables."
       }
     ],
     [
@@ -36,7 +42,7 @@
       },
       {
         "lien": {
-          "texte": "Accéder aux imprimantes multifocntions",
+          "texte": "Accéder aux imprimantes multifonctions",
           "url": "https://wiki.unimes.fr/doku.php?id=wiki:postedetravail:impmultifonction"
         }
       }
