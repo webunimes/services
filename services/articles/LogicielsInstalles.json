@@ -12,6 +12,9 @@
       },
       {
         "paragraphe": "Plusieurs applications sont disponibles sur les ordinateurs de l’Université. Il y a un tronc commun installé sur tous les ordinateurs. Puis en fonction des besoins de recherche ou encore administratifs, on retrouve différentes applications."
+      },
+      {
+        "paragraphe": "L'aquisition et la distribution des application sont effectuées par la DSI."
       }
     ],
     [
@@ -32,6 +35,20 @@
       }
     ],
     [
+     {
+       "profil":"1"
+     },
+      {
+        "titre": "Accès au service"
+      },
+      {
+        "paragraphe": "Un tronc commun regroupe les applications détaillées sur le lien suivant : "
+      },
+      {
+        "paragraphe": "Toute demande pour un besoin supplémentaire est à effectuer ici :"
+      }
+    ],
+      [
      {
        "profil":"1"
      },
