@@ -1,15 +1,23 @@
 {
   "titre": "Logiciels installés",
   "categorieParent": ["poste de travail"],
-  "motCles": [
-    "programmes",
-    "logiciel",
-    "application",
-    "Environnement",
-    "numérique"
-  ],
+  "motCles": ["programmes","logiciel","application","Environnement","numérique"],
   "sections": [
     [
+     {
+       "profil":"2-3"
+     },
+      {
+        "titre": "Présentation du service"
+      },
+      {
+        "paragraphe": "Plusieurs applications sont disponibles sur les ordinateurs de l’Université. Il y a un tronc commun installé sur tous les ordinateurs. Puis en fonction des besoins de recherche ou encore administratifs, on retrouve différentes applications."
+      }
+    ],
+    [
+     {
+       "profil":"1"
+     },
       {
         "titre": "Présentation du service"
       },
@@ -24,24 +32,32 @@
       }
     ],
     [
+     {
+       "profil":"1"
+     },
       {
         "titre": "Tronc commun"
       },
 
-      {
-        "soustitre": "Le tronc commun suivant est installé sur tous les ordinateurs de l’Université :"
-      },
-
-      {
-        "paragraphe": "7-zip / Abobe Acrobat Reader / AdoptOpenJDK JDK avec Eclipse OpenJ9 / LibreOffice / Mozilla Firefox / PDFsam Basic / Microsoft Office Professionnal Plus 2019 / VLC media player"
-      }
     ],
     [
       {
-        "titre": "Liste des applications & disponibilités dans les salles informatiques"
+        "paragraphe": "Cette demande doit être effectué au minimum 15 jours avant la date du cours de façon à ce que la DSI organise l’installation. Concernant les logiciels sous licence propriétaire passant pas un achat, le demande doit être effectué l’année précédente pour intégration au budget."
+      }
+      {
+        "titre": "Tronc commun"
+      },
+      {
+        "soustitre": "Le tronc commun suivant est installé sur tous les postes dédiés à la pédagogie :"
+      },
+      {
+        "paragraphe": "7-zip / Abobe Acrobat Reader / AdoptOpenJDK JDK avec Eclipse OpenJ9 / LibreOffice / Mozilla Firefox / Microsoft Office Professionnal Plus 2019 / VLC media player"
       },
 
-      {
+            {
+        "titre": "Liste des applications & disponibilités dans les salles informatiques"
+      },
+{
         "soustitre": "Adobe Acrobat X Pro"
       },
 
