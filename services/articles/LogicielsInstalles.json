@@ -11,10 +11,16 @@
         "titre": "Présentation du service"
       },
       {
-        "paragraphe": "Plusieurs applications sont disponibles sur les ordinateurs de l’Université. Il y a un tronc commun installé sur tous les ordinateurs. Puis en fonction des besoins de recherche ou encore administratifs, on retrouve différentes applications."
+        "paragraphe": "Plusieurs applications sont disponibles sur les ordinateurs de l’Université. Il y a un tronc commun installé sur tous les ordinateurs, puis en fonction des besoins, on retrouve d'autres."
       },
       {
-        "paragraphe": "L'aquisition et la distribution des application sont effectuées par la DSI."
+        "paragraphe": "L'aquisition et la distribution sont effectuées par la DSI."
+      },
+      {
+        "paragraphe": "Les personnels peuvent effectuer la demande d’installation d’une application pour un besoin particulier."
+      },
+      {
+        "paragraphe": "Cette demande doit être effectué au minimum 15 jours avant la date du besoin de façon à ce que la DSI organise l’installation. Concernant les logiciels sous licence propriétaire passant pas un achat, le demande doit être effectué l’année précédente pour intégration au budget."
       }
     ],
     [
@@ -25,10 +31,10 @@
         "titre": "Présentation du service"
       },
       {
-        "paragraphe": "Plusieurs applications sont disponibles sur les ordinateurs de l’Université. Il y a un tronc commun installé sur tous les ordinateurs. Puis en fonction des besoins pédagogiques, de recherche ou encore administratifs, on retrouve différentes applications."
+        "paragraphe": "Plusieurs applications sont disponibles sur les ordinateurs de l’Université. Il y a un tronc commun installé sur tous les ordinateurs, puis en fonction des besoins pédagogiques, on en retrouve d'autres."
       },
       {
-        "paragraphe": "Concernant la pédagogie, les enseignants peuvent effectuer la demande d’installation d’une application pour un cours dans une salle informatique."
+        "paragraphe": "Les enseignants peuvent effectuer la demande d’installation d’une application pour un cours dans une salle informatique."
       },
       {
         "paragraphe": "Cette demande doit être effectué au minimum 15 jours avant la date du cours de façon à ce que la DSI organise l’installation. Concernant les logiciels sous licence propriétaire passant pas un achat, le demande doit être effectué l’année précédente pour intégration au budget."
@@ -36,16 +42,16 @@
     ],
     [
      {
-       "profil":"1"
+       "profil":"2-3"
      },
       {
         "titre": "Accès au service"
       },
       {
-        "paragraphe": "Un tronc commun regroupe les applications détaillées sur le lien suivant : "
+        "paragraphe": "Le détails des applications installé par défaut sur tous les postes est accessible sur le lien suivant : "
       },
       {
-        "paragraphe": "Toute demande pour un besoin supplémentaire est à effectuer ici :"
+        "paragraphe": "Toute demande pour un besoin supplémentaire est à effectuer ici : "
       }
     ],
       [
@@ -56,41 +62,36 @@
         "titre": "Tronc commun"
       },
       {
-        "soustitre": "Le tronc commun suivant est installé sur tous les postes dédiés à la pédagogie :"
+        "soustitre": "Le tronc commun suivant est installé sur tous les postes :"
       },
       {
         "paragraphe": "7-zip / Abobe Acrobat Reader / AdoptOpenJDK JDK avec Eclipse OpenJ9 / LibreOffice / Mozilla Firefox / Microsoft Office Professionnal Plus 2019 / VLC media player"
       },
 
-            {
-        "titre": "Liste des applications & disponibilités dans les salles informatiques"
+      {
+        "soustitre": "Liste des applications disponibles par salles informatiques"
       },
-{
+      {
         "soustitre": "Adobe Acrobat X Pro"
       },
-
       {
         "paragraphe": "Site Vauban : Salles G101 / G201 / G202 / G301 / Salle multimédia de la bibliothèque."
       },
       {
         "paragraphe": "Site Hoche : Salles H106 / H001."
       },
-
       {
         "soustitre": "Adobe Creative Cloud Suite"
       },
       {
         "paragraphe": "Site Hoche : Salle H106."
       },
-
       {
         "soustitre": "Adobe Creative Suite 6 Design Standard"
       },
-
       {
         "paragraphe": "Site Vauban : Salles G101 / G201 / G202 / G301."
       },
-
       {
         "soustitre": "Adobe Creative Suite 5.5 Design Premium"
       },
@@ -103,7 +104,6 @@
       {
         "paragraphe": "Site Vauban : Salle G101."
       },
-
       {
         "soustitre": "Audacity 2.3.2"
       },
@@ -113,7 +113,6 @@
       {
         "paragraphe": "Site Hoche : Salle H106"
       },
-
       {
         "soustitre": "Autodesk AutoCAD 2019"
       },
@@ -121,68 +120,54 @@
       {
         "paragraphe": "Site Vauban : Salles G101 / G201 / G202."
       },
-
       {
         "soustitre": "Blender"
       },
-
       {
         "paragraphe": "Site Vauban : Salles G101 / G201 / G202 / G301 / Salle multimédia de la bibliothèque."
       },
-
       {
         "paragraphe": "Site des Carmes : Salle 301."
       },
-
       {
         "soustitre": "Dev-C++"
       },
-
       {
         "paragraphe": "Site des Carmes : Salles 301 / 512."
       },
-
       {
         "soustitre": "Dev-C++ 5 beta 9 release (4.9.9.2)"
       },
-
       {
         "paragraphe": "Site des Carmes : Salles 512."
       },
-
       {
         "soustitre": "Dia"
       },
       {
         "paragraphe": "Site des Carmes : Salles 301."
       },
-
       {
         "soustitre": "Evince 2.32.0.145"
       },
-
       {
         "paragraphe": "Site Vauban : Salles G301 / G302."
       },
-
       {
         "paragraphe": "Site des Carmes : Salle 512."
       },
-
       {
         "soustitre": "GanttProject"
       },
       {
         "paragraphe": "Site des Carmes : Salles 512 / 516."
       },
-
       {
         "soustitre": "Gephi 0.9.1"
       },
       {
         "paragraphe": "Site Hoche : Salle H106"
       },
-
       {
         "soustitre": "GIMP 2.10.12"
       },
@@ -195,11 +180,9 @@
       {
         "paragraphe": "Site Hoche : Salle H106."
       },
-
       {
         "soustitre": "Notepad++"
       },
-
       {
         "paragraphe": "Site Vauban : Salles G101 / G201 / G202 / G301 / G302 / Salle multimédia de la bibliothèque."
       },
@@ -209,91 +192,72 @@
       {
         "paragraphe": "Site Hoche : Salles H106 / H001."
       },
-
       {
         "soustitre": "Rhinoceros 5"
       },
-
       {
         "paragraphe": "Site Vauban : Salles G101 / G201 / G202 / G301 / G302."
       },
       {
         "paragraphe": "Site Hoche : Salle H106."
       },
-
       {
         "soustitre": "SOLIDWORKS 2019 SP04"
       },
-
       {
         "paragraphe": "Site Vauban : Salles G101 / G201 / G202 / Salle multimédia de la bibliothèque."
       },
-
       {
         "paragraphe": "Site Hoche : Salle H106."
       },
-
       {
         "soustitre": "STATISTICA 13.5.0.17"
       },
-
       {
         "paragraphe": "Site Vauban : Salles G101 / G201 / G202 / G301 / G302 / Salle multimédia de la bibliothèque."
       },
-
       {
         "soustitre": "SphinxIQ2"
       },
-
       {
         "paragraphe": "Site Vauban : Salles G101 / G201 / G202 / G301 / G302."
       },
       {
         "soustitre": "XMind ZEN 9.3.1"
       },
-
       {
         "paragraphe": "Site Vauban : Salles G101 / G201 / G202 / Salle multimédia de la bibliothèque."
       },
       {
         "paragraphe": "Site des Carmes : Salle 301."
       },
-
       {
         "paragraphe": "Site Hoche : Salle H106."
       },
-
       {
         "soustitre": "Zotero"
       },
-
       {
         "paragraphe": "Site Vauban : Salle G202 / Salle multimédia de la bibliothèque."
       },
-
       {
         "paragraphe": "Site Hoche : Salle H106."
       },
-
       {
         "soustitre": "JASP 0.11.1.0"
       },
-
       {
         "paragraphe": "Site Vauban : Salle G301 / Salle multimédia de la bibliothèque."
       },
-
       {
         "paragraphe": "Site Hoche : Salle H106."
       },
-
       {
         "soustitre": "KompoZer 0.8b3"
       },
       {
         "paragraphe": "Site Vauban : Salle multimédia de la bibliothèque."
       },
-
       {
         "soustitre": "LAME v3.99.3"
       },
@@ -303,21 +267,18 @@
       {
         "paragraphe": "Site Hoche : Salle H106."
       },
-
       {
         "soustitre": "LispWorks 6.1 Personal"
       },
       {
         "paragraphe": "Site des Carmes : Salles 301."
       },
-
       {
         "soustitre": "Marine Sonic Technology – Sea Scan Survey"
       },
       {
         "paragraphe": "Site des Carmes : Salles 301."
       },
-
       {
         "soustitre": "MeshLab_64b 2016"
       },
@@ -336,7 +297,6 @@
       {
         "paragraphe": "Site des Carmes : Salle 301."
       },
-
       {
         "soustitre": "Npcap 0.9983"
       },
@@ -349,7 +309,6 @@
       {
         "paragraphe": "Site des Carmes : Salle 301."
       },
-
       {
         "soustitre": "Open eVision 2.1.0"
       },
@@ -417,21 +376,18 @@
       {
         "paragraphe": "Site des Carmes : Salle 301."
       },
-
       {
         "soustitre": "HI-TECH C Compiler for the PIC10/12/16 MCUs V9.82PL0"
       },
       {
         "paragraphe": "Site des Carmes : Salles 512 / 516."
       },
-
       {
         "soustitre": "MPLAB"
       },
       {
         "paragraphe": "Site des Carmes : Salles 512 / 516."
       },
-
       {
         "soustitre": "ModelMuse 3.10.0.0"
       },
@@ -447,7 +403,6 @@
       {
         "soustitre": "Processing Modflow"
       },
-
       {
         "paragraphe": "Site des Carmes : Salle 512."
       },
