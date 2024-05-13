@@ -35,13 +35,30 @@
         "titre": "Accès au service"
       },
       {
-        "paragraphe": "Il existe différentes méthodes pour accéder à One Drive. Elles sont expliquées sous le lien suivant : 
+        "paragraphe": "Il existe différentes méthodes pour accéder à One Drive. Elles sont expliquées sous le lien suivant :" 
       {
         "lien": {
           "texte": "Accéder à OneDrive",
           "url": "https://wiki.unimes.fr/doku.php?id=wiki:postedetravail:onedrive"
         }
       }
-    ]
+    ],
+        [
+      {
+        "profil": ""
+      },
+
+      {
+        "titre": "Que se passe-t-il si je quitte l’établissement ?"
+      },
+
+      {
+        "paragraphe": "Lorsque vous quittez l’établissement (fin d’études, de contrat ou départ à la retraite), et que vous perdez vos accès à l’université (compte désactivé), vous perdez de fait l’accès à vos fichiers (Onedrive) et à Office Online. Les licences Office installées seront également désactivées"
+      },
+      {
+        "soustitre": "Il est impératif d’anticiper votre départ pour éviter toute perte de données …"
+      }
+    ],
+
   ]
 }
