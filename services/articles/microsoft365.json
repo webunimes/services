@@ -18,14 +18,14 @@
     ],
     [
       {
-        "titre": "Comment profiter de ce service ?"
+        "titre": "Accès au service"
       },
       {
-        "paragraphe": "- Rendez-vous sur le site de Microsoft :"
+        "paragraphe": "La suite Microsoft 365 est accessible sous le lien suivant :"
       },
       {
         "lien": {
-          "texte": "Visiter le site",
+          "texte": "Microsoft 365",
 
           "url": "https://www.office.com/"
         }
