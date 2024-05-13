@@ -45,41 +45,6 @@
       },
 
       {
-        "titre": "Comment installer Office 365 ?"
-      },
-      {
-        "paragraphe": "Microsoft autorise l’installation des logiciels de la suite Office 365 ProPlus (Word, Excel, PowerPoint, etc.) sur 5 équipements personnels. Vous pouvez également installer les clients Office 365 sur 5 smartphones et tablettes…"
-      },
-      {
-        "soustitre": "Il est important de désinstaller toutes les versions d’Office présentes dans votre ordinateur personnel avant de le téléchargement d’Office 365 ProPlus."
-      },
-      {
-        "paragraphe": "Connectez-vous au site de Microsoft comme pour l’utilisation Online"
-      },
-      {
-        "lien": {
-          "texte": "Visiter le site",
-
-          "url": "https://www.office.com/"
-        }
-      },
-      {
-        "paragraphe": "Cliquez sur « Installer Office » en haut à droite de l’écran d’accueil du portail puis suivez les assistants automatiques."
-      },
-      {
-        "lienDoc": {
-          "texte": "En savoir plus",
-
-          "url": "installer_office_unimes.pdf"
-        }
-      }
-    ],
-    [
-      {
-        "profil": ""
-      },
-
-      {
         "titre": "Que se passe-t-il si je quitte l’établissement ?"
       },
 
