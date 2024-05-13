@@ -8,7 +8,6 @@
       {
         "profil": ""
       },
-
       {
         "titre": "Présentation du service"
       },
@@ -57,23 +56,16 @@
     ],
     [
       {
-        "titre": "J’ai perdu mon mot de passe, que dois-je faire ?"
+        "titre": "J’ai perdu mon mot de passe Microsoft 365, que dois-je faire ?"
       },
       {
-        "paragraphe": "Le mot de passe Office 365 est synchronisé par le biais des identifiants utilisés à l’université"
+        "paragraphe": "En cas de perte des identifiants Microsoft 365, vous pouvez suivre la procédure suivante : "
       },
-      {
-        "soustitre": " Vous ne devez pas utiliser la procédure de rappel de mot de passe proposée par Microsoft."
-      },
-      {
-        "paragraphe": "Si vous rencontrez un problème persistant d’authentification sur le site de Microsoft, vous devez vous rapprocher de la DSIUN."
-      },
-
       {
         "lien": {
-          "texte": "Contacter la DSIUN",
+          "texte": "Perte ou changement du mot de passe Microsoft 365",
 
-          "url": "http://ent.unimes.fr/uPortal/f/u30l1s56/normal/render.uP"
+          "url": "https://wiki.unimes.fr/doku.php?id=wiki:postedetravail:accueil:microsoft365#perte_ou_changement_du_mot_de_passe_microsoft_365"
         }
       }
     ]
