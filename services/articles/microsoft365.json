@@ -26,38 +26,17 @@
       {
         "lien": {
           "texte": "Microsoft 365",
-
           "url": "https://www.office.com/"
         }
       },
-
       {
-        "paragraphe": "- Cliquer sur le bouton « Connexion »"
+        "paragraphe": "La procédure de connexion à Microsoft 365 est accessible sous le lien suivant :"
       },
       {
-        "paragraphe": "- Lorsque vous y êtes invité-e, veuillez saisir l’identifiant Microsoft Office associé à votre compte institutionnel. Cet identifiant est de la forme login@office.unimes.fr (veuillez à ne pas oublier l’extension @office.unimes.fr) où « login » doit être remplacé par l’identifiant que vous utilisez pour vous connecter au CAS ou à l’ENT."
-      },
-      {
-        "paragraphe": "- Saisissez votre mot de passe que vous utilisez pour l’ENT"
-      },
-      {
-        "paragraphe": "- Cliquer sur le bouton « Connexion »"
-      },
-      {
-        "soustitre": "Vous aurez accès en ligne à :"
-      },
-      {
-        "paragraphe": "Word – Excel – PowerPoint – OneNote- SharePoint – Teams – Sway – Form – Whiteboard – Video»"
-      }
-    ],
-
-    [
-      {
-        "titre": "Découvrir Office 365"
-      },
-
-      {
-        "video": "video_connexion_office_365.mp4"
+        "lien": {
+          "texte": "Connexion à Microsoft 365",
+          "url": "https://wiki.unimes.fr/doku.php?id=wiki:postedetravail:accueil:microsoft365"
+        }
       }
     ],
     [
