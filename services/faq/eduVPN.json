@@ -9,11 +9,11 @@
       "contenu": [
         {
           "profil": "",
-          "paragraphe": "Vous utilisez un ordinateur sous Windows : Ouvrez l'application Portail d'entreprise pour effectuer l'installation"
+          "paragraphe": "Vous utilisez un ordinateur sous Windows : Ouvrez l'application Portail d'entreprise puis sélectionnez eduVPN pour effectuer l'installation."
         },
         {
           "profil": "",
-          "paragraphe": "Vous utilisez un ordinateur sous macOS X : Ouvrez l'application Self Service pour effectuer l'installation"
+          "paragraphe": "Vous utilisez un ordinateur sous macOS X : Ouvrez l'application Self Service puis sélectionnez eduVPN pour effectuer l'installation."
         }
       ]
     },
