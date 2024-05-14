@@ -1,1 +1,23 @@
 
+{
+  "profil": "",
+  "titre": "J'ai un autre problème",
+  "FaqParents": ["01", "02", "", "", ""],
+
+  "sousArticle": [
+    {
+      "titre": "J'ai un autre problème",
+      "contenu": [
+        {
+          "profil": "",
+          "paragraphe": "Vous ne trouvez pas votre problème dans la page d'assistance, ouvrez une demande d'assistance auprès de la DSI : ",
+          "lien": {
+            "texte": "Demande d'assistance informatique",
+            "url": "https://glpi.unimes.fr/front/helpdesk.public.php?create_ticket=1"
+          }
+        }
+      ]
+    }
+  ]
+}
+
