@@ -6,10 +6,10 @@
 
   "sousArticle": [
     {
+      "titre": "je ne trouve pas de solution à mon problème",
       "contenu": [
         {
           "profil": "",
-          "titre": "je ne trouve pas de solution à mon problème",
           "paragraphe": "Vous ne trouvez pas votre problème dans la page d'assistance, ouvrez un incident auprès de la DSI : ",
           "lien": {
             "texte": "Demande d'assistance informatique",
