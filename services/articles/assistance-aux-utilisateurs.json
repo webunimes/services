@@ -9,15 +9,17 @@
         "titre": "Présentation du du service"
       },
       {
-        "gras": "Horaires: 7h45-18h00 les jours ouvrés."
+        "paragraphe": "L'assistance aux utilisateurs est disponible aux personnels de l'Université. Cette assistance couvre l'ensemble des outils proposés par la DSI et répertorié dans ce catalogue des services numériques."
       },
       {
-        "paragraphe": "Chaque utilisateur des services proposés peut contacter le support informatique."
+        "paragraphe": "Le personnel de la DSI intervient seulement pour les matériels de l'Université."
+      },
+      {
+        "gras": "Horaires: 7h45-18h00 les jours ouvrés."
       },
       {
         "soustitre": "Contacter le support informatique"
       },
-
       {
         "lien": {
           "texte": "Créer un ticket",
@@ -36,17 +38,16 @@
         "soustitre": "Réactivité"
       },
       {
-        "paragraphe": "Prise en compte de votre besoin par les équipes compétentes dans les 2 heures"
+        "paragraphe": "Prise en compte de votre besoin par les équipes compétentes dans les 2 heures."
       },
       {
-        "paragraphe": "Escalades vers les équipes techniques pour des demandes plus complexes"
+        "paragraphe": "Escalades vers les équipes techniques pour des demandes plus complexes."
       },
-
       {
         "soustitre": "Démarche qualité"
       },
       {
-        "paragraphe": "Une démarche qualité d’amélioration continue et des enquêtes de satisfaction liées à nos interventions"
+        "paragraphe": "Une démarche qualité d’amélioration continue."
       },
       {
         "paragraphe": "Un suivi individualisé de vos demandes"
