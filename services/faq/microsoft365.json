@@ -22,7 +22,7 @@
           "lien": {
             "texte": "Changement de mot de passe",
             "url": "https://wiki.unimes.fr/doku.php?id=wiki:compte:changepwd"
-          },
+          }
           "lien": {
             "texte": "Mot de passe perdu",
             "url": "https://wiki.unimes.fr/doku.php?id=wiki:compte:pertemotdepasse"
