@@ -1,5 +1,5 @@
 {
-  "titre": "One Drive",
+  "titre": "Microsoft OneDrive",
   "categorieParent": "Poste de travail",
   "profil": "",
   "motCles": ["drive", "one", "stockage", "cloud", "fichiers"],
@@ -9,16 +9,16 @@
         "titre": "Présentation du service"
       },
       {
-        "paragraphe": "OneDrive vous permet de stocker vos documents de travail en toute sécurité et les partager à qui vous voulez."
+        "paragraphe": "OneDrive permet de stocker les documents de travail en toute sécurité."
       },
       {
-        "paragraphe": "OneDrive est disponible avec Microsoft Office 365 (mais peut également être utilisé de manière indépendante)."
+        "paragraphe": "OneDrive est disponible avec Microsoft Office 365, mais peut également être utilisé de manière indépendante."
       },
       {
-        "paragraphe": "Cet espace de stockage dans le Cloud vous garantit de retrouver vos documents n’importe où dans le monde et quand vous le souhaitez. Ce service comparable à Dropbox ou à Google Drive est disponible à travers d’un navigateur web, d’un ordinateur ou d’un smartphone."
+        "paragraphe": "Cet espace de stockage dans le Cloud permet d'accéder à ses documents n’importe où dans le monde et quand on le souhaite. Ce service comparable à Dropbox ou à Google Drive est disponible via un navigateur web, un ordinateur ou un smartphone."
       },
       {
-        "paragraphe": "Vous disposez d’un espace de stockage de 1 To."
+        "paragraphe": "L'espace de stockage est de 1 To."
       },
       {
         "lien": {
