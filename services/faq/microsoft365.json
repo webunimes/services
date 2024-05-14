@@ -18,11 +18,7 @@
       "contenu": [
         {
           "profil": "",
-          "paragraphe": "Les comptes Microsoft 365 sont synchronisés avec les identifiants utilisés à l’université. Vous ne devez donc pas utiliser la procédure de rappel de mot de passe proposée par Microsoft mais suivre une des procédures suivantes en fonction de votre cas : ",
-          "lien": {
-            "texte": "Changement de mot de passe",
-            "url": "https://wiki.unimes.fr/doku.php?id=wiki:compte:changepwd"
-          }
+          "paragraphe": "Les comptes Microsoft 365 sont synchronisés avec les identifiants utilisés à l’université. Vous ne devez donc pas utiliser la procédure de rappel de mot de passe proposée par Microsoft mais suivre la procédure suivante pour ré-initialiser votre mot de passe :",
           "lien": {
             "texte": "Mot de passe perdu",
             "url": "https://wiki.unimes.fr/doku.php?id=wiki:compte:pertemotdepasse"
