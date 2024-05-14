@@ -25,6 +25,19 @@
           }
         }
       ]
+    },
+    {
+      "titre": "Je veux changer mon mot de passe, que dois-je faire ?",
+      "contenu": [
+        {
+          "profil": "",
+          "paragraphe": "Les comptes Microsoft 365 sont synchronisés avec les identifiants utilisés à l’université. Vous ne devez donc pas utiliser la procédure de rappel de mot de passe proposée par Microsoft mais suivre la procédure suivante pour modifier votre mot de passe :",
+          "lien": {
+            "texte": "Changement du mot de passe",
+            "url": "https://wiki.unimes.fr/doku.php?id=wiki:compte:changepwd"
+          }
+        }
+      ]
     }
   ]
 }
