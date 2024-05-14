@@ -23,7 +23,7 @@
         {
           "profil": "",
           "paragraphe": "Téléchargez et suivez la procédure de configuration du client eduVPN sous le lien suivant :",
-          "lienDoc": {
+          "lien": {
             "texte": "Procédure de configuration eduVPN",
             "url": "https://wiki.unimes.fr/doku.php?id=wiki:postedetravail:vpn"
           }
@@ -32,4 +32,3 @@
     }
   ]
 }
-
