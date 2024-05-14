@@ -1,1 +1,47 @@
+{
+  "profil": "",
+  "titre": "Mot de passe",
+  "FaqParents": ["01", "02", "", "", ""],
 
+  "sousArticle": [
+    {
+      "titre": "Le mot de passe",
+      "contenu": [
+        {
+          "profil": "",
+          "paragraphe": "Votre mot de passe est commun à tous les services informtiques founis par la DSI. Lorsque vous le modifiez, il se met automatiquement à jour sur tous les outils : l'ENT, le Wifi, Microsoft 365, etc.",
+          "lien": {
+            "texte": "Mot de passe perdu",
+            "url": "https://wiki.unimes.fr/doku.php?id=wiki:compte:motdepasseaquoicasert"
+          }
+        }
+      ]
+    },
+    {
+      "titre": "J’ai perdu mon mot de passe, que dois-je faire ?",
+      "contenu": [
+        {
+          "profil": "",
+          "paragraphe": "Suivez la procédure suivante pour générer un nouveau mot de passe :",
+          "lien": {
+            "texte": "Réinitialisation du mot de passe",
+            "url": "https://wiki.unimes.fr/doku.php?id=wiki:compte:pertemotdepasse"
+          }
+        }
+      ]
+    },
+    {
+      "titre": "Je veux changer mon mot de passe, que dois-je faire ?",
+      "contenu": [
+        {
+          "profil": "",
+          "paragraphe": "Suivre la procédure suivante pour changer votre mot de passe :",
+          "lien": {
+            "texte": "Changement du mot de passe",
+            "url": "https://wiki.unimes.fr/doku.php?id=wiki:compte:changepwd"
+          }
+        }
+      ]
+    }
+  ]
+}
