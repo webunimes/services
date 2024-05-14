@@ -39,9 +39,11 @@
       },
       {
         "quote": "La sauvegarde est sécurisée et adaptée au travail à distance, elle fonctionne également depuis l’extérieur de l’Université."
-      },
+      }
+    ],
+    [
       {
-        "soustitre": "Accès au service"
+        "titre": "Accès au service"
       },
       {
         "paragraphe": "Si vous souhaitez sauvegarder vos données avec cette solution, vous pouvez l’installer depuis :"
@@ -53,7 +55,7 @@
         "paragraphe": "- l’application « Self Service » pour les utilisateurs de postes macOS X."
       },
       {
-        "paragraphe": "Retrouvez toutes les informations sur la solution en cliquant sur le lien suivant :"
+        "paragraphe": "Retrouvez toutes les informations en cliquant sur le lien suivant :"
       },
       {
         "lien": {
@@ -61,9 +63,7 @@
 
           "url": "https://wiki.unimes.fr/doku.php?id=wiki:postedetravail:lina"
         }
-      },
-
-    
+      }
     ]
   ]
 }
