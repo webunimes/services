@@ -8,31 +8,34 @@
   "sections": [
     [
       {
-        "titre": "Présentation du service de sauvegarde des données utilisateurs"
+        "titre": "Présentation du service de sauvegarde des données"
       },
       {
         "image": "AtempoLina.jpg"
       },
       {
-        "paragraphe": "Sauvegarde des données utilisateurs des postes fixes et portables. La seule solution fiable contre une panne, le vol, le cybercrime, la perte ou la corruption de données."
+        "paragraphe": "La sauvegarde des données utilisateurs des postes fixes et portables est la seule solution fiable contre une panne, le vol, le cybercrime, la perte ou la corruption de données."
       },
       {
         "soustitre": "Fonctionnement"
       },
       {
-        "paragraphe": "L’Université de Nîmes a mis en place le logiciel Atempo Lina pour sauvegarder les données professionnelles des ordinateurs portables des enseignants et administratifs, ainsi que certains postes fixes."
+        "paragraphe": "L’Université de Nîmes a mis en place le logiciel Atempo Lina. C'est une solution de sauvegarde et de restauration de données pour les postes fixes et portables."
       },
       {
-        "paragraphe": "La sauvegarde se fait au fil de l’eau, en tache de fond."
+        "paragraphe": "Voici quelques points clés à son sujet :"
       },
       {
-        "paragraphe": "La première sauvegarde est complète, ce qui peut être plus ou moins long en fonction du volume à protéger. Ensuite une sauvegarde des fichiers modifiés sur l’ordinateur est automatique toutes les 5 minutes."
+        "paragraphe": "Protection Continue : Lina sauvegarde en continu les fichiers créés ou modifiés, sans fenêtres de sauvegarde incontrôlables."
       },
       {
-        "paragraphe": "La période de rétention des données est fixée à 30 jours."
+        "paragraphe": "Restauration Facile : Vous pouvez restaurer vos données sauvegardées depuis n’importe où via un navigateur sécurisé."
       },
       {
-        "paragraphe": "Dans le cas d’une réinstallation ou d’un échange du poste mis à votre disposition, la DSIUN s’appuiera sur les données sauvegardées. Elles doivent donc être à jour."
+        "paragraphe": "Autonomie des Utilisateurs : Vos utilisateurs peuvent restaurer leurs propres données sans assistance."
+      },
+      {
+        "paragraphe": "Protection Transparente : Lina offre une sauvegarde rapide et granulaire avec peu d’impact sur l’utilisateur."
       },
       {
         "quote": "La sauvegarde est sécurisée et adaptée au travail à distance, elle fonctionne également depuis l’extérieur de l’Université."
