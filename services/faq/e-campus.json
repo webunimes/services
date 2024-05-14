@@ -9,12 +9,11 @@
       "titre": "Vous rencontrez un problème ou avez une question concernant e-campus ?",
       "contenu": [
         {
-          "paragraphe": "Ce service est géré par le SNAP, accédez directement à la foire aux questions et au support d'e-campus avec le lien ci-dessous :",
+          "paragraphe": "Ce service est géré par le SNAP, accédez directement à la foire aux questions et au support d'e-campus avec le lien ci-dessous. L'inscription est nécessaire lors du premier accès.",
           "lien": {
             "texte": "Consulter la FAQ e-campus",
             "url": "https://ecampus.unimes.fr/mod/page/view.php?id=30596"
-          },
-          "paragraphe": "L'inscription est necaissère lors du premier accès."
+          }
         }
       ]
     },
