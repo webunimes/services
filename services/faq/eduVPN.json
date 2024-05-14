@@ -9,13 +9,12 @@
       "contenu": [
         {
           "profil": "",
-          "paragraphe": "Vous utilisez un ordinateur sous Windows :"
+          "paragraphe": "Vous utilisez un ordinateur sous Windows : Ouvrez l'application "portail d'entreprise" pour effectuer l'installation"
         },
         {
           "profil": "",
-          "paragraphe": "Vous utilisez un ordinateur sous macOS X :"
+          "paragraphe": "Vous utilisez un ordinateur sous macOS X : Ouvrez l'application "Self Service" pour effectuer l'installation"
         }
-
       ]
     },
     {
@@ -23,10 +22,10 @@
       "contenu": [
         {
           "profil": "",
-          "paragraphe": "Téléchargez et suivez la procédure de configuration du client eduVPN ci-dessous.",
+          "paragraphe": "Téléchargez et suivez la procédure de configuration du client eduVPN sous le lien suivant :",
           "lienDoc": {
             "texte": "Procédure de configuration eduVPN",
-            "url": "ProcedureConnexionEduvpn.pdf"
+            "url": "https://wiki.unimes.fr/doku.php?id=wiki:postedetravail:vpn"
           }
         }
       ]
