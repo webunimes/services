@@ -6,26 +6,19 @@
   "sousArticle": [
     {
       "profil": "2-3",
-      "titre": "Comment activer le mode édition ?",
+      "titre": "Vous rencontrez un problème ou avez une question concernant e-campus ?",
       "contenu": [
         {
-          "paragraphe": "Activer le mode édition dans un espace de cours permet d’ajouter des ressources, de les supprimer, de les déplacer…",
-          "paragraphe": "Activer le « Mode d’édition » en cliquant sur cette icône, présente en haut à droite de votre écran",
-          "image": "FAQ2-1.jpg"
-        }
-      ]
-    },
-
-    {
-      "profil": "2-3",
-      "titre": "Comment créer un espace de cours ?",
-      "contenu": [
-        {
-          "paragraphe": "Pour créer un espace de cours, cliquer sur «Tableau de bord» puis sur la carte «Création de cours». La page s’affiche.",
-
+          "paragraphe": "Ce service est géré par le SNAP, accédez directement à la foire aux questions et au support d'e-campus avec le lien ci-dessous :",
           "lien": {
             "texte": "Consulter la procédure sur e-campus",
             "url": "https://ecampus.unimes.fr/mod/page/view.php?id=30596"
+          },
+                {
+          "paragraphe": "En savoir plus sur le SNAP :",
+          "lien": {
+            "texte": "Consulter le site du SNAP",
+            "url": "https://snap.unimes.fr/"
           }
         }
       ]
