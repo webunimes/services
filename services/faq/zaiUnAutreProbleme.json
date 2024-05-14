@@ -6,13 +6,12 @@
 
   "sousArticle": [
     {
-      "titre": "je ne trouve pas de solution à mon problème",
+      "titre": "je ne trouve pas de solution à mon problème dans la page d'assistance",
       "contenu": [
         {
           "profil": "",
-          "paragraphe": "Vous ne trouvez pas votre problème dans la page d'assistance, ouvrez un incident auprès de la DSI : ",
-          "lien": {
-            "texte": "Demande d'assistance informatique",
+            "lien": {
+            "texte": "Demande d'assistance informatique auprès de la DSI",
             "url": "https://glpi.unimes.fr/front/helpdesk.public.php?create_ticket=1"
           }
         }
