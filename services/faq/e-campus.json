@@ -11,15 +11,21 @@
         {
           "paragraphe": "Ce service est géré par le SNAP, accédez directement à la foire aux questions et au support d'e-campus avec le lien ci-dessous :",
           "lien": {
-            "texte": "Consulter la procédure sur e-campus",
+            "texte": "Consulter la FAQ e-campus",
             "url": "https://ecampus.unimes.fr/mod/page/view.php?id=30596"
           }
-        },
-                {
-          "paragraphe": "En savoir plus sur le SNAP :",
+        }
+      ]
+    },
+    {
+      "profil": "2-3",
+      "titre": "En savoir plus sur le SNAP ?",
+      "contenu": [
+        {
+          "paragraphe": "Accéder au site du Service Numérique & Accompagnement Pédagogique :",
           "lien": {
-            "texte": "Consulter le site du SNAP",
-            "url": "https://snap.unimes.fr/"
+            "texte": "Site du SNAP",
+            "url": "https://ecampus.unimes.fr/mod/page/view.php?id=30596"
           }
         }
       ]
