@@ -33,5 +33,10 @@
     "texte": "J'ai besoin d'information sur ma carte multiservice",
     "profil": "",
     "id": "07"
+  },
+  {
+    "texte": "J'ai besoin d'une suite bureautique",
+    "profil": "",
+    "id": "08"
   }
 ]
