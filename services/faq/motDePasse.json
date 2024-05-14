@@ -22,7 +22,6 @@
       "contenu": [
         {
           "profil": "",
-          "paragraphe": "Suivez la procédure suivante pour générer un nouveau mot de passe :",
           "lien": {
             "texte": "Réinitialisation du mot de passe",
             "url": "https://wiki.unimes.fr/doku.php?id=wiki:compte:pertemotdepasse"
@@ -35,7 +34,6 @@
       "contenu": [
         {
           "profil": "",
-          "paragraphe": "Suivre la procédure suivante pour changer votre mot de passe :",
           "lien": {
             "texte": "Changement du mot de passe",
             "url": "https://wiki.unimes.fr/doku.php?id=wiki:compte:changepwd"
