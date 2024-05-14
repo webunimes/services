@@ -1,0 +1,34 @@
+{
+  "profil": "",
+  "titre": "Microsoft 365",
+  "FaqParents": ["01", "02", "", "", ""],
+
+  "sousArticle": [
+    {
+      "titre": "Accéder au service Microsoft 365",
+      "contenu": [
+        {
+          "profil": "",
+          "paragraphe": "Veuillez utiliser l’identifiant Microsoft Office associé à votre compte institutionnel. Cet identifiant est de la forme pnom@office.unimes.fr (veuillez à ne pas oublier l’extension @office.unimes.fr) où « pnom » doit être remplacé par l’identifiant Unîmes."
+        }
+      ]
+    },
+    {
+      "titre": "J’ai perdu mon mot de passe, que dois-je faire ?",
+      "contenu": [
+        {
+          "profil": "",
+          "paragraphe": "Les comptes Microsoft 365 sont synchronisés avec les identifiants utilisés à l’université. Vous ne devez donc pas utiliser la procédure de rappel de mot de passe proposée par Microsoft mais suivre la procédure indiquée sur le lien suivant : ",
+          "lien": {
+            "texte": "Changement de mot de passe",
+            "url": "https://wiki.unimes.fr/doku.php?id=wiki:compte:changepwd"
+          },
+          "lien": {
+            "texte": "Mot de passe perdu",
+            "url": "https://wiki.unimes.fr/doku.php?id=wiki:compte:pertemotdepasse"
+          }
+        }
+      ]
+    }
+  ]
+}
