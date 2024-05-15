@@ -10,19 +10,19 @@
       "contenu": [
        {
           "profil": "",
-          "paragraphe": "Veuillez utiliser l’identifiant Microsoft Office associé à votre compte institutionnel. Cet identifiant est de la forme : pnom@office.unimes.fr (veuillez à ne pas oublier l’extension @office.unimes.fr) où « pnom » doit être remplacé par l’identifiant Unîmes.",
+          "paragraphe": "Veuillez utiliser l’identifiant Microsoft Office associé à votre compte institutionnel. Cet identifiant est de la forme : pnom@office.unimes.fr (veuillez à ne pas oublier l’extension @office.unimes.fr) où « pnom » doit être remplacé par l’identifiant Unîmes."
        },
        {
           "profil": "",
-          "paragraphe": "pnom@office.unimes.fr",
+          "paragraphe": "pnom@office.unimes.fr"
        },
       {
           "profil": "",
-          "paragraphe": "Attention à bien saisir l’extension @office.unimes.fr. « pnom » doit être remplacé par l’identifiant Unîmes.",
+          "paragraphe": "Attention à bien saisir l’extension @office.unimes.fr. « pnom » doit être remplacé par l’identifiant Unîmes."
        },
       {
           "profil": "",
-          "paragraphe": "Votre idenfiant Microsoft 365 est indiqué sur votre certificat de scolarité :",
+          "paragraphe": "Votre idenfiant Microsoft 365 est indiqué sur votre certificat de scolarité :"
           "image": "faq_M365_login.png"
        }
       ]
