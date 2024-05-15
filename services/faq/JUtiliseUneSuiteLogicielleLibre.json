@@ -1,0 +1,20 @@
+{
+  "profil": "",
+  "titre": "J'utilise une suite logicielle libre",
+  "FaqParents": ["08"],
+  "sousArticle": [
+      {
+      "profil": "",
+      "titre": "J'utilise LibreOffice",
+      "contenu": [
+      {
+          "lien": {
+            "texte": "Je télécharge LibreOffice",
+            "url": "https://fr.libreoffice.org/download/telecharger-libreoffice/"
+                  }
+      }
+      ]
+    
+}
+]
+}
