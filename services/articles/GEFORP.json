@@ -10,7 +10,7 @@
       },
 
       {
-        "titre": ""
+        "titre": "Présentation"
       },
       {
         "paragraphe": "GEFORP est une plateforme de gestion de l’offre de formation. Elle permet aux agents de l’établissement de s’inscrire en ligne aux sessions de formation proposées par la DRH."
@@ -37,13 +37,13 @@
         "image": ""
       },
       {
-        "video": ""
+        "titre": "L'essentiel à savoir"
       },
       {
         "lien": {
-          "texte": "",
+          "texte": "Accès au service",
 
-          "url": ""
+          "url": "https://geforp.unimes.fr/"
         }
       },
       {
