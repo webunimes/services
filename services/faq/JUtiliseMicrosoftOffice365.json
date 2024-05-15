@@ -1,7 +1,7 @@
 {
   "profil": "",
   "titre": "J'utilise Microsoft Office 365",
-  "FaqParents": ["08", "", "", "", ""],
+  "FaqParents": ["08"],
   "sousArticle": [
       {
       "profil": "",
@@ -11,7 +11,7 @@
           "paragraphe": "Attention : Vous devez utiliser votre identifiant Microsoft 365 fourni par UnÎmes pour vous connecter."
        },
        {
-          "profil": "2-3",
+          "profil": "",
           "paragraphe": "Vous pouvez télécharger Microsoft Office 365 pour tous vos appareils (jusqu'à 5 licences par types de matériel : ordinateurs, tablettes, smartphones)"
        },
       {
