@@ -9,16 +9,19 @@
       "titre": "Accéder au service Microsoft 365",
       "contenu": [
        {
-          "paragraphe": "Veuillez utiliser l’identifiant Microsoft Office associé à votre compte institutionnel. Cet identifiant est de la forme : pnom@office.unimes.fr (veuillez à ne pas oublier l’extension @office.unimes.fr) où « pnom » doit être remplacé par l’identifiant Unîmes."
+          "paragraphe": "Veuillez utiliser l’identifiant Microsoft Office associé à votre compte institutionnel. Cet identifiant est de la forme :"
        },
        {
           "paragraphe": "pnom@office.unimes.fr"
        },
       {
-          "paragraphe": "Attention à bien saisir l’extension @office.unimes.fr. « pnom » doit être remplacé par l’identifiant Unîmes."
+          "paragraphe": "Attention, remplacez « pnom » par votre identifiant Unîmes et saisissez l’extension @office.unimes.fr ."
        },
       {
-          "paragraphe": "Votre idenfiant Microsoft 365 est indiqué sur votre certificat de scolarité :"
+          "paragraphe": "Pour information, votre idenfiant Microsoft 365 est indiqué sur votre certificat de scolarité :"
+      },
+      {
+          "image": "faq_M365_login.png"
       }
       ]
     },
