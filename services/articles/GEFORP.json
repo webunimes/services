@@ -35,7 +35,9 @@
       },
       {
         "image": ""
-      },
+      }
+    ],
+    [
       {
         "titre": "L'essentiel à savoir"
       },
@@ -44,56 +46,6 @@
           "texte": "Accès au service",
 
           "url": "https://geforp.unimes.fr/"
-        }
-      },
-      {
-        "lienDoc": {
-          "texte": "",
-
-          "url": ""
-        }
-      }
-    ],
-    [
-      {
-        "profil": ""
-      },
-
-      {
-        "titre": ""
-      },
-      {
-        "paragraphe": ""
-      },
-      {
-        "soustitre": ""
-      },
-      {
-        "paragraphe": ""
-      },
-      {
-        "souligne": ""
-      },
-      {
-        "italique": ""
-      },
-      {
-        "gras": ""
-      },
-      {
-        "quote": ""
-      },
-      {
-        "image": ""
-      },
-      {
-        "video": ""
-      },
-      {
-        "lien": {
-          "texte": "",
-
-          "url": ""
         }
       },
       {
