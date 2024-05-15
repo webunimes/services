@@ -1,7 +1,31 @@
-Attention : Vous devez utiliser votre identifiant Microsoft 365 fournis par UnÎmes pour vous connecter.
-
-Vous pouvez télécharger Office 365 pour tous vos appareils (jusqu'à 5 licences par types de matériel : ordinateurs, tablettes, smartphones)
-
-Vous pouvez télécharger Office 365 pour tous vos appareils personnels (jusqu'à 5 licences par types de matériel : ordinateurs, tablettes, smartphones)
-
-Je télécharge Office 365
+{
+  "profil": "",
+  "titre": "J'utilise Microsoft Office 365",
+  "FaqParents": ["08", "", "", "", ""],
+  "sousArticle": [
+      {
+      "profil": "",
+      "titre": "Microsoft Office 365",
+      "contenu": [
+       {
+          "paragraphe": "Attention : Vous devez utiliser votre identifiant Microsoft 365 fournis par UnÎmes pour vous connecter."
+       },
+       {
+          "profil": "2-3",
+          "paragraphe": "Vous pouvez télécharger Office 365 pour tous vos appareils (jusqu'à 5 licences par types de matériel : ordinateurs, tablettes, smartphones)"
+       },
+      {
+          "profil": "1",
+          "paragraphe": "Vous pouvez télécharger Office 365 pour tous vos appareils personnels (jusqu'à 5 licences par types de matériel : ordinateurs, tablettes, smartphones)"
+       },
+      {
+          "lien": {
+            "texte": "Je télécharge Office 365",
+            "url": "https://wiki.unimes.fr/doku.php?id=wiki:postedetravail:microsoft365"
+                  }
+      }
+      ]
+    
+}
+]
+}
