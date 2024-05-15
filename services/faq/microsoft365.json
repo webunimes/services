@@ -4,17 +4,27 @@
   "FaqParents": ["01", "02", "", "", ""],
 
   "sousArticle": [
-    {
+      {
+      "profil": "",
       "titre": "Accéder au service Microsoft 365",
       "contenu": [
-        {
+       {
           "profil": "",
           "paragraphe": "Veuillez utiliser l’identifiant Microsoft Office associé à votre compte institutionnel. Cet identifiant est de la forme : pnom@office.unimes.fr (veuillez à ne pas oublier l’extension @office.unimes.fr) où « pnom » doit être remplacé par l’identifiant Unîmes.",
+       },
+       {
+          "profil": "",
           "paragraphe": "pnom@office.unimes.fr",
+       },
+      {
+          "profil": "",
           "paragraphe": "Attention à bien saisir l’extension @office.unimes.fr. « pnom » doit être remplacé par l’identifiant Unîmes.",
-          "paragraphe": "Votre idenfiant Microsoft 365 est indiqué sur votre certificat de scolarité :"
-  
-        }
+       },
+      {
+          "profil": "",
+          "paragraphe": "Votre idenfiant Microsoft 365 est indiqué sur votre certificat de scolarité :",
+          "image": ""
+       }
       ]
     },
     {
