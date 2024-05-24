@@ -1,5 +1,5 @@
 {
-  "titre": "Esup-sport",
+  "titre": "Esup Sport",
   "categorieParent": "vie de campus",
   "profil": "",
   "motCles": ["", "", "", "","", ""],
@@ -10,99 +10,28 @@
       },
 
       {
-        "titre": ""
+        "titre": "Présentation du service"
       },
       {
-        "paragraphe": ""
-      },
-      {
-        "soustitre": ""
-      },
-      {
-        "paragraphe": ""
-      },
-      {
-        "souligne": ""
-      },
-      {
-        "italique": ""
-      },
-      {
-        "gras": ""
-      },
-      {
-        "quote": ""
-      },
-      {
-        "image": ""
-      },
-      {
-        "video": ""
-      },
-      {
-        "lien": {
-          "texte": "",
-
-          "url": ""
-        }
-      },
-      {
-        "lienDoc": {
-          "texte": "",
-
-          "url": ""
-        }
+        "paragraphe": "L'application Esup Sport permet aux étudiants et aux personnels de s'inscrire très facilement aux activités et aux évènements sportifs que propose une université. La simplification maximale du service pour les usagers est obtenue par un back office puissant permettant aux gestionnaires d'activités sportives de faire une description fine de chacune des activités ou des évènements d'un point de vue du contenu, des modalités, du calendrier et des tarifs."
       }
     ],
-    [
+[
       {
-        "profil": ""
+        "titre": "Modalités d'accès"
       },
 
       {
-        "titre": ""
-      },
-      {
-        "paragraphe": ""
-      },
-      {
-        "soustitre": ""
-      },
-      {
-        "paragraphe": ""
-      },
-      {
-        "souligne": ""
-      },
-      {
-        "italique": ""
-      },
-      {
-        "gras": ""
-      },
-      {
-        "quote": ""
-      },
-      {
-        "image": ""
-      },
-      {
-        "video": ""
-      },
-      {
-        "lien": {
-          "texte": "",
-
-          "url": ""
-        }
+        "paragraphe": "L'accès est proposée aux personnels, étudiants et exterieurs partenaires."
       },
       {
         "lienDoc": {
-          "texte": "",
+          "texte": "Accéder à Esup Sport",
 
-          "url": ""
+          "url": "https://sport.unimes.fr"
         }
       }
-    ]
+    ]		
+	
   ]
 }
