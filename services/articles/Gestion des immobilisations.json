@@ -1,0 +1,40 @@
+{
+    "titre": "Gestion des immobilisations",
+    "categorieParent": "Finance & Patrimoine",
+    "profil": "3",
+    "motCles": ["outil", "financier", "Patrimoine", "immobilisations", ""],
+    "sections": [
+        [
+            {
+                "titre": "Présentation du service"
+            },
+            {
+                "paragraphe": "NEPTUNE Immobilisations est une solution de gestion du patrimoine immobilisé et de l'inventaire physique du patrimoine. Cette application est particulièrement adaptée à la gestion du patrimoine immobilisé des EPSCP et des dispositifs d'investissements d'avenir. Elle est interopérable avec la suite Cocktail."
+            },
+			
+			 {
+        "video": "https://www.youtube.com/watch?v=Heq1I7SQfSU"
+      }
+			
+			
+			
+        ],
+ [
+      {
+        "titre": "Modalités d'accès"
+      },
+
+      {
+        "paragraphe": ""
+      },
+      {
+        "lienDoc": {
+          "texte": "Accéder à Neptune",
+
+          "url": "https://neptune.unimes.fr"
+        }
+      }
+    ]		
+		
+    ]
+}
