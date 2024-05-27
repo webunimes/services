@@ -39,7 +39,7 @@
       },
 
       {
-        "paragraphe": "- Click 2 Call via un outil installé sur l’ordinateur."
+        "paragraphe": "- Click 2 Call via un outil installé sur l’ordinateur : Micollab."
       },
       {
         "paragraphe": "- Interception d’appels."
@@ -111,29 +111,6 @@
           "url": "https://glpi.unimes.fr/front/helpdesk.public.php"
         }
       },
-      {
-        "soustitre": "Micollab sur Smartphone (Android et Apple)"
-      },
-
-      {
-        "paragraphe": "L’application Micollab sur smartphone peut-être installée dans certains cas tels que le télétravail par exemple."
-      },
-
-      {
-        "paragraphe": "Elle propose les mêmes services que l’application sur ordinateur mais permet également de recevoir les appels du téléphone fixe sur le smartphone. De plus elle permet de téléphoner depuis l’application en se faisant passer pour le téléphone fixe. L’interlocuteur verra donc le numéro du téléphone fixe au lieu du numéro du téléphone mobile."
-      },
-
-      {
-        "lien": {
-          "texte": "Faire une demande",
-
-          "url": "https://glpi.unimes.fr/front/helpdesk.public.php"
-        }
-      },
-
-      {
-        "image": "micollab-android.jpg"
-      }
     ]
   ]
 }
