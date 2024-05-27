@@ -28,13 +28,16 @@
         "paragraphe": "i-parapheur est un outil spécialement conçu pour les organisations publiques. Il permet la validation et la signature électronique de documents numériques. C'est l'outil qui est utilisé à l'Université de Nîmes."
       },
       {
+        "image":"iparapheur.png"
+      },
+      {
         "soustitre": "Comment demander l'accès à i-parapheur ?"
       },
         {
         "lien": {
           "texte": "Faire une demande",
 
-          "url": "https://glpi.unimes.fr"
+          "url": "https://glpi.unimes.fr/front/helpdesk.public.php"
         }
       }
     ],
