@@ -40,56 +40,6 @@
           "url": "https://glpi.unimes.fr/front/helpdesk.public.php"
         }
       }
-    ],
-    [
-      {
-        "profil": ""
-      },
-
-      {
-        "titre": ""
-      },
-      {
-        "paragraphe": ""
-      },
-      {
-        "soustitre": ""
-      },
-      {
-        "paragraphe": ""
-      },
-      {
-        "souligne": ""
-      },
-      {
-        "italique": ""
-      },
-      {
-        "gras": ""
-      },
-      {
-        "quote": ""
-      },
-      {
-        "image": ""
-      },
-      {
-        "video": ""
-      },
-      {
-        "lien": {
-          "texte": "",
-
-          "url": ""
-        }
-      },
-      {
-        "lienDoc": {
-          "texte": "",
-
-          "url": ""
-        }
-      }
     ]
   ]
 }
