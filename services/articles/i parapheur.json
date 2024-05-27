@@ -1,8 +1,8 @@
 {
   "titre": "i parapheur",
   "categorieParent": "Demat",
-  "profil": "",
-    "motCles": ["", "", "", "", ""],
+  "profil": "2-3",
+    "motCles": ["parapheur", "i-parapheur", "signature"],
   "sections": [
     [
       {
@@ -10,47 +10,31 @@
       },
 
       {
-        "titre": ""
+        "titre": "I-parapheur"
       },
       {
         "paragraphe": ""
       },
       {
-        "soustitre": ""
+        "soustitre": "Qu'est-ce qu'un parapheur électronique ?"
       },
       {
-        "paragraphe": ""
+        "paragraphe": "Un parapheur électronique est un outil de gestion de documents numériques qui permet de valider et de signer électroniquement des fichiers."
       },
       {
-        "souligne": ""
+        "soustitre": "Qu'est-ce que i-parapheur ?"
       },
       {
-        "italique": ""
+        "paragraphe": "i-parapheur est un outil spécialement conçu pour les organisations publiques. Il permet la validation et la signature électronique de documents numériques. C'est l'outil qui est utilisé à l'Université de Nîmes."
       },
       {
-        "gras": ""
+        "soustitre": "Comment demander l'accès à i-parapheur ?"
       },
-      {
-        "quote": ""
-      },
-      {
-        "image": ""
-      },
-      {
-        "video": ""
-      },
-      {
+        {
         "lien": {
-          "texte": "",
+          "texte": "Faire une demande",
 
-          "url": ""
-        }
-      },
-      {
-        "lienDoc": {
-          "texte": "",
-
-          "url": ""
+          "url": "https://glpi.unimes.fr"
         }
       }
     ],
