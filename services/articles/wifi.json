@@ -22,7 +22,7 @@
           "texte": "Configurer votre accès à Eduroam",
           "url": "https://cat.eduroam.org/"
         }
-      },
+      }
     ],
 
     [
@@ -34,7 +34,7 @@
       },
       {
         "paragraphe": "Les personnes extérieures, ne travaillant pas dans un établissement d’enseignement supérieur et de recherche, peuvent se connecter au réseau UNIMES-INVITES. Elles pourront alors s'inscrire en indiquant leur nom, prénom, adresse mail et numéro de téléphone. Elles devront ensuite indiquer l'adresse mail d'un parrain (une adresse mail d'un personnel de l'université terminant par @unimes.fr) qui pourra ensuite valider l'inscription en cliquant sur le lien reçu par mail." 
-      },
+      }
     ]
   ]
 }
