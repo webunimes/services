@@ -10,10 +10,10 @@
       },
 
       {
-        "titre": ""
+        "titre": "Présentation"
       },
       {
-        "paragraphe": ""
+        "paragraphe": "La gestion du profil permet aux usagers et agents de consulter les données dont l’établissement dispose."
       },
       {
         "soustitre": ""
@@ -60,7 +60,7 @@
       },
 
       {
-        "titre": ""
+        "titre": "Accès au service"
       },
       {
         "paragraphe": ""
@@ -91,9 +91,9 @@
       },
       {
         "lien": {
-          "texte": "",
+          "texte": "Gestion du profil",
 
-          "url": ""
+          "url": "https://applis-web.unimes.fr/cgi-bin/WebObjects/Profiler"
         }
       },
       {
