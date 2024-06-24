@@ -103,20 +103,8 @@
       },
       {
         "paragraphe": "Vous pouvez créer vos web conférence en parfaite autonomie à partir de l’application Rendez-vous de Renater."
-      },
-      {
-        "paragraphe": "Certaines web conférences utilisent un pont Scopia. Pour vérifier que le plug-in Scopia est installé sur votre poste de travail, cliquez sur le lien suivant"
-      },
-      {
-        "lien": {
-          "texte": "Salle de test autonome",
-
-          "url": "https://desktop.visio.renater.fr/scopia/entry/index.jsp?ID=729999***0000&autojoin"
-        }
-      },
-      {
-        "paragraphe": "Si Scopia n’est pas installé sur votre ordinateur, veuillez vous reporter au guide d’installation Scopia téléchargeable dans les 'Documents utiles'."
       }
+      
     ],
     [
       {
@@ -133,16 +121,10 @@
         "lien": {
           "texte": "Formulaire de demande de visioconférence",
 
-          "url": "https://glpi.unimes.fr/plugins/formcreator/front/formdisplay.php?id=1"
+          "url": "https://glpi.unimes.fr/marketplace/formcreator/front/formdisplay.php?id=1"
         }
       },
-      {
-        "lienDoc": {
-          "texte": "Guide d’installation de Scopia",
 
-          "url": "Connexion-sur-la-plateforme-SCOPIA.pdf"
-        }
-      },
       {
         "lienDoc": {
           "texte": "Enregistrer avec OBS",
