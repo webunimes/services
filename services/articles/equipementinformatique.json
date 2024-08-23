@@ -20,7 +20,7 @@
         "titre": "Détail du service"
       },
       {
-        "paragraphe": "Vous trouverre sous ce lien la charte complète concernant la gestion des postes de travail à l'Université." 
+        "paragraphe": "Vous trouverez sous ce lien la charte complète concernant la gestion des postes de travail à l'Université." 
       },
         {
         "lien": {
@@ -35,7 +35,7 @@
         "titre": "Accès au service"
       },
       {
-        "paragraphe": "Vous pouvez effecter une demande d'équipement informtique via le formulaire suivant :" 
+        "paragraphe": "Vous pouvez effecter une demande d'équipement informatique via le formulaire suivant :" 
       },
         {
         "lien": {
@@ -52,7 +52,7 @@
         "titre": "Que se passe-t-il si je quitte l’établissement ?"
       },
       {
-        "paragraphe": "Lorsque vous quittez l’établissement vous devez vous rapprocher de la DSI afin de planifier la restituiton de l'équipement informtique mis à disposition."
+        "paragraphe": "Lorsque vous quittez l’établissement, vous devez restituer le poste informatique à l'établissement. Pour cela, prenez contact avec la DSI afin de planifier la restitution de l'équipement informatique mis à disposition."
       }
     ]
   ]
