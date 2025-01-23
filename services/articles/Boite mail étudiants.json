@@ -2,7 +2,7 @@
   "titre": "Messagerie",
   "categorieParent": "Outils collaboratifs",
   "motCles": ["messagerie", "message", "mail", "email", "e-mail"],
-  "profil": "",
+  "profil": "1",
 
   "sections": [
     [
@@ -10,7 +10,7 @@
         "titre": "Présentation du service"
       },
       {
-        "paragraphe": "L’Université de Nîmes met à disposition des enseignants et des étudiants un espace de messagerie collaborative de 4 Go"
+        "paragraphe": "L’Université de Nîmes met à disposition des étudiants un espace de messagerie collaborative de 4 Go"
       },
       {
         "paragraphe": "Fonctions principales : mail, calendrier :"
