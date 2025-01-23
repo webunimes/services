@@ -1,1 +1,64 @@
+{
+  "titre": "Messagerie",
+  "categorieParent": "Outils collaboratifs",
+  "motCles": ["messagerie", "message", "mail", "email", "e-mail"],
+  "profil": "2-3",
 
+  "sections": [
+    [
+      {
+        "titre": "Présentation du service"
+      },
+      {
+        "paragraphe": "L’Université de Nîmes met à disposition des personnels et enseignants la messagerie collaborative Outlook de Microsoft 365."
+      },
+      {
+        "paragraphe": "Outlook vous permet d'envoyer, de recevoir et d'organiser vos e-mails. Vous pouvez créer des dossiers personnalisés, filtrer les messages et utiliser des règles pour automatiser certaines actions."
+      },
+      {
+        "paragraphe": "Vous pouvez planifier des rendez-vous, des réunions et des événements. Le calendrier d'Outlook vous permet de définir des rappels et de partager votre emploi du temps avec d'autres utilisateurs."
+      },
+      {
+        "paragraphe": "Outlook vous aide à gérer vos contacts en enregistrant les informations de vos correspondants. Vous pouvez créer des groupes de contacts pour faciliter l'envoi de messages à plusieurs personnes."
+      },
+      {
+        "paragraphe": "Vous pouvez créer des listes de tâches, définir des priorités et des dates d'échéance. Les tâches peuvent être associées à des e-mails ou des événements du calendrier."
+      },
+      {
+        "paragraphe": "Outlook permet de prendre des notes rapides que vous pouvez organiser et rechercher facilement."
+      },
+      {
+        "paragraphe": "Outlook s'intègre avec d'autres applications Microsoft comme OneDrive, Teams et SharePoint, facilitant ainsi la collaboration et le partage de fichiers."
+      }
+    ],
+    [
+      {
+        "titre": "Accès au service"
+      },
+      {
+        "paragraphe": "Disponible 24/24, 7 jours sur 7, 365 jours par an."
+      },
+      {
+        "paragraphe": "Vous pouvez y accéder directement depuis votre espace office.com ou en cliquant sur le lien suivant :"
+      },
+      {
+        "lien": {
+          "texte": "Accéder à Outlook",
+
+          "url": "https://outlook.office.com/"
+        }
+      },
+      {
+        "paragraphe": "En cliquant sur le lien suivant, vous trouverez une multidude de procédures, pour vous accompagner dans la prise en main d'Outlook :"
+      },
+
+      {
+        "lien": {
+          "texte": "Configurer Outlook",
+
+          "url": "https://wiki.unimes.fr/doku.php?id=wiki:collaboratifs:outlook"
+        }
+      }
+    ]
+  ]
+}
