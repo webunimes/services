@@ -29,12 +29,33 @@
       },
       {
         "paragraphe": "Aujourd'hui, le MFA est fonctionnel pour le CAS de l'université et Office 365."
-      },
+      }
+    ],
+    [
       {
         "soustitre": "Accès au service"
       },
       {
-        "paragraphe": "L'accès à ce service n'est pas automatisé. Si vous souhaitez faire activer l'authentification multifacteur sur votre compte, effectuez une demande d'assistance."
+        "paragraphe": "La procédure pour le paramétrage de la double authentification Microsoft est accessible sous le lien suivant :"
+      },
+      {
+        "lien": {
+          "texte": "MFA Microsoft",
+          "url": "https://wiki.unimes.fr/doku.php?id=wiki:identitenumerique:mfams"
+        }
+      },
+      {
+        "paragraphe": "La procédure pour le paramétrage de la double authentification sur l'Intranet est accessible sous le lien suivant :"
+      },
+      {
+        "lien": {
+          "texte": "MFA Intranet",
+          "url": "https://wiki.unimes.fr/doku.php?id=wiki:identitenumerique:mfacas"
+        }
+      },
+
+      {
+        "paragraphe": "Si l'authentification multifacteur n'est pas automatisée pour votre service ou faculté, vous pouvez demander l'activation via une demande d'assistance."
       },
       {
         "lien": {
