@@ -1,0 +1,58 @@
+{
+  "titre": "Enquête / sondages",
+
+  "categorieParent": "Outils collaboratifs",
+  "profil": "",
+  "motCles": [
+    "enquêtes",
+    "sondages",
+    "LimeSurvey",
+    "questionnaires",
+    "collaboratif"
+  ],
+  "sections": [
+    [
+      {
+        "titre": "Présentation du service"
+      },
+      {
+        "gras": "Horaires :  8h00-18h00 les jours ouvrés."
+      },
+      {
+        "paragraphe": "L’outil LimeSurvey permet aux utilisateurs de créer et d’exploiter des questionnaires et enquêtes en ligne pouvant interroger un nombre conséquent de participants. Les résultats sont présentés dans un rapport et exportables dans un tableur."
+      }
+    ],
+    [
+      {
+        "titre": "Accès au service"
+      },
+      {
+        "paragraphe": "Le personnel peut accéder au service dans les Outils de l’ENT, en cliquant sur l’application LimeSurvey."
+      },
+
+      {
+        "paragraphe": "Lors d’une première utilisation, il faut demander l’ouverture de droits à la DSIUN."
+      },
+      {
+        "paragraphe": "Cet outil est ouvert à l’ensemble du personnel, et sur demande d’un enseignant pour les étudiants."
+      }
+    ],
+    [
+      {
+        "titre": "Engagements et niveaux de service"
+      },
+      {
+        "soustitre": "Réactivité"
+      },
+      {
+        "paragraphe": "Le service est basé sur un logiciel libre nommé limesurvey pour lequel nous n’avons pas de support. Il est donc possible que certains types de questions complexes rencontrent des problèmes."
+      },
+      {
+        "soustitre": "Démarche qualité"
+      },
+      {
+        "paragraphe": "Les services en recherche de qualité ont accès à des extractions pour inviter les répondants et donc croiser les données."
+      }
+    ]
+  ]
+}

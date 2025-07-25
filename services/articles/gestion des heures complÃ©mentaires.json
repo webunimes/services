@@ -1,0 +1,108 @@
+{
+  "titre": "Gestion des heures complémentaires",
+  "categorieParent": "Demat",
+  "profil": "3",
+    "motCles": ["", "", "", "", ""],
+  "sections": [
+    [
+      {
+        "profil": ""
+      },
+
+      {
+        "titre": "Présentation"
+      },
+      {
+        "paragraphe": "L'application Pèche (ou TRV-Charges d’Enseignement) est un produit qui assure la liaison entre l’offre de formation, les charges d’enseignement, la gestion du potentiel enseignant et le calcul des heures complémentaires d’enseignement associées"
+      },
+      {
+        "soustitre": ""
+      },
+      {
+        "paragraphe": ""
+      },
+      {
+        "souligne": ""
+      },
+      {
+        "italique": ""
+      },
+      {
+        "gras": ""
+      },
+      {
+        "quote": ""
+      },
+      {
+        "image": ""
+      },
+      {
+        "video": ""
+      },
+      {
+        "lien": {
+          "texte": "",
+
+          "url": ""
+        }
+      },
+      {
+        "lienDoc": {
+          "texte": "",
+
+          "url": ""
+        }
+      }
+    ],
+    [
+      {
+        "profil": ""
+      },
+
+      {
+        "titre": "L'essentiel à savoir"
+      },
+      {
+        "paragraphe": ""
+      },
+      {
+        "soustitre": ""
+      },
+      {
+        "paragraphe": ""
+      },
+      {
+        "souligne": ""
+      },
+      {
+        "italique": ""
+      },
+      {
+        "gras": ""
+      },
+      {
+        "quote": ""
+      },
+      {
+        "image": ""
+      },
+      {
+        "video": ""
+      },
+      {
+        "lien": {
+          "texte": "",
+
+          "url": ""
+        }
+      },
+      {
+        "lienDoc": {
+          "texte": "",
+
+          "url": ""
+        }
+      }
+    ]
+  ]
+}

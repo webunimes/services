@@ -1,0 +1,60 @@
+{
+  "titre": "Organisation de réunion",
+  "categorieParent": "Outils collaboratifs",
+  "profil": "",
+  "motCles": ["réunion", "présentiel", "distanciel", "visio", "conférence"],
+  "sections": [
+    [
+      {
+        "titre": "Présentation du service"
+      },
+      {
+        "gras": "Horaires :  8h00-18h00 les jours ouvrés."
+      },
+      {
+        "paragraphe": "Le service d’organisation de réunion est un outil servant à:"
+      },
+      {
+        "paragraphe": "- proposer des dates."
+      },
+      {
+        "paragraphe": "- des lieux."
+      },
+      {
+        "paragraphe": "- des activités."
+      },
+      {
+        "paragraphe": "Afin d’organiser au mieux vos événements en tenant compte des disponibilités de vos invités de façon intuitive."
+      },
+      {
+        "soustitre": "Accès au service"
+      },
+      {
+        "paragraphe": "Vous trouverez le service Evento proposé par Renater dans l’ENT de l’Université."
+      },
+      {
+        "paragraphe": "Vous pouvez vous connecter depuis n’importe quel poste relié à internet."
+      },
+      {
+        "lien": {
+          "texte": "Accéder au service",
+
+          "url": "https://ent.unimes.fr"
+        }
+      },
+      {
+        "lien": {
+          "texte": "Documentation",
+
+          "url": "https://evento.renater.fr/user_guide/index"
+        }
+      },
+      {
+        "soustitre": "Réactivité"
+      },
+      {
+        "paragraphe": "Ce service est hébergé par RENATER ; si toutefois vous rencontrez un problème ou que le service n’est pas disponible, merci de faire une demande d’assistance sur l’ENT."
+      }
+    ]
+  ]
+}
