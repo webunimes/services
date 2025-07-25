@@ -13,7 +13,7 @@
         "gras": "Heures d’ouverture : Lundi à vendredi, de 8h00 à 12h30 et de 13h30 à 17h00."
       },
       {
-        "paragraphe": "Le Pôle Audiovisuel est en charge de l’organisation des visioconférences de l’université de Nîmes."
+        "paragraphe": "Le Pôle Audiovisuel est en charge de l’organisation des visioconférences de Nîmes Université."
       },
       {
         "image": "audiov001.png"
@@ -168,7 +168,7 @@
 
       {
         "lienDoc": {
-          "texte": "Demande de visioconférence par un membre d’un comité de sélection d’UNÎMES",
+          "texte": "Demande de visioconférence par un membre d’un comité de sélection de Nîmes Université",
 
           "url": "Annexe2-CDS_MembresEXT2019.pdf"
         }
@@ -176,7 +176,7 @@
 
       {
         "lienDoc": {
-          "texte": "Demande de visioconférence par un candidat à un poste d’UNÎMES",
+          "texte": "Demande de visioconférence par un candidat à un poste de Nîmes Université",
 
           "url": "Annexe4-CDScandidat2019.pdf"
         }
@@ -184,7 +184,7 @@
 
       {
         "lienDoc": {
-          "texte": "Demande de visioconférence par un personnel d’UNÎMES, membre ou candidat à un comité de sélection extérieur",
+          "texte": "Demande de visioconférence par un personnel de Nîmes Université, membre ou candidat à un comité de sélection extérieur",
 
           "url": "Annexe-COS_Perso_UNIMES2019.pdf"
         }
