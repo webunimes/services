@@ -1,4 +1,4 @@
-# Catalogue & assistance Services Numériques Unîmes
+# Catalogue & assistance Services Numériques Nîmes Université
 
 Notice CATEGORIES:
 
