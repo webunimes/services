@@ -3,29 +3,28 @@
   "titre": "J'utilise Microsoft Office 365",
   "FaqParents": ["08"],
   "sousArticle": [
-      {
+    {
       "profil": "",
       "titre": "Microsoft Office 365",
       "contenu": [
-       {
+        {
           "paragraphe": "Attention : Vous devez utiliser votre adresse mail fourni par Nîmes Université pour vous connecter à Microsoft 365."
-       },
-       {
+        },
+        {
           "profil": "2-3",
           "paragraphe": "Vous pouvez télécharger Microsoft Office 365 pour tous vos appareils (jusqu'à 5 licences par types de matériel : ordinateurs, tablettes, smartphones)."
-       },
-      {
+        },
+        {
           "profil": "1",
           "paragraphe": "Vous pouvez télécharger Microsoft Office 365 pour tous vos appareils personnels (jusqu'à 5 licences par types de matériel : ordinateurs, tablettes, smartphones)."
-       },
-      {
+        },
+        {
           "lien": {
             "texte": "Je télécharge Office 365",
             "url": "https://wiki.unimes.fr/doku.php?id=wiki:postedetravail:microsoft365"
-                  }
-      }
+          }
+        }
       ]
-    
-}
-]
+    }
+  ]
 }
