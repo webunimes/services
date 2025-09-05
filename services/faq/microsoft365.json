@@ -9,16 +9,13 @@
       "titre": "Accéder au service Microsoft 365",
       "contenu": [
        {
-          "paragraphe": "Veuillez utiliser l’identifiant Microsoft Office associé à votre compte institutionnel. Cet identifiant est de la forme :"
+          "paragraphe": "Veuillez utiliser votre adresse mail Nîmes Université pour vous connecter à Microsoft Office. Elle est de la forme :"
        },
        {
-          "paragraphe": "pnom@office.unimes.fr"
+          "paragraphe": "prenom.nom@etudiant.unimes.fr"
        },
       {
-          "paragraphe": "Attention, remplacez « pnom » par votre identifiant Nîmes Université et saisissez l’extension @office.unimes.fr ."
-       },
-      {
-          "paragraphe": "Pour information, votre idenfiant Microsoft 365 est indiqué sur votre certificat de scolarité :"
+          "paragraphe": "Ces informations sont indiqués sur votre certificat de scolarité :"
       },
       {
           "image": "faq_M365_login.jpg"
