@@ -6,7 +6,7 @@
   "sections": [
     [
       {
-        "profil": "2-3"
+        "profil": ""
       },
       {
         "titre": "Présentation du service"
@@ -59,61 +59,6 @@
           "texte": "Configurer Outlook",
 
           "url": "https://wiki.unimes.fr/doku.php?id=wiki:collaboratifs:outlook"
-        }
-      }
-    ],
-     [
-      {
-        "profil": "1"
-      },
-       {
-        "titre": "Présentation du service"
-      },
-      {
-        "paragraphe": "Nîmes Université met à disposition des étudiants un espace de messagerie collaborative de 4 Go"
-      },
-      {
-        "paragraphe": "Fonctions principales : mail, calendrier :"
-      },
-      {
-        "paragraphe": "- Mail , la taille max des mail est de 10Mo"
-      },
-      {
-        "paragraphe": "- Calendrier : Une copie de l’emploi du temps est automatiquement ajoutée"
-      },
-      {
-        "paragraphe": "Fonctions secondaires : Gestion des taches, partage de documents"
-      }
-    ],
-    [
-      {
-        "profil": "1"
-      },
-      {
-        "titre": "Accès au service"
-      },
-      {
-        "paragraphe": "Disponible 24/24, 7 jours sur 7, 365 jours par an, accessible du monde entier."
-      },
-      {
-        "paragraphe": "Vous pouvez y accéder en cliquant sur le lien webmail du site web ou en suivant ce lien"
-      },
-      {
-        "lien": {
-          "texte": "Accéder à Zimbra",
-
-          "url": " https://zimbra.unimes.fr."
-        }
-      },
-      {
-        "paragraphe": "Vous pouvez aussi configurer votre client mail préféré ou votre téléphone en suivant ces explications :"
-      },
-
-      {
-        "lien": {
-          "texte": "Configurer votre client mail",
-
-          "url": "https://wiki.unimes.fr/doku.php?id=wiki:messagerie"
         }
       }
     ]
