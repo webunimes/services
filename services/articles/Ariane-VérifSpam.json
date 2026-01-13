@@ -1,0 +1,75 @@
+{
+  "titre": "le fil d'Ariane - Vérifspam",
+  "categorieParent": "Sécurité",
+  "profil": "",
+  "motCles": [
+    "intelligence",
+    "Artificielle",
+    "spam",
+    "pourriel",
+    "phishing",
+    "protection",
+    "sécurité",
+    "mail",
+    "email",
+    "e-mail",
+    "courriel"
+  ],
+
+  "sections": [
+    [
+      {
+        "profil": ""
+      },
+      {
+        "titre": "le fil d'Ariane - Vérifspam"
+      },
+      {
+        "soustitre": "Analyse et détection des messages suspects"
+      },
+      {
+        "paragraphe": "Pour pouvoir analyser le message, Le fil d'Ariane à besoin que lui fournissiez l’intégralité du contenu : Expéditeur (adresse e-mail complète), Objet du message, Corps du message (texte, liens, pièces jointes mentionnées), Signature (si présente)"
+      },
+      {
+        "paragraphe": "Une fois ces éléments partagés, le fil d'Ariane pourrat : ✅ Identifier s’il s’agit d’un spam ou d’un phishing, ✅ Mettre en évidence les indices concrets (adresse suspecte, ton, liens, etc.), ✅ Expliquer les techniques de manipulation et les biais cognitifs exploités, ✅ Vous donner un score de risque et des recommandations claires"
+      }
+    ],
+
+    [
+      {
+        "profil": "2-3"
+      },
+      {
+        "titre": "Accès au service"
+      },
+      {
+        "paragraphe": "Ce service est disponible pour tous les personnels de l'établissement grâce à leurs identifiants professionnels"
+      },
+
+      {
+        "lien": {
+          "texte": "le fil d'Ariane - Vérifspam",
+          "url": "https://m365.cloud.microsoft:443/chat/?titleId=T_e564c952-8cc1-75de-1f49-134fdccf225f&source=embedded-builder"
+        }
+      }
+    ],
+    [
+      {
+        "profil": "1"
+      },
+      {
+        "titre": "Accès au service"
+      },
+      {
+        "paragraphe": "Ce service est disponible pour tous les étudiants de l'établissement grâce à leurs identifiants professionnels"
+      },
+
+      {
+        "lien": {
+          "texte": "le fil d'Ariane - Vérifspam",
+          "url": "https://m365.cloud.microsoft:443/chat/?titleId=T_e564c952-8cc1-75de-1f49-134fdccf225f&source=embedded-builder"
+        }
+      }
+    ]
+  ]
+}
